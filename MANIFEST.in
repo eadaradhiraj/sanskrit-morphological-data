@@ -1,0 +1,1 @@
+recursive-include skt_morph/json_data *.json
