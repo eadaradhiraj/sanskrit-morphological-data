@@ -1,0 +1,766 @@
+{
+  "dhatu_id": "1.0526",
+  "info": {
+    "dhatu": "SloR"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "SoSloRIti, SoSloRwi",
+      "dvi": "SoSloRwaH",
+      "bahu": "SoSloRati"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "SoSloRIzi, SoSloRzi",
+      "dvi": "SoSloRWaH",
+      "bahu": "SoSloRWa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "SoSloRImi, SoSloRmi",
+      "dvi": "SoSloRvaH",
+      "bahu": "SoSloRmaH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "SoSloRAYcakAra, SoSloRAmAsa, SoSloRAmbaBUva",
+      "dvi": "SoSloRAYcakratuH, SoSloRAmAsatuH, SoSloRAmbaBUvatuH",
+      "bahu": "SoSloRAYcakruH, SoSloRAmAsuH, SoSloRAmbaBUvuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "SoSloRAYcakarTa, SoSloRAmAsiTa, SoSloRAmbaBUviTa",
+      "dvi": "SoSloRAYcakraTuH, SoSloRAmAsaTuH, SoSloRAmbaBUvaTuH",
+      "bahu": "SoSloRAYcakra, SoSloRAmAsa, SoSloRAmbaBUva"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "SoSloRAYcakara, SoSloRAYcakAra, SoSloRAmAsa, SoSloRAmbaBUva",
+      "dvi": "SoSloRAYcakfva, SoSloRAmAsiva, SoSloRAmbaBUviva",
+      "bahu": "SoSloRAYcakfma, SoSloRAmAsima, SoSloRAmbaBUvima"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "SoSloRitA",
+      "dvi": "SoSloRitArO",
+      "bahu": "SoSloRitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "SoSloRitAsi",
+      "dvi": "SoSloRitAsTaH",
+      "bahu": "SoSloRitAsTa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "SoSloRitAsmi",
+      "dvi": "SoSloRitAsvaH",
+      "bahu": "SoSloRitAsmaH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "SoSloRizyati",
+      "dvi": "SoSloRizyataH",
+      "bahu": "SoSloRizyanti"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "SoSloRizyasi",
+      "dvi": "SoSloRizyaTaH",
+      "bahu": "SoSloRizyaTa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "SoSloRizyAmi",
+      "dvi": "SoSloRizyAvaH",
+      "bahu": "SoSloRizyAmaH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "SoSloRItu, SoSloRwAt, SoSloRwAd, SoSloRwu",
+      "dvi": "SoSloRwAm",
+      "bahu": "SoSloRatu"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "SoSloRwAt, SoSloRwAd, SoSloRhi",
+      "dvi": "SoSloRwam",
+      "bahu": "SoSloRwa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "SoSloRAni",
+      "dvi": "SoSloRAva",
+      "bahu": "SoSloRAma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "aSoSloRIt, aSoSloRId, aSoSloR",
+      "dvi": "aSoSloRwAm",
+      "bahu": "aSoSloRuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "aSoSloRIH, aSoSloR",
+      "dvi": "aSoSloRwam",
+      "bahu": "aSoSloRwa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "aSoSloRam",
+      "dvi": "aSoSloRva",
+      "bahu": "aSoSloRma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "SoSloRyAt, SoSloRyAd",
+      "dvi": "SoSloRyAtAm",
+      "bahu": "SoSloRyuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "SoSloRyAH",
+      "dvi": "SoSloRyAtam",
+      "bahu": "SoSloRyAta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "SoSloRyAm",
+      "dvi": "SoSloRyAva",
+      "bahu": "SoSloRyAma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "SoSloRyAt, SoSloRyAd",
+      "dvi": "SoSloRyAstAm",
+      "bahu": "SoSloRyAsuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "SoSloRyAH",
+      "dvi": "SoSloRyAstam",
+      "bahu": "SoSloRyAsta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "SoSloRyAsam",
+      "dvi": "SoSloRyAsva",
+      "bahu": "SoSloRyAsma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "aSoSloRIt, aSoSloRId",
+      "dvi": "aSoSloRizwAm",
+      "bahu": "aSoSloRizuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "aSoSloRIH",
+      "dvi": "aSoSloRizwam",
+      "bahu": "aSoSloRizwa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "aSoSloRizam",
+      "dvi": "aSoSloRizva",
+      "bahu": "aSoSloRizma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "aSoSloRizyat, aSoSloRizyad",
+      "dvi": "aSoSloRizyatAm",
+      "bahu": "aSoSloRizyan"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "aSoSloRizyaH",
+      "dvi": "aSoSloRizyatam",
+      "bahu": "aSoSloRizyata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yangluganta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "aSoSloRizyam",
+      "dvi": "aSoSloRizyAva",
+      "bahu": "aSoSloRizyAma"
+    }
+  ],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyuw",
+      "base_form": "SuSloRizaRa",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "SuSloRizaRam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Rvul",
+      "base_form": "SuSloRizaka",
+      "masculine": "SuSloRizakaH",
+      "feminine": "SuSloRizikA",
+      "neuter": "SuSloRizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tfc",
+      "base_form": "SuSloRizitf",
+      "masculine": "SuSloRizitA",
+      "feminine": "SuSloRizitrI",
+      "neuter": "SuSloRizitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "yat",
+      "base_form": "SuSloRizya",
+      "masculine": "SuSloRizyaH",
+      "feminine": "SuSloRizyA",
+      "neuter": "SuSloRizyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tavya",
+      "base_form": "SuSloRizitavya",
+      "masculine": "SuSloRizitavyaH",
+      "feminine": "SuSloRizitavyA",
+      "neuter": "SuSloRizitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "anIyar",
+      "base_form": "SuSloRizaRIya",
+      "masculine": "SuSloRizaRIyaH",
+      "feminine": "SuSloRizaRIyA",
+      "neuter": "SuSloRizaRIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kta",
+      "base_form": "SuSloRizita",
+      "masculine": "SuSloRizitaH",
+      "feminine": "SuSloRizitA",
+      "neuter": "SuSloRizitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktavatu",
+      "base_form": "SuSloRizitavat",
+      "masculine": "SuSloRizitavAn",
+      "feminine": "SuSloRizitavatI",
+      "neuter": "SuSloRizitavat, SuSloRizitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Satf",
+      "base_form": "SuSloRizat",
+      "masculine": "SuSloRizan",
+      "feminine": "SuSloRizantI",
+      "neuter": "SuSloRizat, SuSloRizad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "SuSloRizizyat",
+      "masculine": "SuSloRizizyan",
+      "feminine": "SuSloRizizyatI, SuSloRizizyantI",
+      "neuter": "SuSloRizizyat, SuSloRizizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "SuSloRizyamARa",
+      "masculine": "SuSloRizyamARaH",
+      "feminine": "SuSloRizyamARA",
+      "neuter": "SuSloRizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "SuSloRizizyamARa",
+      "masculine": "SuSloRizizyamARaH",
+      "feminine": "SuSloRizizyamARA",
+      "neuter": "SuSloRizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktvA",
+      "base_form": "SuSloRizitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyap",
+      "base_form": "praSuSloRizya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tumun",
+      "base_form": "SuSloRizitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Ramul",
+      "base_form": "SuSloRizam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "GaY",
+      "base_form": "SuSloRiza",
+      "masculine": "SuSloRizaH",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktin",
+      "base_form": "SuSloRizwi",
+      "masculine": "",
+      "feminine": "SuSloRizwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ac",
+      "base_form": "SuSloRiza",
+      "masculine": "SuSloRizaH",
+      "feminine": "SuSloRizA",
+      "neuter": "SuSloRizam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kvasu",
+      "base_form": "SuSloRizAmbaBUvas, SuSloRizAmAsivas, SuSloRizAYcakfvas",
+      "masculine": "SuSloRizAmbaBUvAn, SuSloRizAmAsivAn, SuSloRizAYcakfvAn",
+      "feminine": "SuSloRizAmbaBUzI, SuSloRizAmAsyuzI, SuSloRizAYcakruzI",
+      "neuter": "SuSloRizAmbaBUvat, SuSloRizAmbaBUvad, SuSloRizAmAsivat, SuSloRizAmAsivad, SuSloRizAYcakfvat, SuSloRizAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "cAnaS",
+      "base_form": "SuSloRizamARa",
+      "masculine": "SuSloRizamARaH",
+      "feminine": "SuSloRizamARA",
+      "neuter": "SuSloRizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "vun",
+      "base_form": "SuSloRizaka",
+      "masculine": "SuSloRizakaH",
+      "feminine": "SuSloRizikA",
+      "neuter": "SuSloRizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "u",
+      "base_form": "SuSloRizu",
+      "masculine": "SuSloRizuH",
+      "feminine": "SuSloRizuH",
+      "neuter": "SuSloRizu"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "a",
+      "base_form": "SuSloRizA",
+      "masculine": "",
+      "feminine": "SuSloRizA",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyuw",
+      "base_form": "SloRana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "SloRanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Rvul",
+      "base_form": "SloRaka",
+      "masculine": "SloRakaH",
+      "feminine": "SloRikA",
+      "neuter": "SloRakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tfc",
+      "base_form": "SloRayitf",
+      "masculine": "SloRayitA",
+      "feminine": "SloRayitrI",
+      "neuter": "SloRayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "yat",
+      "base_form": "SloRya",
+      "masculine": "SloRyaH",
+      "feminine": "SloRyA",
+      "neuter": "SloRyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tavya",
+      "base_form": "SloRayitavya",
+      "masculine": "SloRayitavyaH",
+      "feminine": "SloRayitavyA",
+      "neuter": "SloRayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "anIyar",
+      "base_form": "SloRanIya",
+      "masculine": "SloRanIyaH",
+      "feminine": "SloRanIyA",
+      "neuter": "SloRanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kta",
+      "base_form": "SloRita",
+      "masculine": "SloRitaH",
+      "feminine": "SloRitA",
+      "neuter": "SloRitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktavatu",
+      "base_form": "SloRitavat",
+      "masculine": "SloRitavAn",
+      "feminine": "SloRitavatI",
+      "neuter": "SloRitavat, SloRitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Satf",
+      "base_form": "SloRayat",
+      "masculine": "SloRayan",
+      "feminine": "SloRayantI",
+      "neuter": "SloRayat, SloRayad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "SloRayizyat",
+      "masculine": "SloRayizyan",
+      "feminine": "SloRayizyatI, SloRayizyantI",
+      "neuter": "SloRayizyat, SloRayizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "SAnac",
+      "base_form": "SloRayamAna",
+      "masculine": "SloRayamAnaH",
+      "feminine": "SloRayamAnA",
+      "neuter": "SloRayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "SloRayizyamARa",
+      "masculine": "SloRayizyamARaH",
+      "feminine": "SloRayizyamARA",
+      "neuter": "SloRayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "SloRyamAna",
+      "masculine": "SloRyamAnaH",
+      "feminine": "SloRyamAnA",
+      "neuter": "SloRyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "SloRizyamARa, SloRayizyamARa",
+      "masculine": "SloRizyamARaH, SloRayizyamARaH",
+      "feminine": "SloRizyamARA, SloRayizyamARA",
+      "neuter": "SloRizyamARam, SloRayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktvA",
+      "base_form": "SloRayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyap",
+      "base_form": "praSloRya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tumun",
+      "base_form": "SloRayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Ramul",
+      "base_form": "SloRam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktin",
+      "base_form": "SloRwi",
+      "masculine": "",
+      "feminine": "SloRwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ac",
+      "base_form": "SloRa",
+      "masculine": "SloRaH",
+      "feminine": "SloRA",
+      "neuter": "SloRam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kvasu",
+      "base_form": "SloRayAmbaBUvas, SloRayAmAsivas, SloRayAYcakfvas",
+      "masculine": "SloRayAmbaBUvAn, SloRayAmAsivAn, SloRayAYcakfvAn",
+      "feminine": "SloRayAmbaBUzI, SloRayAmAsyuzI, SloRayAYcakruzI",
+      "neuter": "SloRayAmbaBUvat, SloRayAmbaBUvad, SloRayAmAsivat, SloRayAmAsivad, SloRayAYcakfvat, SloRayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "cAnaS",
+      "base_form": "SloRayamAna",
+      "masculine": "SloRayamAnaH",
+      "feminine": "SloRayamAnA",
+      "neuter": "SloRayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "vun",
+      "base_form": "SloRaka",
+      "masculine": "SloRakaH",
+      "feminine": "SloRikA",
+      "neuter": "SloRakam"
+    }
+  ],
+  "prayoga": []
+}

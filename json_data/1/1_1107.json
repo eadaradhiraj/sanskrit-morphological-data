@@ -1,0 +1,240 @@
+{
+  "dhatu_id": "1.1107",
+  "info": {
+    "dhatu": "Nu",
+    "OpadeSikasvarUpam": "NuN",
+    "arTaH": "Sabde",
+    "english_meaning": "to sound",
+    "hindI_arTa": "Sabda karanA",
+    "gaRaH": "BvAdiH",
+    "padam": "AtmanepadI",
+    "karmakatvam": "akarmakaH",
+    "iqAgamayogyatA": "aniw",
+    "DAturUpanandinIkramANkaH": "954",
+    "kOmudIDAtukramANkaH": "954",
+    "kOmudIsUtrakramANkaH": "2387",
+    "laGukOmudIsUtrakramANkaH": ""
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyuw",
+      "base_form": "YuNUzaRa",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "YuNUzaRam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Rvul",
+      "base_form": "YuNUzaka",
+      "masculine": "YuNUzakaH",
+      "feminine": "YuNUzikA",
+      "neuter": "YuNUzakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tfc",
+      "base_form": "YuNUzitf",
+      "masculine": "YuNUzitA",
+      "feminine": "YuNUzitrI",
+      "neuter": "YuNUzitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "yat",
+      "base_form": "YuNUzya",
+      "masculine": "YuNUzyaH",
+      "feminine": "YuNUzyA",
+      "neuter": "YuNUzyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tavya",
+      "base_form": "YuNUzitavya",
+      "masculine": "YuNUzitavyaH",
+      "feminine": "YuNUzitavyA",
+      "neuter": "YuNUzitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "anIyar",
+      "base_form": "YuNUzaRIya",
+      "masculine": "YuNUzaRIyaH",
+      "feminine": "YuNUzaRIyA",
+      "neuter": "YuNUzaRIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kta",
+      "base_form": "YuNUzita",
+      "masculine": "YuNUzitaH",
+      "feminine": "YuNUzitA",
+      "neuter": "YuNUzitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktavatu",
+      "base_form": "YuNUzitavat",
+      "masculine": "YuNUzitavAn",
+      "feminine": "YuNUzitavatI",
+      "neuter": "YuNUzitavat, YuNUzitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "SAnac",
+      "base_form": "YuNUzamARa",
+      "masculine": "YuNUzamARaH",
+      "feminine": "YuNUzamARA",
+      "neuter": "YuNUzamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "YuNUzizyamARa",
+      "masculine": "YuNUzizyamARaH",
+      "feminine": "YuNUzizyamARA",
+      "neuter": "YuNUzizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "YuNUzyamARa",
+      "masculine": "YuNUzyamARaH",
+      "feminine": "YuNUzyamARA",
+      "neuter": "YuNUzyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "YuNUzizyamARa",
+      "masculine": "YuNUzizyamARaH",
+      "feminine": "YuNUzizyamARA",
+      "neuter": "YuNUzizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktvA",
+      "base_form": "YuNUzitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyap",
+      "base_form": "praYuNUzya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tumun",
+      "base_form": "YuNUzitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Ramul",
+      "base_form": "YuNUzam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "GaY",
+      "base_form": "YuNUza",
+      "masculine": "YuNUzaH",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktin",
+      "base_form": "YuNUzwi",
+      "masculine": "",
+      "feminine": "YuNUzwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ac",
+      "base_form": "YuNUza",
+      "masculine": "YuNUzaH",
+      "feminine": "YuNUzA",
+      "neuter": "YuNUzam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kvasu",
+      "base_form": "YuNUzAmbaBUvas, YuNUzAmAsivas, YuNUzAYcakfvas",
+      "masculine": "YuNUzAmbaBUvAn, YuNUzAmAsivAn, YuNUzAYcakfvAn",
+      "feminine": "YuNUzAmbaBUzI, YuNUzAmAsyuzI, YuNUzAYcakruzI",
+      "neuter": "YuNUzAmbaBUvat, YuNUzAmbaBUvad, YuNUzAmAsivat, YuNUzAmAsivad, YuNUzAYcakfvat, YuNUzAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "cAnaS",
+      "base_form": "YuNUzamARa",
+      "masculine": "YuNUzamARaH",
+      "feminine": "YuNUzamARA",
+      "neuter": "YuNUzamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "vun",
+      "base_form": "YuNUzaka",
+      "masculine": "YuNUzakaH",
+      "feminine": "YuNUzikA",
+      "neuter": "YuNUzakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "u",
+      "base_form": "YuNUzu",
+      "masculine": "YuNUzuH",
+      "feminine": "YuNUzuH",
+      "neuter": "YuNUzu"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "a",
+      "base_form": "YuNUzA",
+      "masculine": "",
+      "feminine": "YuNUzA",
+      "neuter": ""
+    }
+  ],
+  "prayoga": []
+}

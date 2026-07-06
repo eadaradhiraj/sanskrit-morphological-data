@@ -1,0 +1,563 @@
+{
+  "dhatu_id": "10.0463",
+  "info": {
+    "dhatu": "laja",
+    "OpadeSikasvarUpam": "laja",
+    "arTaH": "prakASane",
+    "english_meaning": "to appear to be clear",
+    "hindI_arTa": "prakawa honA spazwa honA",
+    "DAturUpanandinIwippaRI": "adantaH  ' laji ' ityeke  laYjayati  ' prakASe lajayed  vrIqe lajjate lajate pade ' (Slo. 68) - devaH",
+    "gaRaH": "curAdiH",
+    "padam": "uBayapadI",
+    "karmakatvam": "akarmakaH",
+    "iqAgamayogyatA": "sew",
+    "DAturUpanandinIkramANkaH": "1921",
+    "kOmudIDAtukramANkaH": "1920",
+    "kOmudIsUtrakramANkaH": "2574",
+    "laGukOmudIsUtrakramANkaH": ""
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "lilajayizyate",
+      "dvi": "lilajayizyete",
+      "bahu": "lilajayizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "lilajayizyase",
+      "dvi": "lilajayizyeTe",
+      "bahu": "lilajayizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "lilajayizye",
+      "dvi": "lilajayizyAvahe",
+      "bahu": "lilajayizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "lilajayizAYcakre, lilajayizAmAse, lilajayizAmbaBUve",
+      "dvi": "lilajayizAYcakrAte, lilajayizAmAsAte, lilajayizAmbaBUvAte",
+      "bahu": "lilajayizAYcakrire, lilajayizAmAsire, lilajayizAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "lilajayizAYcakfze, lilajayizAmAsize, lilajayizAmbaBUvize",
+      "dvi": "lilajayizAYcakrATe, lilajayizAmAsATe, lilajayizAmbaBUvATe",
+      "bahu": "lilajayizAYcakfQve, lilajayizAmAsiDve, lilajayizAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "lilajayizAYcakre, lilajayizAmAhe, lilajayizAmbaBUve",
+      "dvi": "lilajayizAYcakfvahe, lilajayizAmAsivahe, lilajayizAmbaBUvivahe",
+      "bahu": "lilajayizAYcakfmahe, lilajayizAmAsimahe, lilajayizAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "lilajayizitA",
+      "dvi": "lilajayizitArO",
+      "bahu": "lilajayizitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "lilajayizitAse",
+      "dvi": "lilajayizitAsATe",
+      "bahu": "lilajayizitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "lilajayizitAhe",
+      "dvi": "lilajayizitAsvahe",
+      "bahu": "lilajayizitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "lilajayizizyate",
+      "dvi": "lilajayizizyete",
+      "bahu": "lilajayizizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "lilajayizizyase",
+      "dvi": "lilajayizizyeTe",
+      "bahu": "lilajayizizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "lilajayizizye",
+      "dvi": "lilajayizizyAvahe",
+      "bahu": "lilajayizizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "lilajayizyatAm",
+      "dvi": "lilajayizyetAm",
+      "bahu": "lilajayizyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "lilajayizyasva",
+      "dvi": "lilajayizyeTAm",
+      "bahu": "lilajayizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "lilajayizyE",
+      "dvi": "lilajayizyAvahE",
+      "bahu": "lilajayizyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "alilajayizyata",
+      "dvi": "alilajayizyetAm",
+      "bahu": "alilajayizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "alilajayizyaTAH",
+      "dvi": "alilajayizyeTAm",
+      "bahu": "alilajayizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "alilajayizye",
+      "dvi": "alilajayizyAvahi",
+      "bahu": "alilajayizyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "lilajayizyeta",
+      "dvi": "lilajayizyeyAtAm",
+      "bahu": "lilajayizyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "lilajayizyeTAH",
+      "dvi": "lilajayizyeyATAm",
+      "bahu": "lilajayizyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "lilajayizyeya",
+      "dvi": "lilajayizyevahi",
+      "bahu": "lilajayizyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "lilajayizizIzwa",
+      "dvi": "lilajayizizIyAstAm",
+      "bahu": "lilajayizizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "lilajayizizIzWAH",
+      "dvi": "lilajayizizIyAsTAm",
+      "bahu": "lilajayizizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "lilajayizizIya",
+      "dvi": "lilajayizizIvahi",
+      "bahu": "lilajayizizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "alilajayizi",
+      "dvi": "alilajayizizAtAm",
+      "bahu": "alilajayizizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "alilajayizizWAH",
+      "dvi": "alilajayizizATAm",
+      "bahu": "alilajayiziDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "alilajayizizi",
+      "dvi": "alilajayizizvahi",
+      "bahu": "alilajayizizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "alilajayizizyata",
+      "dvi": "alilajayizizyetAm",
+      "bahu": "alilajayizizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "alilajayizizyaTAH",
+      "dvi": "alilajayizizyeTAm",
+      "bahu": "alilajayizizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "alilajayizizye",
+      "dvi": "alilajayizizyAvahi",
+      "bahu": "alilajayizizyAmahi"
+    }
+  ],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyuw",
+      "base_form": "lajana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "lajanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Rvul",
+      "base_form": "lajaka",
+      "masculine": "lajakaH",
+      "feminine": "lajikA",
+      "neuter": "lajakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tfc",
+      "base_form": "lajayitf",
+      "masculine": "lajayitA",
+      "feminine": "lajayitrI",
+      "neuter": "lajayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "yat",
+      "base_form": "lajya",
+      "masculine": "lajyaH",
+      "feminine": "lajyA",
+      "neuter": "lajyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tavya",
+      "base_form": "lajayitavya",
+      "masculine": "lajayitavyaH",
+      "feminine": "lajayitavyA",
+      "neuter": "lajayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "anIyar",
+      "base_form": "lajanIya",
+      "masculine": "lajanIyaH",
+      "feminine": "lajanIyA",
+      "neuter": "lajanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kta",
+      "base_form": "lajita",
+      "masculine": "lajitaH",
+      "feminine": "lajitA",
+      "neuter": "lajitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktavatu",
+      "base_form": "lajitavat",
+      "masculine": "lajitavAn",
+      "feminine": "lajitavatI",
+      "neuter": "lajitavat, lajitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Satf",
+      "base_form": "lajayat",
+      "masculine": "lajayan",
+      "feminine": "lajayantI",
+      "neuter": "lajayat, lajayad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "lajayizyat",
+      "masculine": "lajayizyan",
+      "feminine": "lajayizyatI, lajayizyantI",
+      "neuter": "lajayizyat, lajayizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "SAnac",
+      "base_form": "lajayamAna",
+      "masculine": "lajayamAnaH",
+      "feminine": "lajayamAnA",
+      "neuter": "lajayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "lajayizyamARa",
+      "masculine": "lajayizyamARaH",
+      "feminine": "lajayizyamARA",
+      "neuter": "lajayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "lajyamAna",
+      "masculine": "lajyamAnaH",
+      "feminine": "lajyamAnA",
+      "neuter": "lajyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "lajizyamARa, lajayizyamARa",
+      "masculine": "lajizyamARaH, lajayizyamARaH",
+      "feminine": "lajizyamARA, lajayizyamARA",
+      "neuter": "lajizyamARam, lajayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktvA",
+      "base_form": "lajayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyap",
+      "base_form": "pralajayya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tumun",
+      "base_form": "lajayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Ramul",
+      "base_form": "lajam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktin",
+      "base_form": "lakti",
+      "masculine": "",
+      "feminine": "laktiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ac",
+      "base_form": "laja",
+      "masculine": "lajaH",
+      "feminine": "lajA",
+      "neuter": "lajam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kvasu",
+      "base_form": "lajayAmbaBUvas, lajayAmAsivas, lajayAYcakfvas",
+      "masculine": "lajayAmbaBUvAn, lajayAmAsivAn, lajayAYcakfvAn",
+      "feminine": "lajayAmbaBUzI, lajayAmAsyuzI, lajayAYcakruzI",
+      "neuter": "lajayAmbaBUvat, lajayAmbaBUvad, lajayAmAsivat, lajayAmAsivad, lajayAYcakfvat, lajayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "cAnaS",
+      "base_form": "lajayamAna",
+      "masculine": "lajayamAnaH",
+      "feminine": "lajayamAnA",
+      "neuter": "lajayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "vun",
+      "base_form": "lajaka",
+      "masculine": "lajakaH",
+      "feminine": "lajikA",
+      "neuter": "lajakam"
+    }
+  ],
+  "prayoga": []
+}

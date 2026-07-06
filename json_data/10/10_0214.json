@@ -1,0 +1,532 @@
+{
+  "dhatu_id": "10.0214",
+  "info": {
+    "dhatu": "SaW"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "SAWyate",
+      "dvi": "SAWyete",
+      "bahu": "SAWyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "SAWyase",
+      "dvi": "SAWyeTe",
+      "bahu": "SAWyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "SAWye",
+      "dvi": "SAWyAvahe",
+      "bahu": "SAWyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "SAWayAYcakre, SAWayAmAse, SAWayAmbaBUve",
+      "dvi": "SAWayAYcakrAte, SAWayAmAsAte, SAWayAmbaBUvAte",
+      "bahu": "SAWayAYcakrire, SAWayAmAsire, SAWayAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "SAWayAYcakfze, SAWayAmAsize, SAWayAmbaBUvize",
+      "dvi": "SAWayAYcakrATe, SAWayAmAsATe, SAWayAmbaBUvATe",
+      "bahu": "SAWayAYcakfQve, SAWayAmAsiDve, SAWayAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "SAWayAYcakre, SAWayAmAhe, SAWayAmbaBUve",
+      "dvi": "SAWayAYcakfvahe, SAWayAmAsivahe, SAWayAmbaBUvivahe",
+      "bahu": "SAWayAYcakfmahe, SAWayAmAsimahe, SAWayAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "SAWayitA, SAWitA",
+      "dvi": "SAWayitArO, SAWitArO",
+      "bahu": "SAWayitAraH, SAWitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "SAWayitAse, SAWitAse",
+      "dvi": "SAWayitAsATe, SAWitAsATe",
+      "bahu": "SAWayitADve, SAWitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "SAWayitAhe, SAWitAhe",
+      "dvi": "SAWayitAsvahe, SAWitAsvahe",
+      "bahu": "SAWayitAsmahe, SAWitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "SAWayizyate, SAWizyate",
+      "dvi": "SAWayizyete, SAWizyete",
+      "bahu": "SAWayizyante, SAWizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "SAWayizyase, SAWizyase",
+      "dvi": "SAWayizyeTe, SAWizyeTe",
+      "bahu": "SAWayizyaDve, SAWizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "SAWayizye, SAWizye",
+      "dvi": "SAWayizyAvahe, SAWizyAvahe",
+      "bahu": "SAWayizyAmahe, SAWizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "SAWyatAm",
+      "dvi": "SAWyetAm",
+      "bahu": "SAWyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "SAWyasva",
+      "dvi": "SAWyeTAm",
+      "bahu": "SAWyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "SAWyE",
+      "dvi": "SAWyAvahE",
+      "bahu": "SAWyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "aSAWyata",
+      "dvi": "aSAWyetAm",
+      "bahu": "aSAWyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "aSAWyaTAH",
+      "dvi": "aSAWyeTAm",
+      "bahu": "aSAWyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "aSAWye",
+      "dvi": "aSAWyAvahi",
+      "bahu": "aSAWyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "SAWyeta",
+      "dvi": "SAWyeyAtAm",
+      "bahu": "SAWyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "SAWyeTAH",
+      "dvi": "SAWyeyATAm",
+      "bahu": "SAWyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "SAWyeya",
+      "dvi": "SAWyevahi",
+      "bahu": "SAWyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "SAWayizIzwa, SAWizIzwa",
+      "dvi": "SAWayizIyAstAm, SAWizIyAstAm",
+      "bahu": "SAWayizIran, SAWizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "SAWayizIzWAH, SAWizIzWAH",
+      "dvi": "SAWayizIyAsTAm, SAWizIyAsTAm",
+      "bahu": "SAWayizIQvam, SAWayizIDvam, SAWizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "SAWayizIya, SAWizIya",
+      "dvi": "SAWayizIvahi, SAWizIvahi",
+      "bahu": "SAWayizImahi, SAWizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "aSAWi",
+      "dvi": "aSAWayizAtAm, aSAWizAtAm",
+      "bahu": "aSAWayizata, aSAWizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "aSAWayizWAH, aSAWizWAH",
+      "dvi": "aSAWayizATAm, aSAWizATAm",
+      "bahu": "aSAWayiQvam, aSAWayiDvam, aSAWiDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "aSAWayizi, aSAWizi",
+      "dvi": "aSAWayizvahi, aSAWizvahi",
+      "bahu": "aSAWayizmahi, aSAWizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "aSAWayizyata, aSAWizyata",
+      "dvi": "aSAWayizyetAm, aSAWizyetAm",
+      "bahu": "aSAWayizyanta, aSAWizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "aSAWayizyaTAH, aSAWizyaTAH",
+      "dvi": "aSAWayizyeTAm, aSAWizyeTAm",
+      "bahu": "aSAWayizyaDvam, aSAWizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "aSAWayizye, aSAWizye",
+      "dvi": "aSAWayizyAvahi, aSAWizyAvahi",
+      "bahu": "aSAWayizyAmahi, aSAWizyAmahi"
+    }
+  ],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyuw",
+      "base_form": "SAWana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "SAWanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Rvul",
+      "base_form": "SAWaka",
+      "masculine": "SAWakaH",
+      "feminine": "SAWikA",
+      "neuter": "SAWakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tfc",
+      "base_form": "SAWayitf",
+      "masculine": "SAWayitA",
+      "feminine": "SAWayitrI",
+      "neuter": "SAWayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "yat",
+      "base_form": "SAWya",
+      "masculine": "SAWyaH",
+      "feminine": "SAWyA",
+      "neuter": "SAWyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tavya",
+      "base_form": "SAWayitavya",
+      "masculine": "SAWayitavyaH",
+      "feminine": "SAWayitavyA",
+      "neuter": "SAWayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "anIyar",
+      "base_form": "SAWanIya",
+      "masculine": "SAWanIyaH",
+      "feminine": "SAWanIyA",
+      "neuter": "SAWanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kta",
+      "base_form": "SAWita",
+      "masculine": "SAWitaH",
+      "feminine": "SAWitA",
+      "neuter": "SAWitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktavatu",
+      "base_form": "SAWitavat",
+      "masculine": "SAWitavAn",
+      "feminine": "SAWitavatI",
+      "neuter": "SAWitavat, SAWitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "SAnac",
+      "base_form": "SAWayamAna",
+      "masculine": "SAWayamAnaH",
+      "feminine": "SAWayamAnA",
+      "neuter": "SAWayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-SAnac",
+      "base_form": "SAWayizyamARa",
+      "masculine": "SAWayizyamARaH",
+      "feminine": "SAWayizyamARA",
+      "neuter": "SAWayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "SAWyamAna",
+      "masculine": "SAWyamAnaH",
+      "feminine": "SAWyamAnA",
+      "neuter": "SAWyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "SAWizyamARa, SAWayizyamARa",
+      "masculine": "SAWizyamARaH, SAWayizyamARaH",
+      "feminine": "SAWizyamARA, SAWayizyamARA",
+      "neuter": "SAWizyamARam, SAWayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktvA",
+      "base_form": "SAWayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyap",
+      "base_form": "praSAWya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tumun",
+      "base_form": "SAWayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Ramul",
+      "base_form": "SAWam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktin",
+      "base_form": "SAwwi",
+      "masculine": "",
+      "feminine": "SAwwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ac",
+      "base_form": "SAWa",
+      "masculine": "SAWaH",
+      "feminine": "SAWA",
+      "neuter": "SAWam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kvasu",
+      "base_form": "SAWayAmbaBUvas, SAWayAmAsivas, SAWayAYcakfvas",
+      "masculine": "SAWayAmbaBUvAn, SAWayAmAsivAn, SAWayAYcakfvAn",
+      "feminine": "SAWayAmbaBUzI, SAWayAmAsuzI, SAWayAYcakruzI",
+      "neuter": "SAWayAmbaBUvat, SAWayAmbaBUvad, SAWayAmAsivat, SAWayAmAsivad, SAWayAYcakfvat, SAWayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "cAnaS",
+      "base_form": "SAWayamAna",
+      "masculine": "SAWayamAnaH",
+      "feminine": "SAWayamAnA",
+      "neuter": "SAWayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "vun",
+      "base_form": "SAWaka",
+      "masculine": "SAWakaH",
+      "feminine": "SAWikA",
+      "neuter": "SAWakam"
+    }
+  ],
+  "prayoga": []
+}

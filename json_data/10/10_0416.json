@@ -1,0 +1,1664 @@
+{
+  "dhatu_id": "10.0416",
+  "info": {
+    "dhatu": "kzowa",
+    "OpadeSikasvarUpam": "kzowa",
+    "arTaH": "kzepe",
+    "english_meaning": "to project to throw",
+    "hindI_arTa": "BejanA PeMkanA",
+    "DAturUpanandinIwippaRI": "adantaH  ' kzaye ' iti DAtukAvye (3.55) pAWaH",
+    "gaRaH": "curAdiH",
+    "padam": "uBayapadI",
+    "karmakatvam": "sakarmakaH",
+    "iqAgamayogyatA": "sew",
+    "DAturUpanandinIkramANkaH": "1876",
+    "kOmudIDAtukramANkaH": "1876",
+    "kOmudIsUtrakramANkaH": "2573",
+    "laGukOmudIsUtrakramANkaH": ""
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kzowyate",
+      "dvi": "kzowyete",
+      "bahu": "kzowyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kzowyase",
+      "dvi": "kzowyeTe",
+      "bahu": "kzowyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kzowye",
+      "dvi": "kzowyAvahe",
+      "bahu": "kzowyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kzowayAYcakre, kzowayAmAse, kzowayAmbaBUve",
+      "dvi": "kzowayAYcakrAte, kzowayAmAsAte, kzowayAmbaBUvAte",
+      "bahu": "kzowayAYcakrire, kzowayAmAsire, kzowayAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kzowayAYcakfze, kzowayAmAsize, kzowayAmbaBUvize",
+      "dvi": "kzowayAYcakrATe, kzowayAmAsATe, kzowayAmbaBUvATe",
+      "bahu": "kzowayAYcakfQve, kzowayAmAsiDve, kzowayAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kzowayAYcakre, kzowayAmAhe, kzowayAmbaBUve",
+      "dvi": "kzowayAYcakfvahe, kzowayAmAsivahe, kzowayAmbaBUvivahe",
+      "bahu": "kzowayAYcakfmahe, kzowayAmAsimahe, kzowayAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kzowayitA, kzowitA",
+      "dvi": "kzowayitArO, kzowitArO",
+      "bahu": "kzowayitAraH, kzowitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kzowayitAse, kzowitAse",
+      "dvi": "kzowayitAsATe, kzowitAsATe",
+      "bahu": "kzowayitADve, kzowitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kzowayitAhe, kzowitAhe",
+      "dvi": "kzowayitAsvahe, kzowitAsvahe",
+      "bahu": "kzowayitAsmahe, kzowitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kzowayizyate, kzowizyate",
+      "dvi": "kzowayizyete, kzowizyete",
+      "bahu": "kzowayizyante, kzowizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kzowayizyase, kzowizyase",
+      "dvi": "kzowayizyeTe, kzowizyeTe",
+      "bahu": "kzowayizyaDve, kzowizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kzowayizye, kzowizye",
+      "dvi": "kzowayizyAvahe, kzowizyAvahe",
+      "bahu": "kzowayizyAmahe, kzowizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kzowyatAm",
+      "dvi": "kzowyetAm",
+      "bahu": "kzowyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kzowyasva",
+      "dvi": "kzowyeTAm",
+      "bahu": "kzowyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kzowyE",
+      "dvi": "kzowyAvahE",
+      "bahu": "kzowyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "akzowyata",
+      "dvi": "akzowyetAm",
+      "bahu": "akzowyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "akzowyaTAH",
+      "dvi": "akzowyeTAm",
+      "bahu": "akzowyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "akzowye",
+      "dvi": "akzowyAvahi",
+      "bahu": "akzowyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kzowyeta",
+      "dvi": "kzowyeyAtAm",
+      "bahu": "kzowyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kzowyeTAH",
+      "dvi": "kzowyeyATAm",
+      "bahu": "kzowyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kzowyeya",
+      "dvi": "kzowyevahi",
+      "bahu": "kzowyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kzowayizIzwa, kzowizIzwa",
+      "dvi": "kzowayizIyAstAm, kzowizIyAstAm",
+      "bahu": "kzowayizIran, kzowizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kzowayizIzWAH, kzowizIzWAH",
+      "dvi": "kzowayizIyAsTAm, kzowizIyAsTAm",
+      "bahu": "kzowayizIQvam, kzowayizIDvam, kzowizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kzowayizIya, kzowizIya",
+      "dvi": "kzowayizIvahi, kzowizIvahi",
+      "bahu": "kzowayizImahi, kzowizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "akzowi",
+      "dvi": "akzowayizAtAm, akzowizAtAm",
+      "bahu": "akzowayizata, akzowizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "akzowayizWAH, akzowizWAH",
+      "dvi": "akzowayizATAm, akzowizATAm",
+      "bahu": "akzowayiQvam, akzowayiDvam, akzowiDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "akzowayizi, akzowizi",
+      "dvi": "akzowayizvahi, akzowizvahi",
+      "bahu": "akzowayizmahi, akzowizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "akzowayizyata, akzowizyata",
+      "dvi": "akzowayizyetAm, akzowizyetAm",
+      "bahu": "akzowayizyanta, akzowizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "akzowayizyaTAH, akzowizyaTAH",
+      "dvi": "akzowayizyeTAm, akzowizyeTAm",
+      "bahu": "akzowayizyaDvam, akzowizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "akzowayizye, akzowizye",
+      "dvi": "akzowayizyAvahi, akzowizyAvahi",
+      "bahu": "akzowayizyAmahi, akzowizyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizati",
+      "dvi": "cukzowayizataH",
+      "bahu": "cukzowayizanti"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizasi",
+      "dvi": "cukzowayizaTaH",
+      "bahu": "cukzowayizaTa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizAmi",
+      "dvi": "cukzowayizAvaH",
+      "bahu": "cukzowayizAmaH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizate",
+      "dvi": "cukzowayizete",
+      "bahu": "cukzowayizante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizase",
+      "dvi": "cukzowayizeTe",
+      "bahu": "cukzowayizaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "cukzowayize",
+      "dvi": "cukzowayizAvahe",
+      "bahu": "cukzowayizAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizAYcakAra, cukzowayizAmAsa, cukzowayizAmbaBUva",
+      "dvi": "cukzowayizAYcakratuH, cukzowayizAmAsatuH, cukzowayizAmbaBUvatuH",
+      "bahu": "cukzowayizAYcakruH, cukzowayizAmAsuH, cukzowayizAmbaBUvuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizAYcakarTa, cukzowayizAmAsiTa, cukzowayizAmbaBUviTa",
+      "dvi": "cukzowayizAYcakraTuH, cukzowayizAmAsaTuH, cukzowayizAmbaBUvaTuH",
+      "bahu": "cukzowayizAYcakra, cukzowayizAmAsa, cukzowayizAmbaBUva"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizAYcakara, cukzowayizAYcakAra, cukzowayizAmAsa, cukzowayizAmbaBUva",
+      "dvi": "cukzowayizAYcakfva, cukzowayizAmAsiva, cukzowayizAmbaBUviva",
+      "bahu": "cukzowayizAYcakfma, cukzowayizAmAsima, cukzowayizAmbaBUvima"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizAYcakre, cukzowayizAmAsa, cukzowayizAmbaBUva",
+      "dvi": "cukzowayizAYcakrAte, cukzowayizAmAsatuH, cukzowayizAmbaBUvatuH",
+      "bahu": "cukzowayizAYcakrire, cukzowayizAmAsuH, cukzowayizAmbaBUvuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizAYcakfze, cukzowayizAmAsiTa, cukzowayizAmbaBUviTa",
+      "dvi": "cukzowayizAYcakrATe, cukzowayizAmAsaTuH, cukzowayizAmbaBUvaTuH",
+      "bahu": "cukzowayizAYcakfQve, cukzowayizAmAsa, cukzowayizAmbaBUva"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizAYcakre, cukzowayizAmAsa, cukzowayizAmbaBUva",
+      "dvi": "cukzowayizAYcakfvahe, cukzowayizAmAsiva, cukzowayizAmbaBUviva",
+      "bahu": "cukzowayizAYcakfmahe, cukzowayizAmAsima, cukzowayizAmbaBUvima"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizitA",
+      "dvi": "cukzowayizitArO",
+      "bahu": "cukzowayizitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizitAsi",
+      "dvi": "cukzowayizitAsTaH",
+      "bahu": "cukzowayizitAsTa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizitAsmi",
+      "dvi": "cukzowayizitAsvaH",
+      "bahu": "cukzowayizitAsmaH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizitA",
+      "dvi": "cukzowayizitArO",
+      "bahu": "cukzowayizitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizitAse",
+      "dvi": "cukzowayizitAsATe",
+      "bahu": "cukzowayizitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizitAhe",
+      "dvi": "cukzowayizitAsvahe",
+      "bahu": "cukzowayizitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizizyati",
+      "dvi": "cukzowayizizyataH",
+      "bahu": "cukzowayizizyanti"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizizyasi",
+      "dvi": "cukzowayizizyaTaH",
+      "bahu": "cukzowayizizyaTa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizizyAmi",
+      "dvi": "cukzowayizizyAvaH",
+      "bahu": "cukzowayizizyAmaH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizizyate",
+      "dvi": "cukzowayizizyete",
+      "bahu": "cukzowayizizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizizyase",
+      "dvi": "cukzowayizizyeTe",
+      "bahu": "cukzowayizizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizizye",
+      "dvi": "cukzowayizizyAvahe",
+      "bahu": "cukzowayizizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizatAt, cukzowayizatAd, cukzowayizatu",
+      "dvi": "cukzowayizatAm",
+      "bahu": "cukzowayizantu"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayiza, cukzowayizatAt, cukzowayizatAd",
+      "dvi": "cukzowayizatam",
+      "bahu": "cukzowayizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizARi",
+      "dvi": "cukzowayizAva",
+      "bahu": "cukzowayizAma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizatAm",
+      "dvi": "cukzowayizetAm",
+      "bahu": "cukzowayizantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizasva",
+      "dvi": "cukzowayizeTAm",
+      "bahu": "cukzowayizaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizE",
+      "dvi": "cukzowayizAvahE",
+      "bahu": "cukzowayizAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "acukzowayizat, acukzowayizad",
+      "dvi": "acukzowayizatAm",
+      "bahu": "acukzowayizan"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "acukzowayizaH",
+      "dvi": "acukzowayizatam",
+      "bahu": "acukzowayizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "acukzowayizam",
+      "dvi": "acukzowayizAva",
+      "bahu": "acukzowayizAma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "acukzowayizata",
+      "dvi": "acukzowayizetAm",
+      "bahu": "acukzowayizanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "acukzowayizaTAH",
+      "dvi": "acukzowayizeTAm",
+      "bahu": "acukzowayizaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "acukzowayize",
+      "dvi": "acukzowayizAvahi",
+      "bahu": "acukzowayizAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizet, cukzowayized",
+      "dvi": "cukzowayizetAm",
+      "bahu": "cukzowayizeyuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizeH",
+      "dvi": "cukzowayizetam",
+      "bahu": "cukzowayizeta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizeyam",
+      "dvi": "cukzowayizeva",
+      "bahu": "cukzowayizema"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizeta",
+      "dvi": "cukzowayizeyAtAm",
+      "bahu": "cukzowayizeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizeTAH",
+      "dvi": "cukzowayizeyATAm",
+      "bahu": "cukzowayizeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizeya",
+      "dvi": "cukzowayizevahi",
+      "bahu": "cukzowayizemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizyAt, cukzowayizyAd",
+      "dvi": "cukzowayizyAstAm",
+      "bahu": "cukzowayizyAsuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizyAH",
+      "dvi": "cukzowayizyAstam",
+      "bahu": "cukzowayizyAsta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizyAsam",
+      "dvi": "cukzowayizyAsva",
+      "bahu": "cukzowayizyAsma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "cukzowayizizIzwa",
+      "dvi": "cukzowayizizIyAstAm",
+      "bahu": "cukzowayizizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "cukzowayizizIzWAH",
+      "dvi": "cukzowayizizIyAsTAm",
+      "bahu": "cukzowayizizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "cukzowayizizIya",
+      "dvi": "cukzowayizizIvahi",
+      "bahu": "cukzowayizizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "acukzowayizIt, acukzowayizId",
+      "dvi": "acukzowayizizwAm",
+      "bahu": "acukzowayizizuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "acukzowayizIH",
+      "dvi": "acukzowayizizwam",
+      "bahu": "acukzowayizizwa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "acukzowayizizam",
+      "dvi": "acukzowayizizva",
+      "bahu": "acukzowayizizma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "acukzowayizizwa",
+      "dvi": "acukzowayizizAtAm",
+      "bahu": "acukzowayizizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "acukzowayizizWAH",
+      "dvi": "acukzowayizizATAm",
+      "bahu": "acukzowayiziDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "acukzowayizizi",
+      "dvi": "acukzowayizizvahi",
+      "bahu": "acukzowayizizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "acukzowayizizyat, acukzowayizizyad",
+      "dvi": "acukzowayizizyatAm",
+      "bahu": "acukzowayizizyan"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "acukzowayizizyaH",
+      "dvi": "acukzowayizizyatam",
+      "bahu": "acukzowayizizyata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "acukzowayizizyam",
+      "dvi": "acukzowayizizyAva",
+      "bahu": "acukzowayizizyAma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "acukzowayizizyata",
+      "dvi": "acukzowayizizyetAm",
+      "bahu": "acukzowayizizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "acukzowayizizyaTAH",
+      "dvi": "acukzowayizizyeTAm",
+      "bahu": "acukzowayizizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "acukzowayizizye",
+      "dvi": "acukzowayizizyAvahi",
+      "bahu": "acukzowayizizyAmahi"
+    }
+  ],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyuw",
+      "base_form": "kzowana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "kzowanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Rvul",
+      "base_form": "kzowaka",
+      "masculine": "kzowakaH",
+      "feminine": "kzowikA",
+      "neuter": "kzowakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tfc",
+      "base_form": "kzowayitf",
+      "masculine": "kzowayitA",
+      "feminine": "kzowayitrI",
+      "neuter": "kzowayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "yat",
+      "base_form": "kzowya",
+      "masculine": "kzowyaH",
+      "feminine": "kzowyA",
+      "neuter": "kzowyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tavya",
+      "base_form": "kzowayitavya",
+      "masculine": "kzowayitavyaH",
+      "feminine": "kzowayitavyA",
+      "neuter": "kzowayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "anIyar",
+      "base_form": "kzowanIya",
+      "masculine": "kzowanIyaH",
+      "feminine": "kzowanIyA",
+      "neuter": "kzowanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kta",
+      "base_form": "kzowita",
+      "masculine": "kzowitaH",
+      "feminine": "kzowitA",
+      "neuter": "kzowitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktavatu",
+      "base_form": "kzowitavat",
+      "masculine": "kzowitavAn",
+      "feminine": "kzowitavatI",
+      "neuter": "kzowitavat, kzowitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Satf",
+      "base_form": "kzowayat",
+      "masculine": "kzowayan",
+      "feminine": "kzowayantI",
+      "neuter": "kzowayat, kzowayad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-Satf",
+      "base_form": "kzowayizyat",
+      "masculine": "kzowayizyan",
+      "feminine": "kzowayizyatI, kzowayizyantI",
+      "neuter": "kzowayizyat, kzowayizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "SAnac",
+      "base_form": "kzowayamAna",
+      "masculine": "kzowayamAnaH",
+      "feminine": "kzowayamAnA",
+      "neuter": "kzowayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-SAnac",
+      "base_form": "kzowayizyamARa",
+      "masculine": "kzowayizyamARaH",
+      "feminine": "kzowayizyamARA",
+      "neuter": "kzowayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "kzowyamAna",
+      "masculine": "kzowyamAnaH",
+      "feminine": "kzowyamAnA",
+      "neuter": "kzowyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "kzowizyamARa, kzowayizyamARa",
+      "masculine": "kzowizyamARaH, kzowayizyamARaH",
+      "feminine": "kzowizyamARA, kzowayizyamARA",
+      "neuter": "kzowizyamARam, kzowayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktvA",
+      "base_form": "kzowayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyap",
+      "base_form": "prakzowya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tumun",
+      "base_form": "kzowayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Ramul",
+      "base_form": "kzowam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktin",
+      "base_form": "kzowwi",
+      "masculine": "",
+      "feminine": "kzowwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ac",
+      "base_form": "kzowa",
+      "masculine": "kzowaH",
+      "feminine": "kzowA",
+      "neuter": "kzowam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kvasu",
+      "base_form": "kzowayAmbaBUvas, kzowayAmAsivas, kzowayAYcakfvas",
+      "masculine": "kzowayAmbaBUvAn, kzowayAmAsivAn, kzowayAYcakfvAn",
+      "feminine": "kzowayAmbaBUzI, kzowayAmAsuzI, kzowayAYcakruzI",
+      "neuter": "kzowayAmbaBUvat, kzowayAmbaBUvad, kzowayAmAsivat, kzowayAmAsivad, kzowayAYcakfvat, kzowayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "cAnaS",
+      "base_form": "kzowayamAna",
+      "masculine": "kzowayamAnaH",
+      "feminine": "kzowayamAnA",
+      "neuter": "kzowayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "vun",
+      "base_form": "kzowaka",
+      "masculine": "kzowakaH",
+      "feminine": "kzowikA",
+      "neuter": "kzowakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyuw",
+      "base_form": "cukzowayizaRa",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "cukzowayizaRam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Rvul",
+      "base_form": "cukzowayizaka",
+      "masculine": "cukzowayizakaH",
+      "feminine": "cukzowayizikA",
+      "neuter": "cukzowayizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tfc",
+      "base_form": "cukzowayizitf",
+      "masculine": "cukzowayizitA",
+      "feminine": "cukzowayizitrI",
+      "neuter": "cukzowayizitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "yat",
+      "base_form": "cukzowayizya",
+      "masculine": "cukzowayizyaH",
+      "feminine": "cukzowayizyA",
+      "neuter": "cukzowayizyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tavya",
+      "base_form": "cukzowayizitavya",
+      "masculine": "cukzowayizitavyaH",
+      "feminine": "cukzowayizitavyA",
+      "neuter": "cukzowayizitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "anIyar",
+      "base_form": "cukzowayizaRIya",
+      "masculine": "cukzowayizaRIyaH",
+      "feminine": "cukzowayizaRIyA",
+      "neuter": "cukzowayizaRIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kta",
+      "base_form": "cukzowayizita",
+      "masculine": "cukzowayizitaH",
+      "feminine": "cukzowayizitA",
+      "neuter": "cukzowayizitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktavatu",
+      "base_form": "cukzowayizitavat",
+      "masculine": "cukzowayizitavAn",
+      "feminine": "cukzowayizitavatI",
+      "neuter": "cukzowayizitavat, cukzowayizitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Satf",
+      "base_form": "cukzowayizat",
+      "masculine": "cukzowayizan",
+      "feminine": "cukzowayizantI",
+      "neuter": "cukzowayizat, cukzowayizad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "cukzowayizizyat",
+      "masculine": "cukzowayizizyan",
+      "feminine": "cukzowayizizyatI, cukzowayizizyantI",
+      "neuter": "cukzowayizizyat, cukzowayizizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "SAnac",
+      "base_form": "cukzowayizamARa",
+      "masculine": "cukzowayizamARaH",
+      "feminine": "cukzowayizamARA",
+      "neuter": "cukzowayizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "cukzowayizizyamARa",
+      "masculine": "cukzowayizizyamARaH",
+      "feminine": "cukzowayizizyamARA",
+      "neuter": "cukzowayizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "cukzowayizyamARa",
+      "masculine": "cukzowayizyamARaH",
+      "feminine": "cukzowayizyamARA",
+      "neuter": "cukzowayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "cukzowayizizyamARa",
+      "masculine": "cukzowayizizyamARaH",
+      "feminine": "cukzowayizizyamARA",
+      "neuter": "cukzowayizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktvA",
+      "base_form": "cukzowayizitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyap",
+      "base_form": "pracukzowayizya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tumun",
+      "base_form": "cukzowayizitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Ramul",
+      "base_form": "cukzowayizam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "GaY",
+      "base_form": "cukzowayiza",
+      "masculine": "cukzowayizaH",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktin",
+      "base_form": "cukzowayizwi",
+      "masculine": "",
+      "feminine": "cukzowayizwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ac",
+      "base_form": "cukzowayiza",
+      "masculine": "cukzowayizaH",
+      "feminine": "cukzowayizA",
+      "neuter": "cukzowayizam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kvasu",
+      "base_form": "cukzowayizAmbaBUvas, cukzowayizAmAsivas, cukzowayizAYcakfvas",
+      "masculine": "cukzowayizAmbaBUvAn, cukzowayizAmAsivAn, cukzowayizAYcakfvAn",
+      "feminine": "cukzowayizAmbaBUzI, cukzowayizAmAsyuzI, cukzowayizAYcakruzI",
+      "neuter": "cukzowayizAmbaBUvat, cukzowayizAmbaBUvad, cukzowayizAmAsivat, cukzowayizAmAsivad, cukzowayizAYcakfvat, cukzowayizAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "cAnaS",
+      "base_form": "cukzowayizamARa",
+      "masculine": "cukzowayizamARaH",
+      "feminine": "cukzowayizamARA",
+      "neuter": "cukzowayizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "vun",
+      "base_form": "cukzowayizaka",
+      "masculine": "cukzowayizakaH",
+      "feminine": "cukzowayizikA",
+      "neuter": "cukzowayizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "u",
+      "base_form": "cukzowayizu",
+      "masculine": "cukzowayizuH",
+      "feminine": "cukzowayizuH",
+      "neuter": "cukzowayizu"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "a",
+      "base_form": "cukzowayizA",
+      "masculine": "",
+      "feminine": "cukzowayizA",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyuw",
+      "base_form": "kzowana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "kzowanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Rvul",
+      "base_form": "kzowaka",
+      "masculine": "kzowakaH",
+      "feminine": "kzowikA",
+      "neuter": "kzowakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tfc",
+      "base_form": "kzowayitf",
+      "masculine": "kzowayitA",
+      "feminine": "kzowayitrI",
+      "neuter": "kzowayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "yat",
+      "base_form": "kzowya",
+      "masculine": "kzowyaH",
+      "feminine": "kzowyA",
+      "neuter": "kzowyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tavya",
+      "base_form": "kzowayitavya",
+      "masculine": "kzowayitavyaH",
+      "feminine": "kzowayitavyA",
+      "neuter": "kzowayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "anIyar",
+      "base_form": "kzowanIya",
+      "masculine": "kzowanIyaH",
+      "feminine": "kzowanIyA",
+      "neuter": "kzowanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kta",
+      "base_form": "kzowita",
+      "masculine": "kzowitaH",
+      "feminine": "kzowitA",
+      "neuter": "kzowitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktavatu",
+      "base_form": "kzowitavat",
+      "masculine": "kzowitavAn",
+      "feminine": "kzowitavatI",
+      "neuter": "kzowitavat, kzowitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Satf",
+      "base_form": "kzowayat",
+      "masculine": "kzowayan",
+      "feminine": "kzowayantI",
+      "neuter": "kzowayat, kzowayad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "kzowayizyat",
+      "masculine": "kzowayizyan",
+      "feminine": "kzowayizyatI, kzowayizyantI",
+      "neuter": "kzowayizyat, kzowayizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "SAnac",
+      "base_form": "kzowayamAna",
+      "masculine": "kzowayamAnaH",
+      "feminine": "kzowayamAnA",
+      "neuter": "kzowayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "kzowayizyamARa",
+      "masculine": "kzowayizyamARaH",
+      "feminine": "kzowayizyamARA",
+      "neuter": "kzowayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "kzowyamAna",
+      "masculine": "kzowyamAnaH",
+      "feminine": "kzowyamAnA",
+      "neuter": "kzowyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "kzowizyamARa, kzowayizyamARa",
+      "masculine": "kzowizyamARaH, kzowayizyamARaH",
+      "feminine": "kzowizyamARA, kzowayizyamARA",
+      "neuter": "kzowizyamARam, kzowayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktvA",
+      "base_form": "kzowayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyap",
+      "base_form": "prakzowya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tumun",
+      "base_form": "kzowayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Ramul",
+      "base_form": "kzowam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktin",
+      "base_form": "kzowwi",
+      "masculine": "",
+      "feminine": "kzowwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ac",
+      "base_form": "kzowa",
+      "masculine": "kzowaH",
+      "feminine": "kzowA",
+      "neuter": "kzowam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kvasu",
+      "base_form": "kzowayAmbaBUvas, kzowayAmAsivas, kzowayAYcakfvas",
+      "masculine": "kzowayAmbaBUvAn, kzowayAmAsivAn, kzowayAYcakfvAn",
+      "feminine": "kzowayAmbaBUzI, kzowayAmAsyuzI, kzowayAYcakruzI",
+      "neuter": "kzowayAmbaBUvat, kzowayAmbaBUvad, kzowayAmAsivat, kzowayAmAsivad, kzowayAYcakfvat, kzowayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "cAnaS",
+      "base_form": "kzowayamAna",
+      "masculine": "kzowayamAnaH",
+      "feminine": "kzowayamAnA",
+      "neuter": "kzowayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "vun",
+      "base_form": "kzowaka",
+      "masculine": "kzowakaH",
+      "feminine": "kzowikA",
+      "neuter": "kzowakam"
+    }
+  ],
+  "prayoga": []
+}

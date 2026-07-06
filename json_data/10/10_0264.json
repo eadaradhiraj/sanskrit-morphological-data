@@ -1,0 +1,1114 @@
+{
+  "dhatu_id": "10.0264",
+  "info": {
+    "dhatu": "raG"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGyate",
+      "dvi": "rAGyete",
+      "bahu": "rAGyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGyase",
+      "dvi": "rAGyeTe",
+      "bahu": "rAGyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGye",
+      "dvi": "rAGyAvahe",
+      "bahu": "rAGyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGayAYcakre, rAGayAmAse, rAGayAmbaBUve",
+      "dvi": "rAGayAYcakrAte, rAGayAmAsAte, rAGayAmbaBUvAte",
+      "bahu": "rAGayAYcakrire, rAGayAmAsire, rAGayAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGayAYcakfze, rAGayAmAsize, rAGayAmbaBUvize",
+      "dvi": "rAGayAYcakrATe, rAGayAmAsATe, rAGayAmbaBUvATe",
+      "bahu": "rAGayAYcakfQve, rAGayAmAsiDve, rAGayAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGayAYcakre, rAGayAmAhe, rAGayAmbaBUve",
+      "dvi": "rAGayAYcakfvahe, rAGayAmAsivahe, rAGayAmbaBUvivahe",
+      "bahu": "rAGayAYcakfmahe, rAGayAmAsimahe, rAGayAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGayitA, rAGitA",
+      "dvi": "rAGayitArO, rAGitArO",
+      "bahu": "rAGayitAraH, rAGitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGayitAse, rAGitAse",
+      "dvi": "rAGayitAsATe, rAGitAsATe",
+      "bahu": "rAGayitADve, rAGitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGayitAhe, rAGitAhe",
+      "dvi": "rAGayitAsvahe, rAGitAsvahe",
+      "bahu": "rAGayitAsmahe, rAGitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGayizyate, rAGizyate",
+      "dvi": "rAGayizyete, rAGizyete",
+      "bahu": "rAGayizyante, rAGizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGayizyase, rAGizyase",
+      "dvi": "rAGayizyeTe, rAGizyeTe",
+      "bahu": "rAGayizyaDve, rAGizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGayizye, rAGizye",
+      "dvi": "rAGayizyAvahe, rAGizyAvahe",
+      "bahu": "rAGayizyAmahe, rAGizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGyatAm",
+      "dvi": "rAGyetAm",
+      "bahu": "rAGyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGyasva",
+      "dvi": "rAGyeTAm",
+      "bahu": "rAGyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGyE",
+      "dvi": "rAGyAvahE",
+      "bahu": "rAGyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "arAGyata",
+      "dvi": "arAGyetAm",
+      "bahu": "arAGyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "arAGyaTAH",
+      "dvi": "arAGyeTAm",
+      "bahu": "arAGyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "arAGye",
+      "dvi": "arAGyAvahi",
+      "bahu": "arAGyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGyeta",
+      "dvi": "rAGyeyAtAm",
+      "bahu": "rAGyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGyeTAH",
+      "dvi": "rAGyeyATAm",
+      "bahu": "rAGyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGyeya",
+      "dvi": "rAGyevahi",
+      "bahu": "rAGyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGayizIzwa, rAGizIzwa",
+      "dvi": "rAGayizIyAstAm, rAGizIyAstAm",
+      "bahu": "rAGayizIran, rAGizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGayizIzWAH, rAGizIzWAH",
+      "dvi": "rAGayizIyAsTAm, rAGizIyAsTAm",
+      "bahu": "rAGayizIQvam, rAGayizIDvam, rAGizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGayizIya, rAGizIya",
+      "dvi": "rAGayizIvahi, rAGizIvahi",
+      "bahu": "rAGayizImahi, rAGizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "arAGi",
+      "dvi": "arAGayizAtAm, arAGizAtAm",
+      "bahu": "arAGayizata, arAGizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "arAGayizWAH, arAGizWAH",
+      "dvi": "arAGayizATAm, arAGizATAm",
+      "bahu": "arAGayiQvam, arAGayiDvam, arAGiDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "arAGayizi, arAGizi",
+      "dvi": "arAGayizvahi, arAGizvahi",
+      "bahu": "arAGayizmahi, arAGizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "arAGayizyata, arAGizyata",
+      "dvi": "arAGayizyetAm, arAGizyetAm",
+      "bahu": "arAGayizyanta, arAGizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "arAGayizyaTAH, arAGizyaTAH",
+      "dvi": "arAGayizyeTAm, arAGizyeTAm",
+      "bahu": "arAGayizyaDvam, arAGizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "arAGayizye, arAGizye",
+      "dvi": "arAGayizyAvahi, arAGizyAvahi",
+      "bahu": "arAGayizyAmahi, arAGizyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGyate",
+      "dvi": "rAGyete",
+      "bahu": "rAGyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGyase",
+      "dvi": "rAGyeTe",
+      "bahu": "rAGyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGye",
+      "dvi": "rAGyAvahe",
+      "bahu": "rAGyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGayAYcakre, rAGayAmAse, rAGayAmbaBUve",
+      "dvi": "rAGayAYcakrAte, rAGayAmAsAte, rAGayAmbaBUvAte",
+      "bahu": "rAGayAYcakrire, rAGayAmAsire, rAGayAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGayAYcakfze, rAGayAmAsize, rAGayAmbaBUvize",
+      "dvi": "rAGayAYcakrATe, rAGayAmAsATe, rAGayAmbaBUvATe",
+      "bahu": "rAGayAYcakfQve, rAGayAmAsiDve, rAGayAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGayAYcakre, rAGayAmAhe, rAGayAmbaBUve",
+      "dvi": "rAGayAYcakfvahe, rAGayAmAsivahe, rAGayAmbaBUvivahe",
+      "bahu": "rAGayAYcakfmahe, rAGayAmAsimahe, rAGayAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGayitA, rAGitA",
+      "dvi": "rAGayitArO, rAGitArO",
+      "bahu": "rAGayitAraH, rAGitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGayitAse, rAGitAse",
+      "dvi": "rAGayitAsATe, rAGitAsATe",
+      "bahu": "rAGayitADve, rAGitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGayitAhe, rAGitAhe",
+      "dvi": "rAGayitAsvahe, rAGitAsvahe",
+      "bahu": "rAGayitAsmahe, rAGitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGayizyate, rAGizyate",
+      "dvi": "rAGayizyete, rAGizyete",
+      "bahu": "rAGayizyante, rAGizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGayizyase, rAGizyase",
+      "dvi": "rAGayizyeTe, rAGizyeTe",
+      "bahu": "rAGayizyaDve, rAGizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGayizye, rAGizye",
+      "dvi": "rAGayizyAvahe, rAGizyAvahe",
+      "bahu": "rAGayizyAmahe, rAGizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGyatAm",
+      "dvi": "rAGyetAm",
+      "bahu": "rAGyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGyasva",
+      "dvi": "rAGyeTAm",
+      "bahu": "rAGyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGyE",
+      "dvi": "rAGyAvahE",
+      "bahu": "rAGyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "arAGyata",
+      "dvi": "arAGyetAm",
+      "bahu": "arAGyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "arAGyaTAH",
+      "dvi": "arAGyeTAm",
+      "bahu": "arAGyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "arAGye",
+      "dvi": "arAGyAvahi",
+      "bahu": "arAGyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGyeta",
+      "dvi": "rAGyeyAtAm",
+      "bahu": "rAGyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGyeTAH",
+      "dvi": "rAGyeyATAm",
+      "bahu": "rAGyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGyeya",
+      "dvi": "rAGyevahi",
+      "bahu": "rAGyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "rAGayizIzwa, rAGizIzwa",
+      "dvi": "rAGayizIyAstAm, rAGizIyAstAm",
+      "bahu": "rAGayizIran, rAGizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "rAGayizIzWAH, rAGizIzWAH",
+      "dvi": "rAGayizIyAsTAm, rAGizIyAsTAm",
+      "bahu": "rAGayizIQvam, rAGayizIDvam, rAGizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "rAGayizIya, rAGizIya",
+      "dvi": "rAGayizIvahi, rAGizIvahi",
+      "bahu": "rAGayizImahi, rAGizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "arAGi",
+      "dvi": "arAGayizAtAm, arAGizAtAm",
+      "bahu": "arAGayizata, arAGizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "arAGayizWAH, arAGizWAH",
+      "dvi": "arAGayizATAm, arAGizATAm",
+      "bahu": "arAGayiQvam, arAGayiDvam, arAGiDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "arAGayizi, arAGizi",
+      "dvi": "arAGayizvahi, arAGizvahi",
+      "bahu": "arAGayizmahi, arAGizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "arAGayizyata, arAGizyata",
+      "dvi": "arAGayizyetAm, arAGizyetAm",
+      "bahu": "arAGayizyanta, arAGizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "arAGayizyaTAH, arAGizyaTAH",
+      "dvi": "arAGayizyeTAm, arAGizyeTAm",
+      "bahu": "arAGayizyaDvam, arAGizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "arAGayizye, arAGizye",
+      "dvi": "arAGayizyAvahi, arAGizyAvahi",
+      "bahu": "arAGayizyAmahi, arAGizyAmahi"
+    }
+  ],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyuw",
+      "base_form": "rirAGayizaRa",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "rirAGayizaRam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Rvul",
+      "base_form": "rirAGayizaka",
+      "masculine": "rirAGayizakaH",
+      "feminine": "rirAGayizikA",
+      "neuter": "rirAGayizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tfc",
+      "base_form": "rirAGayizitf",
+      "masculine": "rirAGayizitA",
+      "feminine": "rirAGayizitrI",
+      "neuter": "rirAGayizitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "yat",
+      "base_form": "rirAGayizya",
+      "masculine": "rirAGayizyaH",
+      "feminine": "rirAGayizyA",
+      "neuter": "rirAGayizyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tavya",
+      "base_form": "rirAGayizitavya",
+      "masculine": "rirAGayizitavyaH",
+      "feminine": "rirAGayizitavyA",
+      "neuter": "rirAGayizitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "anIyar",
+      "base_form": "rirAGayizaRIya",
+      "masculine": "rirAGayizaRIyaH",
+      "feminine": "rirAGayizaRIyA",
+      "neuter": "rirAGayizaRIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kta",
+      "base_form": "rirAGayizita",
+      "masculine": "rirAGayizitaH",
+      "feminine": "rirAGayizitA",
+      "neuter": "rirAGayizitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktavatu",
+      "base_form": "rirAGayizitavat",
+      "masculine": "rirAGayizitavAn",
+      "feminine": "rirAGayizitavatI",
+      "neuter": "rirAGayizitavat, rirAGayizitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Satf",
+      "base_form": "rirAGayizat",
+      "masculine": "rirAGayizan",
+      "feminine": "rirAGayizantI",
+      "neuter": "rirAGayizat, rirAGayizad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "rirAGayizizyat",
+      "masculine": "rirAGayizizyan",
+      "feminine": "rirAGayizizyatI, rirAGayizizyantI",
+      "neuter": "rirAGayizizyat, rirAGayizizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "SAnac",
+      "base_form": "rirAGayizamARa",
+      "masculine": "rirAGayizamARaH",
+      "feminine": "rirAGayizamARA",
+      "neuter": "rirAGayizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "rirAGayizizyamARa",
+      "masculine": "rirAGayizizyamARaH",
+      "feminine": "rirAGayizizyamARA",
+      "neuter": "rirAGayizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "rirAGayizyamARa",
+      "masculine": "rirAGayizyamARaH",
+      "feminine": "rirAGayizyamARA",
+      "neuter": "rirAGayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "rirAGayizizyamARa",
+      "masculine": "rirAGayizizyamARaH",
+      "feminine": "rirAGayizizyamARA",
+      "neuter": "rirAGayizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktvA",
+      "base_form": "rirAGayizitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyap",
+      "base_form": "prarirAGayizya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tumun",
+      "base_form": "rirAGayizitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Ramul",
+      "base_form": "rirAGayizam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "GaY",
+      "base_form": "rirAGayiza",
+      "masculine": "rirAGayizaH",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktin",
+      "base_form": "rirAGayizwi",
+      "masculine": "",
+      "feminine": "rirAGayizwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ac",
+      "base_form": "rirAGayiza",
+      "masculine": "rirAGayizaH",
+      "feminine": "rirAGayizA",
+      "neuter": "rirAGayizam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kvasu",
+      "base_form": "rirAGayizAmbaBUvas, rirAGayizAmAsivas, rirAGayizAYcakfvas",
+      "masculine": "rirAGayizAmbaBUvAn, rirAGayizAmAsivAn, rirAGayizAYcakfvAn",
+      "feminine": "rirAGayizAmbaBUzI, rirAGayizAmAsyuzI, rirAGayizAYcakruzI",
+      "neuter": "rirAGayizAmbaBUvat, rirAGayizAmbaBUvad, rirAGayizAmAsivat, rirAGayizAmAsivad, rirAGayizAYcakfvat, rirAGayizAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "cAnaS",
+      "base_form": "rirAGayizamARa",
+      "masculine": "rirAGayizamARaH",
+      "feminine": "rirAGayizamARA",
+      "neuter": "rirAGayizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "vun",
+      "base_form": "rirAGayizaka",
+      "masculine": "rirAGayizakaH",
+      "feminine": "rirAGayizikA",
+      "neuter": "rirAGayizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "u",
+      "base_form": "rirAGayizu",
+      "masculine": "rirAGayizuH",
+      "feminine": "rirAGayizuH",
+      "neuter": "rirAGayizu"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "a",
+      "base_form": "rirAGayizA",
+      "masculine": "",
+      "feminine": "rirAGayizA",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyuw",
+      "base_form": "rAGaRa",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "rAGaRam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Rvul",
+      "base_form": "rAGaka",
+      "masculine": "rAGakaH",
+      "feminine": "rAGikA",
+      "neuter": "rAGakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tfc",
+      "base_form": "rAGayitf",
+      "masculine": "rAGayitA",
+      "feminine": "rAGayitrI",
+      "neuter": "rAGayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "yat",
+      "base_form": "rAGya",
+      "masculine": "rAGyaH",
+      "feminine": "rAGyA",
+      "neuter": "rAGyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tavya",
+      "base_form": "rAGayitavya",
+      "masculine": "rAGayitavyaH",
+      "feminine": "rAGayitavyA",
+      "neuter": "rAGayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "anIyar",
+      "base_form": "rAGaRIya",
+      "masculine": "rAGaRIyaH",
+      "feminine": "rAGaRIyA",
+      "neuter": "rAGaRIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kta",
+      "base_form": "rAGita",
+      "masculine": "rAGitaH",
+      "feminine": "rAGitA",
+      "neuter": "rAGitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktavatu",
+      "base_form": "rAGitavat",
+      "masculine": "rAGitavAn",
+      "feminine": "rAGitavatI",
+      "neuter": "rAGitavat, rAGitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Satf",
+      "base_form": "rAGayat",
+      "masculine": "rAGayan",
+      "feminine": "rAGayantI",
+      "neuter": "rAGayat, rAGayad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "rAGayizyat",
+      "masculine": "rAGayizyan",
+      "feminine": "rAGayizyatI, rAGayizyantI",
+      "neuter": "rAGayizyat, rAGayizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "SAnac",
+      "base_form": "rAGayamARa",
+      "masculine": "rAGayamARaH",
+      "feminine": "rAGayamARA",
+      "neuter": "rAGayamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "rAGayizyamARa",
+      "masculine": "rAGayizyamARaH",
+      "feminine": "rAGayizyamARA",
+      "neuter": "rAGayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "rAGyamARa",
+      "masculine": "rAGyamARaH",
+      "feminine": "rAGyamARA",
+      "neuter": "rAGyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "rAGizyamARa, rAGayizyamARa",
+      "masculine": "rAGizyamARaH, rAGayizyamARaH",
+      "feminine": "rAGizyamARA, rAGayizyamARA",
+      "neuter": "rAGizyamARam, rAGayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktvA",
+      "base_form": "rAGayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyap",
+      "base_form": "prarAGya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tumun",
+      "base_form": "rAGayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Ramul",
+      "base_form": "rAGam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktin",
+      "base_form": "rAgDi",
+      "masculine": "",
+      "feminine": "rAgDiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ac",
+      "base_form": "rAGa",
+      "masculine": "rAGaH",
+      "feminine": "rAGA",
+      "neuter": "rAGam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kvasu",
+      "base_form": "rAGayAmbaBUvas, rAGayAmAsivas, rAGayAYcakfvas",
+      "masculine": "rAGayAmbaBUvAn, rAGayAmAsivAn, rAGayAYcakfvAn",
+      "feminine": "rAGayAmbaBUzI, rAGayAmAsyuzI, rAGayAYcakruzI",
+      "neuter": "rAGayAmbaBUvat, rAGayAmbaBUvad, rAGayAmAsivat, rAGayAmAsivad, rAGayAYcakfvat, rAGayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "cAnaS",
+      "base_form": "rAGayamARa",
+      "masculine": "rAGayamARaH",
+      "feminine": "rAGayamARA",
+      "neuter": "rAGayamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "vun",
+      "base_form": "rAGaka",
+      "masculine": "rAGakaH",
+      "feminine": "rAGikA",
+      "neuter": "rAGakam"
+    }
+  ],
+  "prayoga": []
+}

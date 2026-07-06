@@ -1,0 +1,399 @@
+{
+  "dhatu_id": "9.0019",
+  "info": {
+    "dhatu": "vF"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "vovUryate",
+      "dvi": "vovUryete",
+      "bahu": "vovUryante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "vovUryase",
+      "dvi": "vovUryeTe",
+      "bahu": "vovUryaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "vovUrye",
+      "dvi": "vovUryAvahe",
+      "bahu": "vovUryAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "vovurAYcakre, vovurAmAse, vovurAmbaBUve",
+      "dvi": "vovurAYcakrAte, vovurAmAsAte, vovurAmbaBUvAte",
+      "bahu": "vovurAYcakrire, vovurAmAsire, vovurAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "vovurAYcakfze, vovurAmAsize, vovurAmbaBUvize",
+      "dvi": "vovurAYcakrATe, vovurAmAsATe, vovurAmbaBUvATe",
+      "bahu": "vovurAYcakfQve, vovurAmAsiDve, vovurAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "vovurAYcakre, vovurAmAhe, vovurAmbaBUve",
+      "dvi": "vovurAYcakfvahe, vovurAmAsivahe, vovurAmbaBUvivahe",
+      "bahu": "vovurAYcakfmahe, vovurAmAsimahe, vovurAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "vovuritA",
+      "dvi": "vovuritArO",
+      "bahu": "vovuritAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "vovuritAse",
+      "dvi": "vovuritAsATe",
+      "bahu": "vovuritADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "vovuritAhe",
+      "dvi": "vovuritAsvahe",
+      "bahu": "vovuritAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "vovurizyate",
+      "dvi": "vovurizyete",
+      "bahu": "vovurizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "vovurizyase",
+      "dvi": "vovurizyeTe",
+      "bahu": "vovurizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "vovurizye",
+      "dvi": "vovurizyAvahe",
+      "bahu": "vovurizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "vovUryatAm",
+      "dvi": "vovUryetAm",
+      "bahu": "vovUryantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "vovUryasva",
+      "dvi": "vovUryeTAm",
+      "bahu": "vovUryaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "vovUryE",
+      "dvi": "vovUryAvahE",
+      "bahu": "vovUryAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "avovUryata",
+      "dvi": "avovUryetAm",
+      "bahu": "avovUryanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "avovUryaTAH",
+      "dvi": "avovUryeTAm",
+      "bahu": "avovUryaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "avovUrye",
+      "dvi": "avovUryAvahi",
+      "bahu": "avovUryAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "vovUryeta",
+      "dvi": "vovUryeyAtAm",
+      "bahu": "vovUryeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "vovUryeTAH",
+      "dvi": "vovUryeyATAm",
+      "bahu": "vovUryeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "vovUryeya",
+      "dvi": "vovUryevahi",
+      "bahu": "vovUryemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "vovurizIzwa",
+      "dvi": "vovurizIyAstAm",
+      "bahu": "vovurizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "vovurizIzWAH",
+      "dvi": "vovurizIyAsTAm",
+      "bahu": "vovurizIQvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "vovurizIya",
+      "dvi": "vovurizIvahi",
+      "bahu": "vovurizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "avovuri",
+      "dvi": "avovurizAtAm",
+      "bahu": "avovurizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "avovurizWAH",
+      "dvi": "avovurizATAm",
+      "bahu": "avovuriQvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "avovurizi",
+      "dvi": "avovurizvahi",
+      "bahu": "avovurizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "avovurizyata",
+      "dvi": "avovurizyetAm",
+      "bahu": "avovurizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "avovurizyaTAH",
+      "dvi": "avovurizyeTAm",
+      "bahu": "avovurizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "avovurizye",
+      "dvi": "avovurizyAvahi",
+      "bahu": "avovurizyAmahi"
+    }
+  ],
+  "participles": [],
+  "prayoga": [
+    {
+      "form": "vfRIte",
+      "lakara": "lawlakAraH",
+      "purusha": "Atmanepadam",
+      "vacana": "praTamapuruzaH",
+      "book": "kaWopanizad",
+      "literature_text": "preyo mando yogakzemAdvfRIte"
+    },
+    {
+      "form": "vfRe",
+      "lakara": "lawlakAraH",
+      "purusha": "Atmanepadam",
+      "vacana": "uttamapuruzaH",
+      "book": "kaWopanizad",
+      "literature_text": "etat trayARAM praTamaM varaM vfRe"
+    },
+    {
+      "form": "vfRIzva",
+      "lakara": "lowlakAraH",
+      "purusha": "Atmanepadam",
+      "vacana": "maDyamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "prIto'mi te putra varaM vfRIzva"
+    },
+    {
+      "form": "vfRIzva",
+      "lakara": "lowlakAraH",
+      "purusha": "Atmanepadam",
+      "vacana": "maDyamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "tvamAtmanastulyamamuM vfRIzva"
+    },
+    {
+      "form": "vfRIzva",
+      "lakara": "lowlakAraH",
+      "purusha": "Atmanepadam",
+      "vacana": "maDyamapuruzaH",
+      "book": "vAlmIkirAmAyaRe bAlakARqam",
+      "literature_text": "pitaraM no vfRIzva tvaM yadi no dAsyate"
+    },
+    {
+      "form": "vfRIzva",
+      "lakara": "lowlakAraH",
+      "purusha": "Atmanepadam",
+      "vacana": "maDyamapuruzaH",
+      "book": "kaWopanizad",
+      "literature_text": "tasmAtprati trInvarAnvfRIzva"
+    },
+    {
+      "form": "vfRIta",
+      "lakara": "viDiliNlakAraH",
+      "purusha": "Atmanepadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "vfRIta mAM neti samAkulo'BUt"
+    }
+  ]
+}

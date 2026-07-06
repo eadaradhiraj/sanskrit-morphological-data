@@ -1,0 +1,417 @@
+{
+  "dhatu_id": "10.0213",
+  "info": {
+    "dhatu": "BrUR"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyuw",
+      "base_form": "BrURana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "BrURanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Rvul",
+      "base_form": "BrURaka",
+      "masculine": "BrURakaH",
+      "feminine": "BrURikA",
+      "neuter": "BrURakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tfc",
+      "base_form": "BrURayitf",
+      "masculine": "BrURayitA",
+      "feminine": "BrURayitrI",
+      "neuter": "BrURayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "yat",
+      "base_form": "BrURya",
+      "masculine": "BrURyaH",
+      "feminine": "BrURyA",
+      "neuter": "BrURyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tavya",
+      "base_form": "BrURayitavya",
+      "masculine": "BrURayitavyaH",
+      "feminine": "BrURayitavyA",
+      "neuter": "BrURayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "anIyar",
+      "base_form": "BrURanIya",
+      "masculine": "BrURanIyaH",
+      "feminine": "BrURanIyA",
+      "neuter": "BrURanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kta",
+      "base_form": "BrURita",
+      "masculine": "BrURitaH",
+      "feminine": "BrURitA",
+      "neuter": "BrURitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktavatu",
+      "base_form": "BrURitavat",
+      "masculine": "BrURitavAn",
+      "feminine": "BrURitavatI",
+      "neuter": "BrURitavat, BrURitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "SAnac",
+      "base_form": "BrURayamAna",
+      "masculine": "BrURayamAnaH",
+      "feminine": "BrURayamAnA",
+      "neuter": "BrURayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-SAnac",
+      "base_form": "BrURayizyamARa",
+      "masculine": "BrURayizyamARaH",
+      "feminine": "BrURayizyamARA",
+      "neuter": "BrURayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "BrURyamAna",
+      "masculine": "BrURyamAnaH",
+      "feminine": "BrURyamAnA",
+      "neuter": "BrURyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "BrURizyamARa, BrURayizyamARa",
+      "masculine": "BrURizyamARaH, BrURayizyamARaH",
+      "feminine": "BrURizyamARA, BrURayizyamARA",
+      "neuter": "BrURizyamARam, BrURayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktvA",
+      "base_form": "BrURayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyap",
+      "base_form": "praBrURya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tumun",
+      "base_form": "BrURayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Ramul",
+      "base_form": "BrURam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktin",
+      "base_form": "BrURwi",
+      "masculine": "",
+      "feminine": "BrURwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ac",
+      "base_form": "BrURa",
+      "masculine": "BrURaH",
+      "feminine": "BrURA",
+      "neuter": "BrURam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kvasu",
+      "base_form": "BrURayAmbaBUvas, BrURayAmAsivas, BrURayAYcakfvas",
+      "masculine": "BrURayAmbaBUvAn, BrURayAmAsivAn, BrURayAYcakfvAn",
+      "feminine": "BrURayAmbaBUzI, BrURayAmAsuzI, BrURayAYcakruzI",
+      "neuter": "BrURayAmbaBUvat, BrURayAmbaBUvad, BrURayAmAsivat, BrURayAmAsivad, BrURayAYcakfvat, BrURayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "cAnaS",
+      "base_form": "BrURayamAna",
+      "masculine": "BrURayamAnaH",
+      "feminine": "BrURayamAnA",
+      "neuter": "BrURayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "vun",
+      "base_form": "BrURaka",
+      "masculine": "BrURakaH",
+      "feminine": "BrURikA",
+      "neuter": "BrURakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyuw",
+      "base_form": "buBrURayizaRa",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "buBrURayizaRam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Rvul",
+      "base_form": "buBrURayizaka",
+      "masculine": "buBrURayizakaH",
+      "feminine": "buBrURayizikA",
+      "neuter": "buBrURayizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tfc",
+      "base_form": "buBrURayizitf",
+      "masculine": "buBrURayizitA",
+      "feminine": "buBrURayizitrI",
+      "neuter": "buBrURayizitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "yat",
+      "base_form": "buBrURayizya",
+      "masculine": "buBrURayizyaH",
+      "feminine": "buBrURayizyA",
+      "neuter": "buBrURayizyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tavya",
+      "base_form": "buBrURayizitavya",
+      "masculine": "buBrURayizitavyaH",
+      "feminine": "buBrURayizitavyA",
+      "neuter": "buBrURayizitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "anIyar",
+      "base_form": "buBrURayizaRIya",
+      "masculine": "buBrURayizaRIyaH",
+      "feminine": "buBrURayizaRIyA",
+      "neuter": "buBrURayizaRIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kta",
+      "base_form": "buBrURayizita",
+      "masculine": "buBrURayizitaH",
+      "feminine": "buBrURayizitA",
+      "neuter": "buBrURayizitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktavatu",
+      "base_form": "buBrURayizitavat",
+      "masculine": "buBrURayizitavAn",
+      "feminine": "buBrURayizitavatI",
+      "neuter": "buBrURayizitavat, buBrURayizitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "SAnac",
+      "base_form": "buBrURayizamARa",
+      "masculine": "buBrURayizamARaH",
+      "feminine": "buBrURayizamARA",
+      "neuter": "buBrURayizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "buBrURayizizyamARa",
+      "masculine": "buBrURayizizyamARaH",
+      "feminine": "buBrURayizizyamARA",
+      "neuter": "buBrURayizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "buBrURayizyamARa",
+      "masculine": "buBrURayizyamARaH",
+      "feminine": "buBrURayizyamARA",
+      "neuter": "buBrURayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "buBrURayizizyamARa",
+      "masculine": "buBrURayizizyamARaH",
+      "feminine": "buBrURayizizyamARA",
+      "neuter": "buBrURayizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktvA",
+      "base_form": "buBrURayizitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyap",
+      "base_form": "prabuBrURayizya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tumun",
+      "base_form": "buBrURayizitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Ramul",
+      "base_form": "buBrURayizam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "GaY",
+      "base_form": "buBrURayiza",
+      "masculine": "buBrURayizaH",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktin",
+      "base_form": "buBrURayizwi",
+      "masculine": "",
+      "feminine": "buBrURayizwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ac",
+      "base_form": "buBrURayiza",
+      "masculine": "buBrURayizaH",
+      "feminine": "buBrURayizA",
+      "neuter": "buBrURayizam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kvasu",
+      "base_form": "buBrURayizAmbaBUvas, buBrURayizAmAsivas, buBrURayizAYcakfvas",
+      "masculine": "buBrURayizAmbaBUvAn, buBrURayizAmAsivAn, buBrURayizAYcakfvAn",
+      "feminine": "buBrURayizAmbaBUzI, buBrURayizAmAsyuzI, buBrURayizAYcakruzI",
+      "neuter": "buBrURayizAmbaBUvat, buBrURayizAmbaBUvad, buBrURayizAmAsivat, buBrURayizAmAsivad, buBrURayizAYcakfvat, buBrURayizAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "cAnaS",
+      "base_form": "buBrURayizamARa",
+      "masculine": "buBrURayizamARaH",
+      "feminine": "buBrURayizamARA",
+      "neuter": "buBrURayizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "vun",
+      "base_form": "buBrURayizaka",
+      "masculine": "buBrURayizakaH",
+      "feminine": "buBrURayizikA",
+      "neuter": "buBrURayizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "u",
+      "base_form": "buBrURayizu",
+      "masculine": "buBrURayizuH",
+      "feminine": "buBrURayizuH",
+      "neuter": "buBrURayizu"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "a",
+      "base_form": "buBrURayizA",
+      "masculine": "",
+      "feminine": "buBrURayizA",
+      "neuter": ""
+    }
+  ],
+  "prayoga": []
+}

@@ -1,0 +1,532 @@
+{
+  "dhatu_id": "10.0209",
+  "info": {
+    "dhatu": "nizk"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "nizkayate",
+      "dvi": "nizkayete",
+      "bahu": "nizkayante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "nizkayase",
+      "dvi": "nizkayeTe",
+      "bahu": "nizkayaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "nizkaye",
+      "dvi": "nizkayAvahe",
+      "bahu": "nizkayAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "nizkayAYcakre, nizkayAmAsa, nizkayAmbaBUva",
+      "dvi": "nizkayAYcakrAte, nizkayAmAsatuH, nizkayAmbaBUvatuH",
+      "bahu": "nizkayAYcakrire, nizkayAmAsuH, nizkayAmbaBUvuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "nizkayAYcakfze, nizkayAmAsiTa, nizkayAmbaBUviTa",
+      "dvi": "nizkayAYcakrATe, nizkayAmAsaTuH, nizkayAmbaBUvaTuH",
+      "bahu": "nizkayAYcakfQve, nizkayAmAsa, nizkayAmbaBUva"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "nizkayAYcakre, nizkayAmAsa, nizkayAmbaBUva",
+      "dvi": "nizkayAYcakfvahe, nizkayAmAsiva, nizkayAmbaBUviva",
+      "bahu": "nizkayAYcakfmahe, nizkayAmAsima, nizkayAmbaBUvima"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "nizkayitA",
+      "dvi": "nizkayitArO",
+      "bahu": "nizkayitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "nizkayitAse",
+      "dvi": "nizkayitAsATe",
+      "bahu": "nizkayitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "nizkayitAhe",
+      "dvi": "nizkayitAsvahe",
+      "bahu": "nizkayitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "nizkayizyate",
+      "dvi": "nizkayizyete",
+      "bahu": "nizkayizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "nizkayizyase",
+      "dvi": "nizkayizyeTe",
+      "bahu": "nizkayizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "nizkayizye",
+      "dvi": "nizkayizyAvahe",
+      "bahu": "nizkayizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "nizkayatAm",
+      "dvi": "nizkayetAm",
+      "bahu": "nizkayantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "nizkayasva",
+      "dvi": "nizkayeTAm",
+      "bahu": "nizkayaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "nizkayE",
+      "dvi": "nizkayAvahE",
+      "bahu": "nizkayAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "anizkayata",
+      "dvi": "anizkayetAm",
+      "bahu": "anizkayanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "anizkayaTAH",
+      "dvi": "anizkayeTAm",
+      "bahu": "anizkayaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "anizkaye",
+      "dvi": "anizkayAvahi",
+      "bahu": "anizkayAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "nizkayeta",
+      "dvi": "nizkayeyAtAm",
+      "bahu": "nizkayeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "nizkayeTAH",
+      "dvi": "nizkayeyATAm",
+      "bahu": "nizkayeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "nizkayeya",
+      "dvi": "nizkayevahi",
+      "bahu": "nizkayemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "nizkayizIzwa",
+      "dvi": "nizkayizIyAstAm",
+      "bahu": "nizkayizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "nizkayizIzWAH",
+      "dvi": "nizkayizIyAsTAm",
+      "bahu": "nizkayizIQvam, nizkayizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "nizkayizIya",
+      "dvi": "nizkayizIvahi",
+      "bahu": "nizkayizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "aninizkata",
+      "dvi": "aninizketAm",
+      "bahu": "aninizkanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "aninizkaTAH",
+      "dvi": "aninizkeTAm",
+      "bahu": "aninizkaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "aninizke",
+      "dvi": "aninizkAvahi",
+      "bahu": "aninizkAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "anizkayizyata",
+      "dvi": "anizkayizyetAm",
+      "bahu": "anizkayizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "anizkayizyaTAH",
+      "dvi": "anizkayizyeTAm",
+      "bahu": "anizkayizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "anizkayizye",
+      "dvi": "anizkayizyAvahi",
+      "bahu": "anizkayizyAmahi"
+    }
+  ],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyuw",
+      "base_form": "nizkaRa",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "nizkaRam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Rvul",
+      "base_form": "nizkaka",
+      "masculine": "nizkakaH",
+      "feminine": "nizkikA",
+      "neuter": "nizkakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tfc",
+      "base_form": "nizkayitf",
+      "masculine": "nizkayitA",
+      "feminine": "nizkayitrI",
+      "neuter": "nizkayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "yat",
+      "base_form": "nizkya",
+      "masculine": "nizkyaH",
+      "feminine": "nizkyA",
+      "neuter": "nizkyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tavya",
+      "base_form": "nizkayitavya",
+      "masculine": "nizkayitavyaH",
+      "feminine": "nizkayitavyA",
+      "neuter": "nizkayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "anIyar",
+      "base_form": "nizkaRIya",
+      "masculine": "nizkaRIyaH",
+      "feminine": "nizkaRIyA",
+      "neuter": "nizkaRIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kta",
+      "base_form": "nizkita",
+      "masculine": "nizkitaH",
+      "feminine": "nizkitA",
+      "neuter": "nizkitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktavatu",
+      "base_form": "nizkitavat",
+      "masculine": "nizkitavAn",
+      "feminine": "nizkitavatI",
+      "neuter": "nizkitavat, nizkitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "SAnac",
+      "base_form": "nizkayamARa",
+      "masculine": "nizkayamARaH",
+      "feminine": "nizkayamARA",
+      "neuter": "nizkayamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-SAnac",
+      "base_form": "nizkayizyamARa",
+      "masculine": "nizkayizyamARaH",
+      "feminine": "nizkayizyamARA",
+      "neuter": "nizkayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "nizkyamARa",
+      "masculine": "nizkyamARaH",
+      "feminine": "nizkyamARA",
+      "neuter": "nizkyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "nizkizyamARa, nizkayizyamARa",
+      "masculine": "nizkizyamARaH, nizkayizyamARaH",
+      "feminine": "nizkizyamARA, nizkayizyamARA",
+      "neuter": "nizkizyamARam, nizkayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktvA",
+      "base_form": "nizkayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyap",
+      "base_form": "pranizkya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tumun",
+      "base_form": "nizkayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Ramul",
+      "base_form": "nizkam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktin",
+      "base_form": "nizkti",
+      "masculine": "",
+      "feminine": "nizktiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ac",
+      "base_form": "nizka",
+      "masculine": "nizkaH",
+      "feminine": "nizkA",
+      "neuter": "nizkam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kvasu",
+      "base_form": "nizkayAmbaBUvas, nizkayAmAsivas, nizkayAYcakfvas",
+      "masculine": "nizkayAmbaBUvAn, nizkayAmAsivAn, nizkayAYcakfvAn",
+      "feminine": "nizkayAmbaBUzI, nizkayAmAsuzI, nizkayAYcakruzI",
+      "neuter": "nizkayAmbaBUvat, nizkayAmbaBUvad, nizkayAmAsivat, nizkayAmAsivad, nizkayAYcakfvat, nizkayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "cAnaS",
+      "base_form": "nizkayamARa",
+      "masculine": "nizkayamARaH",
+      "feminine": "nizkayamARA",
+      "neuter": "nizkayamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "vun",
+      "base_form": "nizkaka",
+      "masculine": "nizkakaH",
+      "feminine": "nizkikA",
+      "neuter": "nizkakam"
+    }
+  ],
+  "prayoga": []
+}

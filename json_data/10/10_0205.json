@@ -1,0 +1,342 @@
+{
+  "dhatu_id": "10.0205",
+  "info": {
+    "dhatu": "kil"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kelyate",
+      "dvi": "kelyete",
+      "bahu": "kelyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kelyase",
+      "dvi": "kelyeTe",
+      "bahu": "kelyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kelye",
+      "dvi": "kelyAvahe",
+      "bahu": "kelyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kelayAYcakre, kelayAmAse, kelayAmbaBUve",
+      "dvi": "kelayAYcakrAte, kelayAmAsAte, kelayAmbaBUvAte",
+      "bahu": "kelayAYcakrire, kelayAmAsire, kelayAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kelayAYcakfze, kelayAmAsize, kelayAmbaBUvize",
+      "dvi": "kelayAYcakrATe, kelayAmAsATe, kelayAmbaBUvATe",
+      "bahu": "kelayAYcakfQve, kelayAmAsiDve, kelayAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kelayAYcakre, kelayAmAhe, kelayAmbaBUve",
+      "dvi": "kelayAYcakfvahe, kelayAmAsivahe, kelayAmbaBUvivahe",
+      "bahu": "kelayAYcakfmahe, kelayAmAsimahe, kelayAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kelayitA, kelitA",
+      "dvi": "kelayitArO, kelitArO",
+      "bahu": "kelayitAraH, kelitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kelayitAse, kelitAse",
+      "dvi": "kelayitAsATe, kelitAsATe",
+      "bahu": "kelayitADve, kelitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kelayitAhe, kelitAhe",
+      "dvi": "kelayitAsvahe, kelitAsvahe",
+      "bahu": "kelayitAsmahe, kelitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kelayizyate, kelizyate",
+      "dvi": "kelayizyete, kelizyete",
+      "bahu": "kelayizyante, kelizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kelayizyase, kelizyase",
+      "dvi": "kelayizyeTe, kelizyeTe",
+      "bahu": "kelayizyaDve, kelizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kelayizye, kelizye",
+      "dvi": "kelayizyAvahe, kelizyAvahe",
+      "bahu": "kelayizyAmahe, kelizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kelyatAm",
+      "dvi": "kelyetAm",
+      "bahu": "kelyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kelyasva",
+      "dvi": "kelyeTAm",
+      "bahu": "kelyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kelyE",
+      "dvi": "kelyAvahE",
+      "bahu": "kelyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "akelyata",
+      "dvi": "akelyetAm",
+      "bahu": "akelyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "akelyaTAH",
+      "dvi": "akelyeTAm",
+      "bahu": "akelyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "akelye",
+      "dvi": "akelyAvahi",
+      "bahu": "akelyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kelyeta",
+      "dvi": "kelyeyAtAm",
+      "bahu": "kelyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kelyeTAH",
+      "dvi": "kelyeyATAm",
+      "bahu": "kelyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kelyeya",
+      "dvi": "kelyevahi",
+      "bahu": "kelyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "kelayizIzwa, kelizIzwa",
+      "dvi": "kelayizIyAstAm, kelizIyAstAm",
+      "bahu": "kelayizIran, kelizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "kelayizIzWAH, kelizIzWAH",
+      "dvi": "kelayizIyAsTAm, kelizIyAsTAm",
+      "bahu": "kelayizIQvam, kelayizIDvam, kelizIQvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "kelayizIya, kelizIya",
+      "dvi": "kelayizIvahi, kelizIvahi",
+      "bahu": "kelayizImahi, kelizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "akeli",
+      "dvi": "akelayizAtAm, akelizAtAm",
+      "bahu": "akelayizata, akelizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "akelayizWAH, akelizWAH",
+      "dvi": "akelayizATAm, akelizATAm",
+      "bahu": "akelayiQvam, akelayiDvam, akeliQvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "akelayizi, akelizi",
+      "dvi": "akelayizvahi, akelizvahi",
+      "bahu": "akelayizmahi, akelizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "akelayizyata, akelizyata",
+      "dvi": "akelayizyetAm, akelizyetAm",
+      "bahu": "akelayizyanta, akelizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "akelayizyaTAH, akelizyaTAH",
+      "dvi": "akelayizyeTAm, akelizyeTAm",
+      "bahu": "akelayizyaDvam, akelizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "akelayizye, akelizye",
+      "dvi": "akelayizyAvahi, akelizyAvahi",
+      "bahu": "akelayizyAmahi, akelizyAmahi"
+    }
+  ],
+  "participles": [],
+  "prayoga": []
+}

@@ -1,0 +1,342 @@
+{
+  "dhatu_id": "1.0556",
+  "info": {
+    "dhatu": "Uy"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Uyyate",
+      "dvi": "Uyyete",
+      "bahu": "Uyyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "Uyyase",
+      "dvi": "UyyeTe",
+      "bahu": "UyyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Uyye",
+      "dvi": "UyyAvahe",
+      "bahu": "UyyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "UyAYcakre, UyAmAse, UyAmbaBUve",
+      "dvi": "UyAYcakrAte, UyAmAsAte, UyAmbaBUvAte",
+      "bahu": "UyAYcakrire, UyAmAsire, UyAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "UyAYcakfze, UyAmAsize, UyAmbaBUvize",
+      "dvi": "UyAYcakrATe, UyAmAsATe, UyAmbaBUvATe",
+      "bahu": "UyAYcakfQve, UyAmAsiDve, UyAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "UyAYcakre, UyAmAhe, UyAmbaBUve",
+      "dvi": "UyAYcakfvahe, UyAmAsivahe, UyAmbaBUvivahe",
+      "bahu": "UyAYcakfmahe, UyAmAsimahe, UyAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "UyitA",
+      "dvi": "UyitArO",
+      "bahu": "UyitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "UyitAse",
+      "dvi": "UyitAsATe",
+      "bahu": "UyitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "UyitAhe",
+      "dvi": "UyitAsvahe",
+      "bahu": "UyitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Uyizyate",
+      "dvi": "Uyizyete",
+      "bahu": "Uyizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "Uyizyase",
+      "dvi": "UyizyeTe",
+      "bahu": "UyizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Uyizye",
+      "dvi": "UyizyAvahe",
+      "bahu": "UyizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "UyyatAm",
+      "dvi": "UyyetAm",
+      "bahu": "UyyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "Uyyasva",
+      "dvi": "UyyeTAm",
+      "bahu": "UyyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "UyyE",
+      "dvi": "UyyAvahE",
+      "bahu": "UyyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Oyyata",
+      "dvi": "OyyetAm",
+      "bahu": "Oyyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "OyyaTAH",
+      "dvi": "OyyeTAm",
+      "bahu": "OyyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Oyye",
+      "dvi": "OyyAvahi",
+      "bahu": "OyyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Uyyeta",
+      "dvi": "UyyeyAtAm",
+      "bahu": "Uyyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "UyyeTAH",
+      "dvi": "UyyeyATAm",
+      "bahu": "UyyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Uyyeya",
+      "dvi": "Uyyevahi",
+      "bahu": "Uyyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "UyizIzwa",
+      "dvi": "UyizIyAstAm",
+      "bahu": "UyizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "UyizIzWAH",
+      "dvi": "UyizIyAsTAm",
+      "bahu": "UyizIQvam, UyizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "UyizIya",
+      "dvi": "UyizIvahi",
+      "bahu": "UyizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Oyi",
+      "dvi": "OyizAtAm",
+      "bahu": "Oyizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "OyizWAH",
+      "dvi": "OyizATAm",
+      "bahu": "OyiQvam, OyiDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Oyizi",
+      "dvi": "Oyizvahi",
+      "bahu": "Oyizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Oyizyata",
+      "dvi": "OyizyetAm",
+      "bahu": "Oyizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "OyizyaTAH",
+      "dvi": "OyizyeTAm",
+      "bahu": "OyizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Oyizye",
+      "dvi": "OyizyAvahi",
+      "bahu": "OyizyAmahi"
+    }
+  ],
+  "participles": [],
+  "prayoga": []
+}

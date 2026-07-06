@@ -1,0 +1,201 @@
+{
+  "dhatu_id": "10.0210",
+  "info": {
+    "dhatu": "lal"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyuw",
+      "base_form": "lAlana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "lAlanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Rvul",
+      "base_form": "lAlaka",
+      "masculine": "lAlakaH",
+      "feminine": "lAlikA",
+      "neuter": "lAlakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tfc",
+      "base_form": "lAlayitf",
+      "masculine": "lAlayitA",
+      "feminine": "lAlayitrI",
+      "neuter": "lAlayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "yat",
+      "base_form": "lAlya",
+      "masculine": "lAlyaH",
+      "feminine": "lAlyA",
+      "neuter": "lAlyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tavya",
+      "base_form": "lAlayitavya",
+      "masculine": "lAlayitavyaH",
+      "feminine": "lAlayitavyA",
+      "neuter": "lAlayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "anIyar",
+      "base_form": "lAlanIya",
+      "masculine": "lAlanIyaH",
+      "feminine": "lAlanIyA",
+      "neuter": "lAlanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kta",
+      "base_form": "lAlita",
+      "masculine": "lAlitaH",
+      "feminine": "lAlitA",
+      "neuter": "lAlitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktavatu",
+      "base_form": "lAlitavat",
+      "masculine": "lAlitavAn",
+      "feminine": "lAlitavatI",
+      "neuter": "lAlitavat, lAlitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "SAnac",
+      "base_form": "lAlayamAna",
+      "masculine": "lAlayamAnaH",
+      "feminine": "lAlayamAnA",
+      "neuter": "lAlayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "lAlayizyamARa",
+      "masculine": "lAlayizyamARaH",
+      "feminine": "lAlayizyamARA",
+      "neuter": "lAlayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "lAlyamAna",
+      "masculine": "lAlyamAnaH",
+      "feminine": "lAlyamAnA",
+      "neuter": "lAlyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "lAlizyamARa, lAlayizyamARa",
+      "masculine": "lAlizyamARaH, lAlayizyamARaH",
+      "feminine": "lAlizyamARA, lAlayizyamARA",
+      "neuter": "lAlizyamARam, lAlayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktvA",
+      "base_form": "lAlayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyap",
+      "base_form": "pralAlya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tumun",
+      "base_form": "lAlayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Ramul",
+      "base_form": "lAlam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktin",
+      "base_form": "lAlti",
+      "masculine": "",
+      "feminine": "lAltiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ac",
+      "base_form": "lAla",
+      "masculine": "lAlaH",
+      "feminine": "lAlA",
+      "neuter": "lAlam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kvasu",
+      "base_form": "lAlayAmbaBUvas, lAlayAmAsivas, lAlayAYcakfvas",
+      "masculine": "lAlayAmbaBUvAn, lAlayAmAsivAn, lAlayAYcakfvAn",
+      "feminine": "lAlayAmbaBUzI, lAlayAmAsyuzI, lAlayAYcakruzI",
+      "neuter": "lAlayAmbaBUvat, lAlayAmbaBUvad, lAlayAmAsivat, lAlayAmAsivad, lAlayAYcakfvat, lAlayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "cAnaS",
+      "base_form": "lAlayamAna",
+      "masculine": "lAlayamAnaH",
+      "feminine": "lAlayamAnA",
+      "neuter": "lAlayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "vun",
+      "base_form": "lAlaka",
+      "masculine": "lAlakaH",
+      "feminine": "lAlikA",
+      "neuter": "lAlakam"
+    }
+  ],
+  "prayoga": []
+}

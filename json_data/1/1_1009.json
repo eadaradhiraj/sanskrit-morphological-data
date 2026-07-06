@@ -1,0 +1,561 @@
+{
+  "dhatu_id": "1.1009",
+  "info": {
+    "dhatu": "meT",
+    "OpadeSikasvarUpam": "meTf~",
+    "arTaH": "meDAhiMsanayoH",
+    "english_meaning": "to understand to know to hurt to injure to cause trouble",
+    "gaRaH": "BvAdiH",
+    "padam": "uBayapadI",
+    "karmakatvam": "sakarmakaH",
+    "iqAgamayogyatA": "sew",
+    "DAturUpanandinIkramANkaH": "",
+    "kOmudIDAtukramANkaH": "ayaM DAtuH sidDAntakOmudyAm pfTag rUpeRa nEva pAWyate  parantu tatra 1.1007 medf~ ityatra ' TAntAvimAviti svAmI DAntAviti nyAsaH ' iti nirdeSena ayaM pAWaBedaH jYApitaH asti",
+    "kOmudIsUtrakramANkaH": "2362",
+    "laGukOmudIsUtrakramANkaH": ""
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "meTyate",
+      "dvi": "meTyete",
+      "bahu": "meTyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "meTyase",
+      "dvi": "meTyeTe",
+      "bahu": "meTyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "meTye",
+      "dvi": "meTyAvahe",
+      "bahu": "meTyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "meTayAYcakre, meTayAmAse, meTayAmbaBUve",
+      "dvi": "meTayAYcakrAte, meTayAmAsAte, meTayAmbaBUvAte",
+      "bahu": "meTayAYcakrire, meTayAmAsire, meTayAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "meTayAYcakfze, meTayAmAsize, meTayAmbaBUvize",
+      "dvi": "meTayAYcakrATe, meTayAmAsATe, meTayAmbaBUvATe",
+      "bahu": "meTayAYcakfQve, meTayAmAsiDve, meTayAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "meTayAYcakre, meTayAmAhe, meTayAmbaBUve",
+      "dvi": "meTayAYcakfvahe, meTayAmAsivahe, meTayAmbaBUvivahe",
+      "bahu": "meTayAYcakfmahe, meTayAmAsimahe, meTayAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "meTayitA, meTitA",
+      "dvi": "meTayitArO, meTitArO",
+      "bahu": "meTayitAraH, meTitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "meTayitAse, meTitAse",
+      "dvi": "meTayitAsATe, meTitAsATe",
+      "bahu": "meTayitADve, meTitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "meTayitAhe, meTitAhe",
+      "dvi": "meTayitAsvahe, meTitAsvahe",
+      "bahu": "meTayitAsmahe, meTitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "meTayizyate, meTizyate",
+      "dvi": "meTayizyete, meTizyete",
+      "bahu": "meTayizyante, meTizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "meTayizyase, meTizyase",
+      "dvi": "meTayizyeTe, meTizyeTe",
+      "bahu": "meTayizyaDve, meTizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "meTayizye, meTizye",
+      "dvi": "meTayizyAvahe, meTizyAvahe",
+      "bahu": "meTayizyAmahe, meTizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "meTyatAm",
+      "dvi": "meTyetAm",
+      "bahu": "meTyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "meTyasva",
+      "dvi": "meTyeTAm",
+      "bahu": "meTyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "meTyE",
+      "dvi": "meTyAvahE",
+      "bahu": "meTyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "ameTyata",
+      "dvi": "ameTyetAm",
+      "bahu": "ameTyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "ameTyaTAH",
+      "dvi": "ameTyeTAm",
+      "bahu": "ameTyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "ameTye",
+      "dvi": "ameTyAvahi",
+      "bahu": "ameTyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "meTyeta",
+      "dvi": "meTyeyAtAm",
+      "bahu": "meTyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "meTyeTAH",
+      "dvi": "meTyeyATAm",
+      "bahu": "meTyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "meTyeya",
+      "dvi": "meTyevahi",
+      "bahu": "meTyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "meTayizIzwa, meTizIzwa",
+      "dvi": "meTayizIyAstAm, meTizIyAstAm",
+      "bahu": "meTayizIran, meTizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "meTayizIzWAH, meTizIzWAH",
+      "dvi": "meTayizIyAsTAm, meTizIyAsTAm",
+      "bahu": "meTayizIQvam, meTayizIDvam, meTizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "meTayizIya, meTizIya",
+      "dvi": "meTayizIvahi, meTizIvahi",
+      "bahu": "meTayizImahi, meTizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "ameTi",
+      "dvi": "ameTayizAtAm, ameTizAtAm",
+      "bahu": "ameTayizata, ameTizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "ameTayizWAH, ameTizWAH",
+      "dvi": "ameTayizATAm, ameTizATAm",
+      "bahu": "ameTayiQvam, ameTayiDvam, ameTiDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "ameTayizi, ameTizi",
+      "dvi": "ameTayizvahi, ameTizvahi",
+      "bahu": "ameTayizmahi, ameTizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "ameTayizyata, ameTizyata",
+      "dvi": "ameTayizyetAm, ameTizyetAm",
+      "bahu": "ameTayizyanta, ameTizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "ameTayizyaTAH, ameTizyaTAH",
+      "dvi": "ameTayizyeTAm, ameTizyeTAm",
+      "bahu": "ameTayizyaDvam, ameTizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "ameTayizye, ameTizye",
+      "dvi": "ameTayizyAvahi, ameTizyAvahi",
+      "bahu": "ameTayizyAmahi, ameTizyAmahi"
+    }
+  ],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyuw",
+      "base_form": "meTana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "meTanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Rvul",
+      "base_form": "meTaka",
+      "masculine": "meTakaH",
+      "feminine": "meTikA",
+      "neuter": "meTakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tfc",
+      "base_form": "meTayitf",
+      "masculine": "meTayitA",
+      "feminine": "meTayitrI",
+      "neuter": "meTayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "yat",
+      "base_form": "meTya",
+      "masculine": "meTyaH",
+      "feminine": "meTyA",
+      "neuter": "meTyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tavya",
+      "base_form": "meTayitavya",
+      "masculine": "meTayitavyaH",
+      "feminine": "meTayitavyA",
+      "neuter": "meTayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "anIyar",
+      "base_form": "meTanIya",
+      "masculine": "meTanIyaH",
+      "feminine": "meTanIyA",
+      "neuter": "meTanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kta",
+      "base_form": "meTita",
+      "masculine": "meTitaH",
+      "feminine": "meTitA",
+      "neuter": "meTitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktavatu",
+      "base_form": "meTitavat",
+      "masculine": "meTitavAn",
+      "feminine": "meTitavatI",
+      "neuter": "meTitavat, meTitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Satf",
+      "base_form": "meTayat",
+      "masculine": "meTayan",
+      "feminine": "meTayantI",
+      "neuter": "meTayat, meTayad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "meTayizyat",
+      "masculine": "meTayizyan",
+      "feminine": "meTayizyatI, meTayizyantI",
+      "neuter": "meTayizyat, meTayizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "SAnac",
+      "base_form": "meTayamAna",
+      "masculine": "meTayamAnaH",
+      "feminine": "meTayamAnA",
+      "neuter": "meTayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "meTayizyamARa",
+      "masculine": "meTayizyamARaH",
+      "feminine": "meTayizyamARA",
+      "neuter": "meTayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "meTyamAna",
+      "masculine": "meTyamAnaH",
+      "feminine": "meTyamAnA",
+      "neuter": "meTyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "meTizyamARa, meTayizyamARa",
+      "masculine": "meTizyamARaH, meTayizyamARaH",
+      "feminine": "meTizyamARA, meTayizyamARA",
+      "neuter": "meTizyamARam, meTayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktvA",
+      "base_form": "meTayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyap",
+      "base_form": "prameTya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tumun",
+      "base_form": "meTayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Ramul",
+      "base_form": "meTam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktin",
+      "base_form": "metti",
+      "masculine": "",
+      "feminine": "mettiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ac",
+      "base_form": "meTa",
+      "masculine": "meTaH",
+      "feminine": "meTA",
+      "neuter": "meTam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kvasu",
+      "base_form": "meTayAmbaBUvas, meTayAmAsivas, meTayAYcakfvas",
+      "masculine": "meTayAmbaBUvAn, meTayAmAsivAn, meTayAYcakfvAn",
+      "feminine": "meTayAmbaBUzI, meTayAmAsyuzI, meTayAYcakruzI",
+      "neuter": "meTayAmbaBUvat, meTayAmbaBUvad, meTayAmAsivat, meTayAmAsivad, meTayAYcakfvat, meTayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "cAnaS",
+      "base_form": "meTayamAna",
+      "masculine": "meTayamAnaH",
+      "feminine": "meTayamAnA",
+      "neuter": "meTayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "vun",
+      "base_form": "meTaka",
+      "masculine": "meTakaH",
+      "feminine": "meTikA",
+      "neuter": "meTakam"
+    }
+  ],
+  "prayoga": []
+}

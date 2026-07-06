@@ -1,0 +1,342 @@
+{
+  "dhatu_id": "1.0971",
+  "info": {
+    "dhatu": "hal"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "jAhalyate",
+      "dvi": "jAhalyete",
+      "bahu": "jAhalyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "jAhalyase",
+      "dvi": "jAhalyeTe",
+      "bahu": "jAhalyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "jAhalye",
+      "dvi": "jAhalyAvahe",
+      "bahu": "jAhalyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "jAhalAYcakre, jAhalAmAsa, jAhalAmbaBUva",
+      "dvi": "jAhalAYcakrAte, jAhalAmAsatuH, jAhalAmbaBUvatuH",
+      "bahu": "jAhalAYcakrire, jAhalAmAsuH, jAhalAmbaBUvuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "jAhalAYcakfze, jAhalAmAsiTa, jAhalAmbaBUviTa",
+      "dvi": "jAhalAYcakrATe, jAhalAmAsaTuH, jAhalAmbaBUvaTuH",
+      "bahu": "jAhalAYcakfQve, jAhalAmAsa, jAhalAmbaBUva"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "jAhalAYcakre, jAhalAmAsa, jAhalAmbaBUva",
+      "dvi": "jAhalAYcakfvahe, jAhalAmAsiva, jAhalAmbaBUviva",
+      "bahu": "jAhalAYcakfmahe, jAhalAmAsima, jAhalAmbaBUvima"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "jAhalitA",
+      "dvi": "jAhalitArO",
+      "bahu": "jAhalitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "jAhalitAse",
+      "dvi": "jAhalitAsATe",
+      "bahu": "jAhalitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "jAhalitAhe",
+      "dvi": "jAhalitAsvahe",
+      "bahu": "jAhalitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "jAhalizyate",
+      "dvi": "jAhalizyete",
+      "bahu": "jAhalizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "jAhalizyase",
+      "dvi": "jAhalizyeTe",
+      "bahu": "jAhalizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "jAhalizye",
+      "dvi": "jAhalizyAvahe",
+      "bahu": "jAhalizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "jAhalyatAm",
+      "dvi": "jAhalyetAm",
+      "bahu": "jAhalyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "jAhalyasva",
+      "dvi": "jAhalyeTAm",
+      "bahu": "jAhalyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "jAhalyE",
+      "dvi": "jAhalyAvahE",
+      "bahu": "jAhalyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "ajAhalyata",
+      "dvi": "ajAhalyetAm",
+      "bahu": "ajAhalyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "ajAhalyaTAH",
+      "dvi": "ajAhalyeTAm",
+      "bahu": "ajAhalyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "ajAhalye",
+      "dvi": "ajAhalyAvahi",
+      "bahu": "ajAhalyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "jAhalyeta",
+      "dvi": "jAhalyeyAtAm",
+      "bahu": "jAhalyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "jAhalyeTAH",
+      "dvi": "jAhalyeyATAm",
+      "bahu": "jAhalyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "jAhalyeya",
+      "dvi": "jAhalyevahi",
+      "bahu": "jAhalyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "jAhalizIzwa",
+      "dvi": "jAhalizIyAstAm",
+      "bahu": "jAhalizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "jAhalizIzWAH",
+      "dvi": "jAhalizIyAsTAm",
+      "bahu": "jAhalizIQvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "jAhalizIya",
+      "dvi": "jAhalizIvahi",
+      "bahu": "jAhalizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "ajAhalizwa",
+      "dvi": "ajAhalizAtAm",
+      "bahu": "ajAhalizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "ajAhalizWAH",
+      "dvi": "ajAhalizATAm",
+      "bahu": "ajAhaliQvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "ajAhalizi",
+      "dvi": "ajAhalizvahi",
+      "bahu": "ajAhalizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "ajAhalizyata",
+      "dvi": "ajAhalizyetAm",
+      "bahu": "ajAhalizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "ajAhalizyaTAH",
+      "dvi": "ajAhalizyeTAm",
+      "bahu": "ajAhalizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "yanganta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "ajAhalizye",
+      "dvi": "ajAhalizyAvahi",
+      "bahu": "ajAhalizyAmahi"
+    }
+  ],
+  "participles": [],
+  "prayoga": []
+}

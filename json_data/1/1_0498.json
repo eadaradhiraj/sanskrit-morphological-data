@@ -1,0 +1,543 @@
+{
+  "dhatu_id": "1.0498",
+  "info": {
+    "dhatu": "siB",
+    "OpadeSikasvarUpam": "ziBu~",
+    "arTaH": "hiMsAyAm",
+    "english_meaning": "to kill to destroy",
+    "gaRaH": "BvAdiH",
+    "padam": "parasmEpadI",
+    "karmakatvam": "sakarmakaH",
+    "iqAgamayogyatA": "sew",
+    "DAturUpanandinIkramANkaH": "",
+    "kOmudIDAtukramANkaH": "ayaM DAtuH sidDAntakOmudyAm pfTag rUpeRa nEva pAWyate  parantu tatra 1.497 SfmBu~ ityatra 'ziBu zimBu ityeke' iti nirdeSena ayaM pAWaBedaH jYApitaH asti",
+    "kOmudIsUtrakramANkaH": "2308",
+    "laGukOmudIsUtrakramANkaH": ""
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "sisiBizati, siseBizati",
+      "dvi": "sisiBizataH, siseBizataH",
+      "bahu": "sisiBizanti, siseBizanti"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "sisiBizasi, siseBizasi",
+      "dvi": "sisiBizaTaH, siseBizaTaH",
+      "bahu": "sisiBizaTa, siseBizaTa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "law",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "sisiBizAmi, siseBizAmi",
+      "dvi": "sisiBizAvaH, siseBizAvaH",
+      "bahu": "sisiBizAmaH, siseBizAmaH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "sisiBizAYcakAra, sisiBizAmAsa, sisiBizAmbaBUva, siseBizAYcakAra, siseBizAmAsa, siseBizAmbaBUva",
+      "dvi": "sisiBizAYcakratuH, sisiBizAmAsatuH, sisiBizAmbaBUvatuH, siseBizAYcakratuH, siseBizAmAsatuH, siseBizAmbaBUvatuH",
+      "bahu": "sisiBizAYcakruH, sisiBizAmAsuH, sisiBizAmbaBUvuH, siseBizAYcakruH, siseBizAmAsuH, siseBizAmbaBUvuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "sisiBizAYcakarTa, sisiBizAmAsiTa, sisiBizAmbaBUviTa, siseBizAYcakarTa, siseBizAmAsiTa, siseBizAmbaBUviTa",
+      "dvi": "sisiBizAYcakraTuH, sisiBizAmAsaTuH, sisiBizAmbaBUvaTuH, siseBizAYcakraTuH, siseBizAmAsaTuH, siseBizAmbaBUvaTuH",
+      "bahu": "sisiBizAYcakra, sisiBizAmAsa, sisiBizAmbaBUva, siseBizAYcakra, siseBizAmAsa, siseBizAmbaBUva"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "liw",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "sisiBizAYcakara, sisiBizAYcakAra, sisiBizAmAsa, sisiBizAmbaBUva, siseBizAYcakara, siseBizAYcakAra, siseBizAmAsa, siseBizAmbaBUva",
+      "dvi": "sisiBizAYcakfva, sisiBizAmAsiva, sisiBizAmbaBUviva, siseBizAYcakfva, siseBizAmAsiva, siseBizAmbaBUviva",
+      "bahu": "sisiBizAYcakfma, sisiBizAmAsima, sisiBizAmbaBUvima, siseBizAYcakfma, siseBizAmAsima, siseBizAmbaBUvima"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "sisiBizitA, siseBizitA",
+      "dvi": "sisiBizitArO, siseBizitArO",
+      "bahu": "sisiBizitAraH, siseBizitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "sisiBizitAsi, siseBizitAsi",
+      "dvi": "sisiBizitAsTaH, siseBizitAsTaH",
+      "bahu": "sisiBizitAsTa, siseBizitAsTa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luw",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "sisiBizitAsmi, siseBizitAsmi",
+      "dvi": "sisiBizitAsvaH, siseBizitAsvaH",
+      "bahu": "sisiBizitAsmaH, siseBizitAsmaH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "sisiBizizyati, siseBizizyati",
+      "dvi": "sisiBizizyataH, siseBizizyataH",
+      "bahu": "sisiBizizyanti, siseBizizyanti"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "sisiBizizyasi, siseBizizyasi",
+      "dvi": "sisiBizizyaTaH, siseBizizyaTaH",
+      "bahu": "sisiBizizyaTa, siseBizizyaTa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfw",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "sisiBizizyAmi, siseBizizyAmi",
+      "dvi": "sisiBizizyAvaH, siseBizizyAvaH",
+      "bahu": "sisiBizizyAmaH, siseBizizyAmaH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "sisiBizatAt, sisiBizatAd, sisiBizatu, siseBizatAt, siseBizatAd, siseBizatu",
+      "dvi": "sisiBizatAm, siseBizatAm",
+      "bahu": "sisiBizantu, siseBizantu"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "sisiBiza, sisiBizatAt, sisiBizatAd, siseBiza, siseBizatAt, siseBizatAd",
+      "dvi": "sisiBizatam, siseBizatam",
+      "bahu": "sisiBizata, siseBizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "low",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "sisiBizARi, siseBizARi",
+      "dvi": "sisiBizAva, siseBizAva",
+      "bahu": "sisiBizAma, siseBizAma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "asisiBizat, asisiBizad, asiseBizat, asiseBizad",
+      "dvi": "asisiBizatAm, asiseBizatAm",
+      "bahu": "asisiBizan, asiseBizan"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "asisiBizaH, asiseBizaH",
+      "dvi": "asisiBizatam, asiseBizatam",
+      "bahu": "asisiBizata, asiseBizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "laN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "asisiBizam, asiseBizam",
+      "dvi": "asisiBizAva, asiseBizAva",
+      "bahu": "asisiBizAma, asiseBizAma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "sisiBizet, sisiBized, siseBizet, siseBized",
+      "dvi": "sisiBizetAm, siseBizetAm",
+      "bahu": "sisiBizeyuH, siseBizeyuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "sisiBizeH, siseBizeH",
+      "dvi": "sisiBizetam, siseBizetam",
+      "bahu": "sisiBizeta, siseBizeta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "viDiliN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "sisiBizeyam, siseBizeyam",
+      "dvi": "sisiBizeva, siseBizeva",
+      "bahu": "sisiBizema, siseBizema"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "sisiBizyAt, sisiBizyAd, siseBizyAt, siseBizyAd",
+      "dvi": "sisiBizyAstAm, siseBizyAstAm",
+      "bahu": "sisiBizyAsuH, siseBizyAsuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "sisiBizyAH, siseBizyAH",
+      "dvi": "sisiBizyAstam, siseBizyAstam",
+      "bahu": "sisiBizyAsta, siseBizyAsta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "ASIrliN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "sisiBizyAsam, siseBizyAsam",
+      "dvi": "sisiBizyAsva, siseBizyAsva",
+      "bahu": "sisiBizyAsma, siseBizyAsma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "asisiBizIt, asisiBizId, asiseBizIt, asiseBizId",
+      "dvi": "asisiBizizwAm, asiseBizizwAm",
+      "bahu": "asisiBizizuH, asiseBizizuH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "asisiBizIH, asiseBizIH",
+      "dvi": "asisiBizizwam, asiseBizizwam",
+      "bahu": "asisiBizizwa, asiseBizizwa"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "luN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "asisiBizizam, asiseBizizam",
+      "dvi": "asisiBizizva, asiseBizizva",
+      "bahu": "asisiBizizma, asiseBizizma"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "parasmEpadam",
+      "purusha": "praTama",
+      "eka": "asisiBizizyat, asisiBizizyad, asiseBizizyat, asiseBizizyad",
+      "dvi": "asisiBizizyatAm, asiseBizizyatAm",
+      "bahu": "asisiBizizyan, asiseBizizyan"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "parasmEpadam",
+      "purusha": "maDyama",
+      "eka": "asisiBizizyaH, asiseBizizyaH",
+      "dvi": "asisiBizizyatam, asiseBizizyatam",
+      "bahu": "asisiBizizyata, asiseBizizyata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "kartari",
+      "lakara": "lfN",
+      "voice": "parasmEpadam",
+      "purusha": "uttama",
+      "eka": "asisiBizizyam, asiseBizizyam",
+      "dvi": "asisiBizizyAva, asiseBizizyAva",
+      "bahu": "asisiBizizyAma, asiseBizizyAma"
+    }
+  ],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyuw",
+      "base_form": "seBana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "seBanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Rvul",
+      "base_form": "seBaka",
+      "masculine": "seBakaH",
+      "feminine": "seBikA",
+      "neuter": "seBakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tfc",
+      "base_form": "seBitf",
+      "masculine": "seBitA",
+      "feminine": "seBitrI",
+      "neuter": "seBitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Ryat",
+      "base_form": "seBya",
+      "masculine": "seByaH",
+      "feminine": "seByA",
+      "neuter": "seByam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tavya",
+      "base_form": "seBitavya",
+      "masculine": "seBitavyaH",
+      "feminine": "seBitavyA",
+      "neuter": "seBitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "anIyar",
+      "base_form": "seBanIya",
+      "masculine": "seBanIyaH",
+      "feminine": "seBanIyA",
+      "neuter": "seBanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kta",
+      "base_form": "sibDa",
+      "masculine": "sibDaH",
+      "feminine": "sibDA",
+      "neuter": "sibDam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktavatu",
+      "base_form": "sibDavat",
+      "masculine": "sibDavAn",
+      "feminine": "sibDavatI",
+      "neuter": "sibDavat, sibDavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Satf",
+      "base_form": "seBat",
+      "masculine": "seBan",
+      "feminine": "seBantI",
+      "neuter": "seBat, seBad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-Satf",
+      "base_form": "seBizyat",
+      "masculine": "seBizyan",
+      "feminine": "seBizyatI, seBizyantI",
+      "neuter": "seBizyat, seBizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "siByamAna",
+      "masculine": "siByamAnaH",
+      "feminine": "siByamAnA",
+      "neuter": "siByamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "seBizyamARa",
+      "masculine": "seBizyamARaH",
+      "feminine": "seBizyamARA",
+      "neuter": "seBizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktvA",
+      "base_form": "sibDvA, siBitvA, seBitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyap",
+      "base_form": "prasiBya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tumun",
+      "base_form": "seBitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Ramul",
+      "base_form": "seBam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "GaY",
+      "base_form": "seBa",
+      "masculine": "seBaH",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktin",
+      "base_form": "sibDi",
+      "masculine": "",
+      "feminine": "sibDiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kvasu",
+      "base_form": "siziBvas",
+      "masculine": "siziBvAn",
+      "feminine": "siziBuzI",
+      "neuter": "siziBvat, siziBvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "cAnaS",
+      "base_form": "seBamAna",
+      "masculine": "seBamAnaH",
+      "feminine": "seBamAnA",
+      "neuter": "seBamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "vun",
+      "base_form": "seBaka",
+      "masculine": "seBakaH",
+      "feminine": "seBikA",
+      "neuter": "seBakam"
+    }
+  ],
+  "prayoga": []
+}

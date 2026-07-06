@@ -1,0 +1,1209 @@
+{
+  "dhatu_id": "1.1029",
+  "info": {
+    "dhatu": "as"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asyate",
+      "dvi": "asyete",
+      "bahu": "asyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asyase",
+      "dvi": "asyeTe",
+      "bahu": "asyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asye",
+      "dvi": "asyAvahe",
+      "bahu": "asyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Ase",
+      "dvi": "AsAte",
+      "bahu": "Asire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "Asize",
+      "dvi": "AsATe",
+      "bahu": "AsiDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Ase",
+      "dvi": "Asivahe",
+      "bahu": "Asimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asitA",
+      "dvi": "asitArO",
+      "bahu": "asitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asitAse",
+      "dvi": "asitAsATe",
+      "bahu": "asitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asitAhe",
+      "dvi": "asitAsvahe",
+      "bahu": "asitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asizyate",
+      "dvi": "asizyete",
+      "bahu": "asizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asizyase",
+      "dvi": "asizyeTe",
+      "bahu": "asizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asizye",
+      "dvi": "asizyAvahe",
+      "bahu": "asizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asyatAm",
+      "dvi": "asyetAm",
+      "bahu": "asyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asyasva",
+      "dvi": "asyeTAm",
+      "bahu": "asyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asyE",
+      "dvi": "asyAvahE",
+      "bahu": "asyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Asyata",
+      "dvi": "AsyetAm",
+      "bahu": "Asyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "AsyaTAH",
+      "dvi": "AsyeTAm",
+      "bahu": "AsyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Asye",
+      "dvi": "AsyAvahi",
+      "bahu": "AsyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asyeta",
+      "dvi": "asyeyAtAm",
+      "bahu": "asyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asyeTAH",
+      "dvi": "asyeyATAm",
+      "bahu": "asyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asyeya",
+      "dvi": "asyevahi",
+      "bahu": "asyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asizIzwa",
+      "dvi": "asizIyAstAm",
+      "bahu": "asizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asizIzWAH",
+      "dvi": "asizIyAsTAm",
+      "bahu": "asizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asizIya",
+      "dvi": "asizIvahi",
+      "bahu": "asizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Asi",
+      "dvi": "AsizAtAm",
+      "bahu": "Asizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "AsizWAH",
+      "dvi": "AsizATAm",
+      "bahu": "AsiDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Asizi",
+      "dvi": "Asizvahi",
+      "bahu": "Asizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Asizyata",
+      "dvi": "AsizyetAm",
+      "bahu": "Asizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "AsizyaTAH",
+      "dvi": "AsizyeTAm",
+      "bahu": "AsizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Asizye",
+      "dvi": "AsizyAvahi",
+      "bahu": "AsizyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asisizyate",
+      "dvi": "asisizyete",
+      "bahu": "asisizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asisizyase",
+      "dvi": "asisizyeTe",
+      "bahu": "asisizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asisizye",
+      "dvi": "asisizyAvahe",
+      "bahu": "asisizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asisizAYcakre, asisizAmAse, asisizAmbaBUve",
+      "dvi": "asisizAYcakrAte, asisizAmAsAte, asisizAmbaBUvAte",
+      "bahu": "asisizAYcakrire, asisizAmAsire, asisizAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asisizAYcakfze, asisizAmAsize, asisizAmbaBUvize",
+      "dvi": "asisizAYcakrATe, asisizAmAsATe, asisizAmbaBUvATe",
+      "bahu": "asisizAYcakfQve, asisizAmAsiDve, asisizAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asisizAYcakre, asisizAmAhe, asisizAmbaBUve",
+      "dvi": "asisizAYcakfvahe, asisizAmAsivahe, asisizAmbaBUvivahe",
+      "bahu": "asisizAYcakfmahe, asisizAmAsimahe, asisizAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asisizitA",
+      "dvi": "asisizitArO",
+      "bahu": "asisizitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asisizitAse",
+      "dvi": "asisizitAsATe",
+      "bahu": "asisizitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asisizitAhe",
+      "dvi": "asisizitAsvahe",
+      "bahu": "asisizitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asisizizyate",
+      "dvi": "asisizizyete",
+      "bahu": "asisizizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asisizizyase",
+      "dvi": "asisizizyeTe",
+      "bahu": "asisizizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asisizizye",
+      "dvi": "asisizizyAvahe",
+      "bahu": "asisizizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asisizyatAm",
+      "dvi": "asisizyetAm",
+      "bahu": "asisizyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asisizyasva",
+      "dvi": "asisizyeTAm",
+      "bahu": "asisizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asisizyE",
+      "dvi": "asisizyAvahE",
+      "bahu": "asisizyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Asisizyata",
+      "dvi": "AsisizyetAm",
+      "bahu": "Asisizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "AsisizyaTAH",
+      "dvi": "AsisizyeTAm",
+      "bahu": "AsisizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Asisizye",
+      "dvi": "AsisizyAvahi",
+      "bahu": "AsisizyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asisizyeta",
+      "dvi": "asisizyeyAtAm",
+      "bahu": "asisizyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asisizyeTAH",
+      "dvi": "asisizyeyATAm",
+      "bahu": "asisizyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asisizyeya",
+      "dvi": "asisizyevahi",
+      "bahu": "asisizyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "asisizizIzwa",
+      "dvi": "asisizizIyAstAm",
+      "bahu": "asisizizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "asisizizIzWAH",
+      "dvi": "asisizizIyAsTAm",
+      "bahu": "asisizizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "asisizizIya",
+      "dvi": "asisizizIvahi",
+      "bahu": "asisizizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Asisizi",
+      "dvi": "AsisizizAtAm",
+      "bahu": "Asisizizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "AsisizizWAH",
+      "dvi": "AsisizizATAm",
+      "bahu": "AsisiziDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Asisizizi",
+      "dvi": "Asisizizvahi",
+      "bahu": "Asisizizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Asisizizyata",
+      "dvi": "AsisizizyetAm",
+      "bahu": "Asisizizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "AsisizizyaTAH",
+      "dvi": "AsisizizyeTAm",
+      "bahu": "AsisizizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Asisizizye",
+      "dvi": "AsisizizyAvahi",
+      "bahu": "AsisizizyAmahi"
+    }
+  ],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyuw",
+      "base_form": "asana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "asanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Rvul",
+      "base_form": "Asaka",
+      "masculine": "AsakaH",
+      "feminine": "AsikA",
+      "neuter": "Asakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tfc",
+      "base_form": "asitf",
+      "masculine": "asitA",
+      "feminine": "asitrI",
+      "neuter": "asitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Ryat",
+      "base_form": "Asya",
+      "masculine": "AsyaH",
+      "feminine": "AsyA",
+      "neuter": "Asyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tavya",
+      "base_form": "asitavya",
+      "masculine": "asitavyaH",
+      "feminine": "asitavyA",
+      "neuter": "asitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "anIyar",
+      "base_form": "asanIya",
+      "masculine": "asanIyaH",
+      "feminine": "asanIyA",
+      "neuter": "asanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kta",
+      "base_form": "asita",
+      "masculine": "asitaH",
+      "feminine": "asitA",
+      "neuter": "asitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktavatu",
+      "base_form": "asitavat",
+      "masculine": "asitavAn",
+      "feminine": "asitavatI",
+      "neuter": "asitavat, asitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Satf",
+      "base_form": "asat",
+      "masculine": "asan",
+      "feminine": "asantI",
+      "neuter": "asat, asad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-Satf",
+      "base_form": "asizyat",
+      "masculine": "asizyan",
+      "feminine": "asizyatI, asizyantI",
+      "neuter": "asizyat, asizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "SAnac",
+      "base_form": "asamAna",
+      "masculine": "asamAnaH",
+      "feminine": "asamAnA",
+      "neuter": "asamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-SAnac",
+      "base_form": "asizyamARa",
+      "masculine": "asizyamARaH",
+      "feminine": "asizyamARA",
+      "neuter": "asizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "asyamAna",
+      "masculine": "asyamAnaH",
+      "feminine": "asyamAnA",
+      "neuter": "asyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "asizyamARa",
+      "masculine": "asizyamARaH",
+      "feminine": "asizyamARA",
+      "neuter": "asizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktvA",
+      "base_form": "asitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "lyap",
+      "base_form": "prAsya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "tumun",
+      "base_form": "asitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "Ramul",
+      "base_form": "Asam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "GaY",
+      "base_form": "Asa",
+      "masculine": "AsaH",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ktin",
+      "base_form": "asti",
+      "masculine": "",
+      "feminine": "astiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "ac",
+      "base_form": "asa",
+      "masculine": "asaH",
+      "feminine": "asA",
+      "neuter": "asam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "kvasu",
+      "base_form": "Asivas",
+      "masculine": "AsivAn",
+      "feminine": "AsuzI",
+      "neuter": "Asivat, Asivad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "cAnaS",
+      "base_form": "asamAna",
+      "masculine": "asamAnaH",
+      "feminine": "asamAnA",
+      "neuter": "asamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "pratyaya": "vun",
+      "base_form": "asaka",
+      "masculine": "asakaH",
+      "feminine": "asikA",
+      "neuter": "asakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyuw",
+      "base_form": "Asana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "Asanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Rvul",
+      "base_form": "Asaka",
+      "masculine": "AsakaH",
+      "feminine": "AsikA",
+      "neuter": "Asakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tfc",
+      "base_form": "Asayitf",
+      "masculine": "AsayitA",
+      "feminine": "AsayitrI",
+      "neuter": "Asayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "yat",
+      "base_form": "Asya",
+      "masculine": "AsyaH",
+      "feminine": "AsyA",
+      "neuter": "Asyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tavya",
+      "base_form": "Asayitavya",
+      "masculine": "AsayitavyaH",
+      "feminine": "AsayitavyA",
+      "neuter": "Asayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "anIyar",
+      "base_form": "AsanIya",
+      "masculine": "AsanIyaH",
+      "feminine": "AsanIyA",
+      "neuter": "AsanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kta",
+      "base_form": "Asita",
+      "masculine": "AsitaH",
+      "feminine": "AsitA",
+      "neuter": "Asitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktavatu",
+      "base_form": "Asitavat",
+      "masculine": "AsitavAn",
+      "feminine": "AsitavatI",
+      "neuter": "Asitavat, Asitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Satf",
+      "base_form": "Asayat",
+      "masculine": "Asayan",
+      "feminine": "AsayantI",
+      "neuter": "Asayat, Asayad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "Asayizyat",
+      "masculine": "Asayizyan",
+      "feminine": "AsayizyatI, AsayizyantI",
+      "neuter": "Asayizyat, Asayizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "SAnac",
+      "base_form": "AsayamAna",
+      "masculine": "AsayamAnaH",
+      "feminine": "AsayamAnA",
+      "neuter": "AsayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "AsayizyamARa",
+      "masculine": "AsayizyamARaH",
+      "feminine": "AsayizyamARA",
+      "neuter": "AsayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "AsyamAna",
+      "masculine": "AsyamAnaH",
+      "feminine": "AsyamAnA",
+      "neuter": "AsyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "AsizyamARa, AsayizyamARa",
+      "masculine": "AsizyamARaH, AsayizyamARaH",
+      "feminine": "AsizyamARA, AsayizyamARA",
+      "neuter": "AsizyamARam, AsayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktvA",
+      "base_form": "AsayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyap",
+      "base_form": "prAsya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tumun",
+      "base_form": "Asayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Ramul",
+      "base_form": "Asam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktin",
+      "base_form": "Asti",
+      "masculine": "",
+      "feminine": "AstiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ac",
+      "base_form": "Asa",
+      "masculine": "AsaH",
+      "feminine": "AsA",
+      "neuter": "Asam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kvasu",
+      "base_form": "AsayAmbaBUvas, AsayAmAsivas, AsayAYcakfvas",
+      "masculine": "AsayAmbaBUvAn, AsayAmAsivAn, AsayAYcakfvAn",
+      "feminine": "AsayAmbaBUzI, AsayAmAsyuzI, AsayAYcakruzI",
+      "neuter": "AsayAmbaBUvat, AsayAmbaBUvad, AsayAmAsivat, AsayAmAsivad, AsayAYcakfvat, AsayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "cAnaS",
+      "base_form": "AsayamAna",
+      "masculine": "AsayamAnaH",
+      "feminine": "AsayamAnA",
+      "neuter": "AsayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "vun",
+      "base_form": "Asaka",
+      "masculine": "AsakaH",
+      "feminine": "AsikA",
+      "neuter": "Asakam"
+    }
+  ],
+  "prayoga": [
+    {
+      "form": "asanti",
+      "lakara": "lawlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "kumArasamBavam",
+      "literature_text": "aByasanti tawAGAtam"
+    },
+    {
+      "form": "Asa",
+      "lakara": "liwlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "prAdurAsa bahulakzapACaviH"
+    },
+    {
+      "form": "Asa",
+      "lakara": "liwlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "prAdurAsa kila vAhinImuKe"
+    },
+    {
+      "form": "Asa",
+      "lakara": "liwlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "nizpraBaSca ripurAsa BUBftAm"
+    },
+    {
+      "form": "Asa",
+      "lakara": "liwlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "kumArasamBavam",
+      "literature_text": "lAvaRyamutpattamivAsa yatnaH"
+    },
+    {
+      "form": "Asan",
+      "lakara": "laNlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "AsannozaDayo netuH"
+    },
+    {
+      "form": "Asan",
+      "lakara": "laNlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "patnIzvAsandvisUnavaH"
+    },
+    {
+      "form": "aseyuH",
+      "lakara": "viDiliNlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "vAlmIkirAmAyaRe sundarakARqam",
+      "literature_text": "AdAya rakzAMsi nyaseyussamvfte hi"
+    },
+    {
+      "form": "AsIt",
+      "lakara": "luNlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "AsIdanAvizkftadAnarAjiH"
+    },
+    {
+      "form": "AsIt",
+      "lakara": "luNlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "tApAdantaHSalya ivAsItkzitipo'pi"
+    },
+    {
+      "form": "AsIt",
+      "lakara": "luNlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "vAlmIkirAmAyaRe bAlakARqam",
+      "literature_text": "mahAn Sabda: prAdurAsIdBayAnaka:"
+    },
+    {
+      "form": "AsIt",
+      "lakara": "luNlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "tasyoditAsItpunaruktadozA"
+    },
+    {
+      "form": "AsIt",
+      "lakara": "luNlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "AnandayitrI pariReturAsIt"
+    },
+    {
+      "form": "AsIt",
+      "lakara": "luNlakAraH",
+      "purusha": "parasmEpadam",
+      "vacana": "praTamapuruzaH",
+      "book": "raGuvaMSam",
+      "literature_text": "prAdurAsIdvasunDarA"
+    }
+  ]
+}

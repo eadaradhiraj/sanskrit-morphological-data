@@ -1,0 +1,784 @@
+{
+  "dhatu_id": "10.0169",
+  "info": {
+    "dhatu": "ast"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "astyate",
+      "dvi": "astyete",
+      "bahu": "astyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "astyase",
+      "dvi": "astyeTe",
+      "bahu": "astyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "law",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "astye",
+      "dvi": "astyAvahe",
+      "bahu": "astyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "astayAYcakre, astayAmAse, astayAmbaBUve",
+      "dvi": "astayAYcakrAte, astayAmAsAte, astayAmbaBUvAte",
+      "bahu": "astayAYcakrire, astayAmAsire, astayAmbaBUvire"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "astayAYcakfze, astayAmAsize, astayAmbaBUvize",
+      "dvi": "astayAYcakrATe, astayAmAsATe, astayAmbaBUvATe",
+      "bahu": "astayAYcakfQve, astayAmAsiDve, astayAmbaBUviQve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "liw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "astayAYcakre, astayAmAhe, astayAmbaBUve",
+      "dvi": "astayAYcakfvahe, astayAmAsivahe, astayAmbaBUvivahe",
+      "bahu": "astayAYcakfmahe, astayAmAsimahe, astayAmbaBUvimahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "astayitA, astitA",
+      "dvi": "astayitArO, astitArO",
+      "bahu": "astayitAraH, astitAraH"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "astayitAse, astitAse",
+      "dvi": "astayitAsATe, astitAsATe",
+      "bahu": "astayitADve, astitADve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "astayitAhe, astitAhe",
+      "dvi": "astayitAsvahe, astitAsvahe",
+      "bahu": "astayitAsmahe, astitAsmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "astayizyate, astizyate",
+      "dvi": "astayizyete, astizyete",
+      "bahu": "astayizyante, astizyante"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "astayizyase, astizyase",
+      "dvi": "astayizyeTe, astizyeTe",
+      "bahu": "astayizyaDve, astizyaDve"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfw",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "astayizye, astizye",
+      "dvi": "astayizyAvahe, astizyAvahe",
+      "bahu": "astayizyAmahe, astizyAmahe"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "astyatAm",
+      "dvi": "astyetAm",
+      "bahu": "astyantAm"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "astyasva",
+      "dvi": "astyeTAm",
+      "bahu": "astyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "low",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "astyE",
+      "dvi": "astyAvahE",
+      "bahu": "astyAmahE"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Astyata",
+      "dvi": "AstyetAm",
+      "bahu": "Astyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "AstyaTAH",
+      "dvi": "AstyeTAm",
+      "bahu": "AstyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "laN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Astye",
+      "dvi": "AstyAvahi",
+      "bahu": "AstyAmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "astyeta",
+      "dvi": "astyeyAtAm",
+      "bahu": "astyeran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "astyeTAH",
+      "dvi": "astyeyATAm",
+      "bahu": "astyeDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "viDiliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "astyeya",
+      "dvi": "astyevahi",
+      "bahu": "astyemahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "astayizIzwa, astizIzwa",
+      "dvi": "astayizIyAstAm, astizIyAstAm",
+      "bahu": "astayizIran, astizIran"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "astayizIzWAH, astizIzWAH",
+      "dvi": "astayizIyAsTAm, astizIyAsTAm",
+      "bahu": "astayizIQvam, astayizIDvam, astizIDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "ASIrliN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "astayizIya, astizIya",
+      "dvi": "astayizIvahi, astizIvahi",
+      "bahu": "astayizImahi, astizImahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Asti",
+      "dvi": "AstayizAtAm, AstizAtAm",
+      "bahu": "Astayizata, Astizata"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "AstayizWAH, AstizWAH",
+      "dvi": "AstayizATAm, AstizATAm",
+      "bahu": "AstayiQvam, AstayiDvam, AstiDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "luN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Astayizi, Astizi",
+      "dvi": "Astayizvahi, Astizvahi",
+      "bahu": "Astayizmahi, Astizmahi"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "praTama",
+      "eka": "Astayizyata, Astizyata",
+      "dvi": "AstayizyetAm, AstizyetAm",
+      "bahu": "Astayizyanta, Astizyanta"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "maDyama",
+      "eka": "AstayizyaTAH, AstizyaTAH",
+      "dvi": "AstayizyeTAm, AstizyeTAm",
+      "bahu": "AstayizyaDvam, AstizyaDvam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "base",
+      "prayoga": "karmani",
+      "lakara": "lfN",
+      "voice": "Atmanepadam",
+      "purusha": "uttama",
+      "eka": "Astayizye, Astizye",
+      "dvi": "AstayizyAvahi, AstizyAvahi",
+      "bahu": "AstayizyAmahi, AstizyAmahi"
+    }
+  ],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyuw",
+      "base_form": "atistayizaRa",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "atistayizaRam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Rvul",
+      "base_form": "atistayizaka",
+      "masculine": "atistayizakaH",
+      "feminine": "atistayizikA",
+      "neuter": "atistayizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tfc",
+      "base_form": "atistayizitf",
+      "masculine": "atistayizitA",
+      "feminine": "atistayizitrI",
+      "neuter": "atistayizitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "yat",
+      "base_form": "atistayizya",
+      "masculine": "atistayizyaH",
+      "feminine": "atistayizyA",
+      "neuter": "atistayizyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tavya",
+      "base_form": "atistayizitavya",
+      "masculine": "atistayizitavyaH",
+      "feminine": "atistayizitavyA",
+      "neuter": "atistayizitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "anIyar",
+      "base_form": "atistayizaRIya",
+      "masculine": "atistayizaRIyaH",
+      "feminine": "atistayizaRIyA",
+      "neuter": "atistayizaRIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kta",
+      "base_form": "atistayizita",
+      "masculine": "atistayizitaH",
+      "feminine": "atistayizitA",
+      "neuter": "atistayizitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktavatu",
+      "base_form": "atistayizitavat",
+      "masculine": "atistayizitavAn",
+      "feminine": "atistayizitavatI",
+      "neuter": "atistayizitavat, atistayizitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Satf",
+      "base_form": "atistayizat",
+      "masculine": "atistayizan",
+      "feminine": "atistayizantI",
+      "neuter": "atistayizat, atistayizad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "atistayizizyat",
+      "masculine": "atistayizizyan",
+      "feminine": "atistayizizyatI, atistayizizyantI",
+      "neuter": "atistayizizyat, atistayizizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "SAnac",
+      "base_form": "atistayizamARa",
+      "masculine": "atistayizamARaH",
+      "feminine": "atistayizamARA",
+      "neuter": "atistayizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "atistayizizyamARa",
+      "masculine": "atistayizizyamARaH",
+      "feminine": "atistayizizyamARA",
+      "neuter": "atistayizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "atistayizyamARa",
+      "masculine": "atistayizyamARaH",
+      "feminine": "atistayizyamARA",
+      "neuter": "atistayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "atistayizizyamARa",
+      "masculine": "atistayizizyamARaH",
+      "feminine": "atistayizizyamARA",
+      "neuter": "atistayizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktvA",
+      "base_form": "atistayizya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyap",
+      "base_form": "prAtistayizya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tumun",
+      "base_form": "atistayizitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Ramul",
+      "base_form": "atistayizam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "GaY",
+      "base_form": "atistayiza",
+      "masculine": "atistayizaH",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktin",
+      "base_form": "atistayizwi",
+      "masculine": "",
+      "feminine": "atistayizwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ac",
+      "base_form": "atistayiza",
+      "masculine": "atistayizaH",
+      "feminine": "atistayizA",
+      "neuter": "atistayizam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kvasu",
+      "base_form": "atistayizAmbaBUvas, atistayizAmAsivas, atistayizAYcakfvas",
+      "masculine": "atistayizAmbaBUvAn, atistayizAmAsivAn, atistayizAYcakfvAn",
+      "feminine": "atistayizAmbaBUzI, atistayizAmAsyuzI, atistayizAYcakruzI",
+      "neuter": "atistayizAmbaBUvat, atistayizAmbaBUvad, atistayizAmAsivat, atistayizAmAsivad, atistayizAYcakfvat, atistayizAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "cAnaS",
+      "base_form": "atistayizamARa",
+      "masculine": "atistayizamARaH",
+      "feminine": "atistayizamARA",
+      "neuter": "atistayizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "vun",
+      "base_form": "atistayizaka",
+      "masculine": "atistayizakaH",
+      "feminine": "atistayizikA",
+      "neuter": "atistayizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "u",
+      "base_form": "atistayizu",
+      "masculine": "atistayizuH",
+      "feminine": "atistayizuH",
+      "neuter": "atistayizu"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "a",
+      "base_form": "atistayizA",
+      "masculine": "",
+      "feminine": "atistayizA",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyuw",
+      "base_form": "astana",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "astanam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Rvul",
+      "base_form": "astaka",
+      "masculine": "astakaH",
+      "feminine": "astikA",
+      "neuter": "astakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tfc",
+      "base_form": "astayitf",
+      "masculine": "astayitA",
+      "feminine": "astayitrI",
+      "neuter": "astayitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "yat",
+      "base_form": "astya",
+      "masculine": "astyaH",
+      "feminine": "astyA",
+      "neuter": "astyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tavya",
+      "base_form": "astayitavya",
+      "masculine": "astayitavyaH",
+      "feminine": "astayitavyA",
+      "neuter": "astayitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "anIyar",
+      "base_form": "astanIya",
+      "masculine": "astanIyaH",
+      "feminine": "astanIyA",
+      "neuter": "astanIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kta",
+      "base_form": "astita",
+      "masculine": "astitaH",
+      "feminine": "astitA",
+      "neuter": "astitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktavatu",
+      "base_form": "astitavat",
+      "masculine": "astitavAn",
+      "feminine": "astitavatI",
+      "neuter": "astitavat, astitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Satf",
+      "base_form": "astayat",
+      "masculine": "astayan",
+      "feminine": "astayantI",
+      "neuter": "astayat, astayad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-Satf",
+      "base_form": "astayizyat",
+      "masculine": "astayizyan",
+      "feminine": "astayizyatI, astayizyantI",
+      "neuter": "astayizyat, astayizyad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "SAnac",
+      "base_form": "astayamAna",
+      "masculine": "astayamAnaH",
+      "feminine": "astayamAnA",
+      "neuter": "astayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "astayizyamARa",
+      "masculine": "astayizyamARaH",
+      "feminine": "astayizyamARA",
+      "neuter": "astayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "astyamAna",
+      "masculine": "astyamAnaH",
+      "feminine": "astyamAnA",
+      "neuter": "astyamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "astizyamARa, astayizyamARa",
+      "masculine": "astizyamARaH, astayizyamARaH",
+      "feminine": "astizyamARA, astayizyamARA",
+      "neuter": "astizyamARam, astayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktvA",
+      "base_form": "astayitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "lyap",
+      "base_form": "prAstya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "tumun",
+      "base_form": "astayitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "Ramul",
+      "base_form": "astam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ktin",
+      "base_form": "atti",
+      "masculine": "",
+      "feminine": "attiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "ac",
+      "base_form": "asta",
+      "masculine": "astaH",
+      "feminine": "astA",
+      "neuter": "astam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "kvasu",
+      "base_form": "astayAmbaBUvas, astayAmAsivas, astayAYcakfvas",
+      "masculine": "astayAmbaBUvAn, astayAmAsivAn, astayAYcakfvAn",
+      "feminine": "astayAmbaBUzI, astayAmAsyuzI, astayAYcakruzI",
+      "neuter": "astayAmbaBUvat, astayAmbaBUvad, astayAmAsivat, astayAmAsivad, astayAYcakfvat, astayAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "cAnaS",
+      "base_form": "astayamAna",
+      "masculine": "astayamAnaH",
+      "feminine": "astayamAnA",
+      "neuter": "astayamAnam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "nijanta",
+      "pratyaya": "vun",
+      "base_form": "astaka",
+      "masculine": "astakaH",
+      "feminine": "astikA",
+      "neuter": "astakam"
+    }
+  ],
+  "prayoga": []
+}

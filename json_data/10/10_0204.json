@@ -1,0 +1,228 @@
+{
+  "dhatu_id": "10.0204",
+  "info": {
+    "dhatu": "ganD"
+  },
+  "upasarga_meanings": [],
+  "upasargachandrika": [],
+  "conjugations": [],
+  "participles": [
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyuw",
+      "base_form": "jiganDayizaRa",
+      "masculine": "",
+      "feminine": "",
+      "neuter": "jiganDayizaRam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Rvul",
+      "base_form": "jiganDayizaka",
+      "masculine": "jiganDayizakaH",
+      "feminine": "jiganDayizikA",
+      "neuter": "jiganDayizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tfc",
+      "base_form": "jiganDayizitf",
+      "masculine": "jiganDayizitA",
+      "feminine": "jiganDayizitrI",
+      "neuter": "jiganDayizitf"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "yat",
+      "base_form": "jiganDayizya",
+      "masculine": "jiganDayizyaH",
+      "feminine": "jiganDayizyA",
+      "neuter": "jiganDayizyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tavya",
+      "base_form": "jiganDayizitavya",
+      "masculine": "jiganDayizitavyaH",
+      "feminine": "jiganDayizitavyA",
+      "neuter": "jiganDayizitavyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "anIyar",
+      "base_form": "jiganDayizaRIya",
+      "masculine": "jiganDayizaRIyaH",
+      "feminine": "jiganDayizaRIyA",
+      "neuter": "jiganDayizaRIyam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kta",
+      "base_form": "jiganDayizita",
+      "masculine": "jiganDayizitaH",
+      "feminine": "jiganDayizitA",
+      "neuter": "jiganDayizitam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktavatu",
+      "base_form": "jiganDayizitavat",
+      "masculine": "jiganDayizitavAn",
+      "feminine": "jiganDayizitavatI",
+      "neuter": "jiganDayizitavat, jiganDayizitavad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "SAnac",
+      "base_form": "jiganDayizamARa",
+      "masculine": "jiganDayizamARaH",
+      "feminine": "jiganDayizamARA",
+      "neuter": "jiganDayizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-SAnac",
+      "base_form": "jiganDayizizyamARa",
+      "masculine": "jiganDayizizyamARaH",
+      "feminine": "jiganDayizizyamARA",
+      "neuter": "jiganDayizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "BAvakarma-SAnac",
+      "base_form": "jiganDayizyamARa",
+      "masculine": "jiganDayizyamARaH",
+      "feminine": "jiganDayizyamARA",
+      "neuter": "jiganDayizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "sya-BAvakarma-SAnac",
+      "base_form": "jiganDayizizyamARa",
+      "masculine": "jiganDayizizyamARaH",
+      "feminine": "jiganDayizizyamARA",
+      "neuter": "jiganDayizizyamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktvA",
+      "base_form": "jiganDayizitvA",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "lyap",
+      "base_form": "prajiganDayizya",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "tumun",
+      "base_form": "jiganDayizitum",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "Ramul",
+      "base_form": "jiganDayizam",
+      "masculine": "",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "GaY",
+      "base_form": "jiganDayiza",
+      "masculine": "jiganDayizaH",
+      "feminine": "",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ktin",
+      "base_form": "jiganDayizwi",
+      "masculine": "",
+      "feminine": "jiganDayizwiH",
+      "neuter": ""
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "ac",
+      "base_form": "jiganDayiza",
+      "masculine": "jiganDayizaH",
+      "feminine": "jiganDayizA",
+      "neuter": "jiganDayizam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "kvasu",
+      "base_form": "jiganDayizAmbaBUvas, jiganDayizAmAsivas, jiganDayizAYcakfvas",
+      "masculine": "jiganDayizAmbaBUvAn, jiganDayizAmAsivAn, jiganDayizAYcakfvAn",
+      "feminine": "jiganDayizAmbaBUzI, jiganDayizAmAsyuzI, jiganDayizAYcakruzI",
+      "neuter": "jiganDayizAmbaBUvat, jiganDayizAmbaBUvad, jiganDayizAmAsivat, jiganDayizAmAsivad, jiganDayizAYcakfvat, jiganDayizAYcakfvad"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "cAnaS",
+      "base_form": "jiganDayizamARa",
+      "masculine": "jiganDayizamARaH",
+      "feminine": "jiganDayizamARA",
+      "neuter": "jiganDayizamARam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "vun",
+      "base_form": "jiganDayizaka",
+      "masculine": "jiganDayizakaH",
+      "feminine": "jiganDayizikA",
+      "neuter": "jiganDayizakam"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "u",
+      "base_form": "jiganDayizu",
+      "masculine": "jiganDayizuH",
+      "feminine": "jiganDayizuH",
+      "neuter": "jiganDayizu"
+    },
+    {
+      "upasarga": "",
+      "derivative": "sannanta",
+      "pratyaya": "a",
+      "base_form": "jiganDayizA",
+      "masculine": "",
+      "feminine": "jiganDayizA",
+      "neuter": ""
+    }
+  ],
+  "prayoga": []
+}
