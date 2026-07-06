@@ -5,3 +5,9 @@ processed_dhatus.txt
 # Ignore Python cache
 __pycache__/
 *.pyc
+*.coverage
+*.coveragerc
+# Testing and Coverage artifacts
+.coverage
+*,cover
+htmlcov/
