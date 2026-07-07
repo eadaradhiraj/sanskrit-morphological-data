@@ -9,42 +9,69 @@ class TestSanskritGenerator(unittest.TestCase):
         self.assertEqual(apply_upasarga_sandhi("pra + AN", "karoti"), "prAkaroti")
         self.assertEqual(apply_upasarga_sandhi("sam", "gacCati"), "saMgacCati")
         self.assertEqual(apply_upasarga_sandhi("ud", "karoti"), "utkaroti")
-        
-        # Test Vowel Sandhi Branches
         self.assertEqual(apply_upasarga_sandhi("pra", "iti"), "preti")
         self.assertEqual(apply_upasarga_sandhi("pra", "ukta"), "prokta")
         self.assertEqual(apply_upasarga_sandhi("pra", "fca"), "prarca")
         self.assertEqual(apply_upasarga_sandhi("anu", "eti"), "anveti")
         self.assertEqual(apply_upasarga_sandhi("ni", "asya"), "nyasya")
-        
-        # Test Consonant Sandhi Branches
         self.assertEqual(apply_upasarga_sandhi("sam", "Aneti"), "samAneti")
         self.assertEqual(apply_upasarga_sandhi("ud", "Cinatti"), "ucCinatti") 
         self.assertEqual(apply_upasarga_sandhi("ud", "jvalati"), "ujjvalati")
         self.assertEqual(apply_upasarga_sandhi("ud", "gacCati"), "udgacCati") 
-        
-        # Test the 'else' branch (prefixes ending in r, s)
         self.assertEqual(apply_upasarga_sandhi("nir", "gacCati"), "nirgacCati")
         self.assertEqual(apply_upasarga_sandhi("dus", "karoti"), "duskaroti")
 
-    def test_declension_generation(self):
-        forms_a = decline_noun("wrampa", "masculine")
-        self.assertEqual(forms_a["tritiya"][0], "wrampeRa") 
-        
-        forms_i = decline_noun("hari", "masculine")
-        self.assertEqual(forms_i["prathama"][0], "hariH")
-        
-        forms_u = decline_noun("guru", "masculine")
-        self.assertEqual(forms_u["prathama"][0], "guruH")
-        
-        forms_f = decline_noun("kartf", "masculine")
-        self.assertEqual(forms_f["prathama"][0], "kartA")
-        
-        # Test missing branches (unsupported genders returning empty dicts)
+    def test_declension_a_karanta(self):
+        m_forms = decline_noun("wrampa", "masculine")
+        self.assertEqual(m_forms["tritiya"][0], "wrampeRa")
+        n_forms = decline_noun("wrampa", "neuter")
+        self.assertEqual(n_forms["prathama"][0], "wrampam")
         with self.assertRaises(ValueError): decline_noun("wrampa", "feminine")
-        with self.assertRaises(ValueError): decline_noun("hari", "neuter")
-        with self.assertRaises(ValueError): decline_noun("guru", "neuter")
-        with self.assertRaises(ValueError): decline_noun("kartf", "neuter")
+
+    def test_declension_A_I_karanta_feminine(self):
+        f_A = decline_noun("kftA", "feminine")
+        self.assertEqual(f_A["prathama"][2], "kftAH")
+        f_I = decline_noun("kurvatI", "feminine")
+        self.assertEqual(f_I["sasthi"][2], "kurvatInAm")
+        with self.assertRaises(ValueError): decline_noun("kftA", "masculine")
+        with self.assertRaises(ValueError): decline_noun("kurvatI", "neuter")
+
+    def test_declension_i_karanta(self):
+        m = decline_noun("hari", "masculine")
+        self.assertEqual(m["prathama"][0], "hariH")
+        f = decline_noun("mati", "feminine")
+        self.assertEqual(f["caturthi"][0], "matyE")
+        n = decline_noun("vAri", "neuter")
+        self.assertEqual(n["sasthi"][1], "vAriRoH")
+
+    def test_declension_u_karanta(self):
+        m = decline_noun("guru", "masculine")
+        self.assertEqual(m["sasthi"][2], "gurURAm")
+        f = decline_noun("Denu", "feminine")
+        self.assertEqual(f["dvitiya"][2], "DenUH")
+        n = decline_noun("maDu", "neuter")
+        self.assertEqual(n["tritiya"][0], "maDunA")
+
+    def test_declension_f_karanta(self):
+        m = decline_noun("kartf", "masculine")
+        self.assertEqual(m["prathama"][0], "kartA")
+        f = decline_noun("mAtf", "feminine")
+        self.assertEqual(f["dvitiya"][2], "mAtFH")
+        n = decline_noun("kartf", "neuter")
+        self.assertEqual(n["prathama"][2], "kartFNi")
+
+    def test_declension_at_karanta(self):
+        m = decline_noun("gacCat", "masculine")
+        self.assertEqual(m["prathama"][0], "gacCan")
+        n = decline_noun("kurvat", "neuter")
+        self.assertEqual(n["prathama"][2], "kurvanti")
+        with self.assertRaises(ValueError): decline_noun("gacCat", "feminine")
+
+    def test_invalid_base(self):
+        with self.assertRaises(ValueError): decline_noun("rAjan", "masculine") # Hit halanta fallback
+        with self.assertRaises(ValueError): decline_noun("hari", "unknown")    # Hit i-karanta fallback
+        with self.assertRaises(ValueError): decline_noun("guru", "unknown")    # Hit u-karanta fallback
+        with self.assertRaises(ValueError): decline_noun("kartf", "unknown")   # Hit f-karanta fallback
 
     def test_direct_conjugation_match(self):
         forms = conjugate("8.0010", upasarga="pra")
