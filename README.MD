@@ -16,9 +16,10 @@ This gives users the ease of a `pip install` with the speed of a local SQL datab
 * **Avyaya Recognition:** Automatically identifies non-declining suffixes (`-tumun`, `-ktvā`, `-lyap`, etc.) and classifies them as *Avyayas* (indeclinables).
 * **Universal Reverse-Stemmer:** An algorithmic engine that mathematically strips 21 *Sup* affixes across *a, i, u,* and *ṛ* paradigms (applying reverse-*ṇatva* rules) to identify the base stem of any declined noun or participle.
 * **Dynamic Sandhi Stripper:** If a word with a sandhi-fused Upasarga (e.g., *vyākaroti* -> *vi + ā + karoti*) is searched and isn't explicitly in the database, the engine dynamically strips the sandhi, identifies the bare root, and seamlessly rebuilds the grammatical metadata.
+* **Forward Subanta Generator:** Mathematically generates the full 24-case declension grids for *a, ā, i, ī, u, ṛ,* and *at* ending nouns/participles on the fly, correctly applying internal *ṇatva* (n -> ṇ) rules.
 * **Foreign Word Fallback:** Gracefully parses modern or foreign names (e.g., *ṭrampeṇa* -> *ṭrampa*, *neharūṇām* -> *neharu*) by guessing the stem and case, even if no Pāṇinian root exists.
 * **CLI Built-in:** Search for words directly from your terminal.
-* **100% Test Coverage:** Core analyzer logic is strictly tested against mathematical edge cases.
+* **100% Test Coverage:** Core analyzer, generator, and sandhi logic are strictly tested against mathematical edge cases.
 
 ## 📦 Installation
 
@@ -45,9 +46,12 @@ print(json.dumps(result["verbs"], indent=2))
 result = skt_morph.analyze("vyAkftena")
 print(json.dumps(result["declensions"], indent=2))
 
-# Reverse lookup for an unknown/foreign declined noun
-result = skt_morph.analyze("wrampeRa")
-print(json.dumps(result["declensions"], indent=2))
+# Forward Declension Generation (e.g. guru in masculine)
+from skt_morph.generator import get_participle_declension
+from skt_morph.declension import decline_noun
+
+forms = decline_noun("guru", "masculine")
+print(json.dumps(forms, indent=2))
 ```
 
 ### 2. Command Line Interface (CLI)
@@ -62,15 +66,10 @@ python -m skt_morph kartum --participle
 python -m skt_morph kftena --declension
 ```
 
-## 🗺️ Roadmap / Next Steps
-- [x] **Full 24-Case Noun Stemmer:** Expand the reverse-stemming algorithm to recognize and strip all 21 *Sup* affixes for reverse lookup.
-- [x] **Dynamic Upasarga Stripper:** Build an algorithm to perform reverse-sandhi on unknown prefixes to map them back to known roots dynamically.
-- [ ] **Subanta Generator:** Build algorithmic forward-generation for nouns/participles based on ending paradigms (*a-kārānta*, *i-kārānta*, etc.).
+## 🗺️ Future Roadmap
+- [ ] **Consonant Stems (Halanta):** Expand the declension generator to support complex consonant-ending nouns (e.g. *rājan*, *vāc*, *gīr*).
+- [ ] **Avyaya Database:** Integrate a static lookup list of common indeclinable particles and conjunctions (e.g., *ca*, *vā*, *api*).
+- [ ] **PyPI Release:** Publish as an official pip package for easier installation (`pip install skt-morph`).
 
 ---
 *Data sourced with gratitude from [Ashtadhyayi.com](https://ashtadhyayi.com).*
-EOF
-```
-
-### What's next?
-The very last unchecked box on our roadmap is the **Subanta Generator**. We need the engine to be able to take `rAma` and mathematically spit out the 24 perfect Sanskrit forms (including sambodhana).
