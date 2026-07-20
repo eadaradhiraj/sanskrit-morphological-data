@@ -41,76 +41,72 @@ class TestSanskritAnalyzer(unittest.TestCase):
     def test_dynamic_upasarga_stripping_verb_unseen(self):
         result = analyze("durAkaroti")
         verbs = result.get("verbs", [])
-        valid_match = next((v for v in verbs if v["upasarga"] == "dus + AN" and v["note"] == "Dynamically matched via Sandhi split"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((v for v in verbs if v["upasarga"] == "dus + AN" and v["note"] == "Dynamically matched via Sandhi split"), None))
 
     def test_dynamic_upasarga_stripping_participle_unseen(self):
         result = analyze("durAkartum")
         participles = result.get("participles", [])
-        valid_match = next((p for p in participles if p["upasarga"] == "dus + AN" and p["note"] == "Dynamically matched via Sandhi split"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((p for p in participles if p["upasarga"] == "dus + AN" and p["note"] == "Dynamically matched via Sandhi split"), None))
 
     def test_dynamic_upasarga_stripping_declension_unseen(self):
         result = analyze("durAkftena")
         declensions = result.get("declensions", [])
-        valid_match = next((d for d in declensions if d["upasarga"] == "dus + AN" and d.get("note") == "Dynamic Upasarga Match"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((d for d in declensions if d["upasarga"] == "dus + AN" and d.get("note") == "Dynamic Upasarga Match"), None))
 
     def test_r_karanta_stemming(self):
         result = analyze("kartrA")
         declensions = result.get("declensions", [])
-        valid_match = next((d for d in declensions if d["base_form"] == "kartf" and d["dhatu_id"] == "8.0010" and d["case"] == "tritiya"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((d for d in declensions if d["base_form"] == "kartf" and d["dhatu_id"] == "8.0010" and d["case"] == "tritiya"), None))
 
     def test_u_karanta_stemming_fallback(self):
         result = analyze("neharURAm")
         declensions = result.get("declensions", [])
-        valid_match = next((d for d in declensions if d["base_form"] == "neharu" and d["dhatu_id"] is None and d["case"] == "sasthi"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((d for d in declensions if d["base_form"] == "neharu" and d["dhatu_id"] is None and d["case"] == "sasthi"), None))
 
     def test_i_karanta_stemming_fallback(self):
         result = analyze("haraye")
         declensions = result.get("declensions", [])
-        valid_match = next((d for d in declensions if d["base_form"] == "hari" and d["dhatu_id"] is None and d["case"] == "caturthi"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((d for d in declensions if d["base_form"] == "hari" and d["dhatu_id"] is None and d["case"] == "caturthi"), None))
 
-    # --- NEW TESTS FOR HALANTA ---
     def test_halanta_an_stemming(self):
         result = analyze("rAjAnam")
         declensions = result.get("declensions", [])
-        valid_match = next((d for d in declensions if d["base_form"] == "rAjan" and d["case"] == "dvitiya" and d["vacana"] == "eka"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((d for d in declensions if d["base_form"] == "rAjan" and d["case"] == "dvitiya" and d["vacana"] == "eka"), None))
 
     def test_halanta_as_stemming(self):
         result = analyze("manasA")
         declensions = result.get("declensions", [])
-        valid_match = next((d for d in declensions if d["base_form"] == "manas" and d["case"] == "tritiya" and d["vacana"] == "eka"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((d for d in declensions if d["base_form"] == "manas" and d["case"] == "tritiya" and d["vacana"] == "eka"), None))
         
     def test_halanta_in_stemming(self):
         result = analyze("balinO")
         declensions = result.get("declensions", [])
-        valid_match = next((d for d in declensions if d["base_form"] == "balin" and d["vacana"] == "dvi"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((d for d in declensions if d["base_form"] == "balin" and d["vacana"] == "dvi"), None))
 
-    # --- NEW TESTS FOR NAMADHATU ---
+    def test_halanta_c_j_stemming(self):
+        result = analyze("vAcaH")
+        declensions = result.get("declensions", [])
+        self.assertIsNotNone(next((d for d in declensions if d["base_form"] == "vAc" and d["case"] == "panchami/sasthi"), None))
+
     def test_namadhatu_kyac(self):
         result = analyze("putrIyati")
         namadhatus = result.get("namadhatus", [])
-        valid_match = next((n for n in namadhatus if n["base_noun"] == "putra" and n["pratyaya"] == "kyac"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((n for n in namadhatus if n["base_noun"] == "putra" and n["pratyaya"] == "kyac"), None))
 
     def test_namadhatu_kyan(self):
         result = analyze("SyenAyate")
         namadhatus = result.get("namadhatus", [])
-        valid_match = next((n for n in namadhatus if n["base_noun"] == "Syena" and n["pratyaya"] == "kyaN"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((n for n in namadhatus if n["base_noun"] == "Syena" and n["pratyaya"] == "kyaN"), None))
 
     def test_namadhatu_kamyac(self):
         result = analyze("putrakAmyati")
         namadhatus = result.get("namadhatus", [])
-        valid_match = next((n for n in namadhatus if n["base_noun"] == "putra" and n["pratyaya"] == "kAmyac"), None)
-        self.assertIsNotNone(valid_match)
+        self.assertIsNotNone(next((n for n in namadhatus if n["base_noun"] == "putra" and n["pratyaya"] == "kAmyac"), None))
+        
+    def test_pronouns(self):
+        result = analyze("tasmE")
+        pronouns = result.get("pronouns", [])
+        self.assertIsNotNone(next((p for p in pronouns if p["base_form"] == "tad" and p["case"] == "caturthi"), None))
 
-if __name__ == "__main__":  # pragma: no cover
+if __name__ == "__main__": # pragma: no cover
     unittest.main(verbosity=2)

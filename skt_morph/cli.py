@@ -9,17 +9,18 @@ def main():
     parser.add_argument("--participle", action="store_true", help="Only show uninflected participle bases")
     parser.add_argument("--declension", action="store_true", help="Only show declined nouns/adjectives (Subanta)")
     parser.add_argument("--namadhatu", action="store_true", help="Only show denominative verbs (Nāmadhātu)")
+    parser.add_argument("--pronoun", action="store_true", help="Only show pronouns (Sarvanāma)")
     
     args = parser.parse_args()
     results = analyze(args.word)
     filtered_results = {}
     
-    show_all = not (args.verb or args.participle or args.declension or args.namadhatu)
-    
+    show_all = not (args.verb or args.participle or args.declension or args.namadhatu or args.pronoun)
     if show_all or args.verb: filtered_results["verbs"] = results.get("verbs", [])
     if show_all or args.participle: filtered_results["participles"] = results.get("participles", [])
     if show_all or args.declension: filtered_results["declensions"] = results.get("declensions", [])
     if show_all or args.namadhatu: filtered_results["namadhatus"] = results.get("namadhatus", [])
+    if show_all or args.pronoun: filtered_results["pronouns"] = results.get("pronouns", [])
 
     print(json.dumps(filtered_results, indent=2, ensure_ascii=False))
 
