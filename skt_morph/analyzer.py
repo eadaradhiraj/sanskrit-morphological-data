@@ -2,6 +2,7 @@ import os
 import sqlite3
 from .sandhi import get_upasarga_splits
 from .stemmer import get_stems
+from .namadhatu import analyze_namadhatu
 
 HOME_DIR = os.path.expanduser("~")
 DB_PATH = os.path.join(HOME_DIR, ".skt_morph", "skt_morphology.db")
@@ -25,13 +26,11 @@ def _extract_exact_matches(row, word, columns):
     return matched
 
 def _is_valid_participle(conn, dhatu_id, upasarga, pratyaya):
-    if pratyaya == 'lyap' and upasarga == "":
-        return False
+    if pratyaya == 'lyap' and upasarga == "": return False
     if pratyaya in ['SAnac', 'cAnaS', 'sya-SAnac', 'BAvakarma-SAnac', 'sya-BAvakarma-SAnac']:
         cursor = conn.cursor()
         cursor.execute("SELECT 1 FROM conjugations WHERE dhatu_id = ? AND upasarga = ? AND voice = 'Atmanepadam' LIMIT 1", (dhatu_id, upasarga))
-        if not cursor.fetchone():
-            return False  # pragma: no cover
+        if not cursor.fetchone(): return False 
     return True
 
 def _fetch_verbs_from_db(word_slp1):
@@ -54,7 +53,6 @@ def _fetch_verbs_from_db(word_slp1):
 
 def analyze_verb(word_slp1):
     results = _fetch_verbs_from_db(word_slp1)
-    
     if not results:
         for upa, stripped in get_upasarga_splits(word_slp1):
             sub_results = _fetch_verbs_from_db(stripped)
@@ -64,7 +62,6 @@ def analyze_verb(word_slp1):
                     res["note"] = "Dynamically matched via Sandhi split"
                     results.append(res)
             if results: break 
-            
     return results
 
 def _fetch_participles_from_db(word_slp1):
@@ -79,7 +76,6 @@ def _fetch_participles_from_db(word_slp1):
     
     for row in raw_results:
         if not _is_valid_participle(conn, row["dhatu_id"], row["upasarga"], row["pratyaya"]): continue
-        
         pratyaya = row["pratyaya"]
         matched_cols = _extract_exact_matches(row, word_slp1, ['base_form', 'masculine', 'feminine', 'neuter']) 
         for col in matched_cols:
@@ -99,7 +95,6 @@ def _fetch_participles_from_db(word_slp1):
 
 def analyze_participle_base(word_slp1):
     results = _fetch_participles_from_db(word_slp1)
-    
     if not results:
         for upa, stripped in get_upasarga_splits(word_slp1):
             sub_results = _fetch_participles_from_db(stripped)
@@ -109,12 +104,10 @@ def analyze_participle_base(word_slp1):
                     res["note"] = "Dynamically matched via Sandhi split"
                     results.append(res)
             if results: break
-            
     return results
 
 def analyze_declension(word_slp1):
     guessed_stems = get_stems(word_slp1)
-    
     results = []
     conn = _get_db_connection()
     cursor = conn.cursor()
@@ -124,7 +117,6 @@ def analyze_declension(word_slp1):
         search_term = f"%{stem}%"
         cursor.execute("SELECT dhatu_id, upasarga, pratyaya, base_form FROM participles WHERE base_form LIKE ?", (search_term,))
         db_matches = cursor.fetchall()
-        
         exact_matches = [row for row in db_matches if stem in [s.strip() for s in row["base_form"].split(',')]] 
                 
         if exact_matches:
@@ -161,5 +153,6 @@ def analyze(word_slp1):
     return {
         "verbs": analyze_verb(word_slp1),
         "participles": analyze_participle_base(word_slp1),
-        "declensions": analyze_declension(word_slp1)
+        "declensions": analyze_declension(word_slp1),
+        "namadhatus": analyze_namadhatu(word_slp1)
     }

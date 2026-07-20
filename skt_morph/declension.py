@@ -15,14 +15,12 @@ def decline_a(base, gender):
     return {}
 
 def decline_A(base, gender):
-    """For ā-kārānta feminine (e.g. kṛtā, ramā)"""
     s = base[:-1]
     if gender == "feminine":
         return {"prathama": [f"{s}A", f"{s}e", f"{s}AH"], "dvitiya": [f"{s}Am", f"{s}e", f"{s}AH"], "tritiya": [f"{s}ayA", f"{s}AByAm", f"{s}ABiH"], "caturthi": [f"{s}AyE", f"{s}AByAm", f"{s}AByaH"], "panchami": [f"{s}AyAH", f"{s}AByAm", f"{s}AByaH"], "sasthi": [f"{s}AyAH", f"{s}ayoH", f"{s}AnAm"], "saptami": [f"{s}AyAm", f"{s}ayoH", f"{s}Asu"], "sambodhana": [f"{s}e", f"{s}e", f"{s}AH"]}
     return {}
 
 def decline_I(base, gender):
-    """For ī-kārānta feminine (e.g. kurvatī, nadī)"""
     s = base[:-1]
     if gender == "feminine":
         return {"prathama": [f"{s}I", f"{s}yO", f"{s}yaH"], "dvitiya": [f"{s}Im", f"{s}yO", f"{s}IH"], "tritiya": [f"{s}yA", f"{s}IByAm", f"{s}IBiH"], "caturthi": [f"{s}yE", f"{s}IByAm", f"{s}IByaH"], "panchami": [f"{s}yAH", f"{s}IByAm", f"{s}IByaH"], "sasthi": [f"{s}yAH", f"{s}yoH", f"{s}InAm"], "saptami": [f"{s}yAm", f"{s}yoH", f"{s}Izu"], "sambodhana": [f"{s}i", f"{s}yO", f"{s}yaH"]}
@@ -59,12 +57,29 @@ def decline_f(base, gender):
     return {}
 
 def decline_at(base, gender):
-    """For Śatṛ participles (e.g. gacChat, kurvat)"""
     s = base[:-2]
     if gender == "masculine":
         return {"prathama": [f"{s}an", f"{s}antO", f"{s}antaH"], "dvitiya": [f"{s}antam", f"{s}antO", f"{s}ataH"], "tritiya": [f"{s}atA", f"{s}adByAm", f"{s}adBiH"], "caturthi": [f"{s}ate", f"{s}adByAm", f"{s}adByaH"], "panchami": [f"{s}ataH", f"{s}adByAm", f"{s}adByaH"], "sasthi": [f"{s}ataH", f"{s}atoH", f"{s}atAm"], "saptami": [f"{s}ati", f"{s}atoH", f"{s}atsu"], "sambodhana": [f"{s}an", f"{s}antO", f"{s}antaH"]}
     elif gender == "neuter":
         return {"prathama": [f"{s}at", f"{s}atI", f"{s}anti"], "dvitiya": [f"{s}at", f"{s}atI", f"{s}anti"], "tritiya": [f"{s}atA", f"{s}adByAm", f"{s}adBiH"], "caturthi": [f"{s}ate", f"{s}adByAm", f"{s}adByaH"], "panchami": [f"{s}ataH", f"{s}adByAm", f"{s}adByaH"], "sasthi": [f"{s}ataH", f"{s}atoH", f"{s}atAm"], "saptami": [f"{s}ati", f"{s}atoH", f"{s}atsu"], "sambodhana": [f"{s}an", f"{s}atI", f"{s}anti"]}
+    return {}
+
+def decline_an(base, gender):
+    s = base[:-2]
+    if gender == "masculine":
+        return {"prathama": [f"{s}A", f"{s}AnO", f"{s}AnaH"], "dvitiya": [f"{s}Anam", f"{s}AnO", f"{s}naH"], "tritiya": [f"{s}nA", f"{s}aByAm", f"{s}aBiH"], "caturthi": [f"{s}ne", f"{s}aByAm", f"{s}aByaH"], "panchami": [f"{s}naH", f"{s}aByAm", f"{s}aByaH"], "sasthi": [f"{s}naH", f"{s}noH", f"{s}nAm"], "saptami": [f"{s}ni", f"{s}noH", f"{s}asu"], "sambodhana": [f"{s}an", f"{s}AnO", f"{s}AnaH"]}
+    return {}
+
+def decline_in(base, gender):
+    s = base[:-2]
+    if gender == "masculine":
+        return {"prathama": [f"{s}I", f"{s}inO", f"{s}inaH"], "dvitiya": [f"{s}inam", f"{s}inO", f"{s}inaH"], "tritiya": [f"{s}inA", f"{s}iByAm", f"{s}iBiH"], "caturthi": [f"{s}ine", f"{s}iByAm", f"{s}iByaH"], "panchami": [f"{s}inaH", f"{s}iByAm", f"{s}iByaH"], "sasthi": [f"{s}inaH", f"{s}inoH", f"{s}inAm"], "saptami": [f"{s}ini", f"{s}inoH", f"{s}izu"], "sambodhana": [f"{s}in", f"{s}inO", f"{s}inaH"]}
+    return {}
+
+def decline_as(base, gender):
+    s = base[:-2]
+    if gender == "neuter":
+        return {"prathama": [f"{s}aH", f"{s}asI", f"{s}AMsi"], "dvitiya": [f"{s}aH", f"{s}asI", f"{s}AMsi"], "tritiya": [f"{s}asA", f"{s}oByAm", f"{s}oBiH"], "caturthi": [f"{s}ase", f"{s}oByAm", f"{s}oByaH"], "panchami": [f"{s}asaH", f"{s}oByAm", f"{s}oByaH"], "sasthi": [f"{s}asaH", f"{s}asoH", f"{s}asAm"], "saptami": [f"{s}asi", f"{s}asoH", f"{s}aHsu"], "sambodhana": [f"{s}aH", f"{s}asI", f"{s}AMsi"]}
     return {}
 
 def decline_noun(base, gender):
@@ -76,6 +91,9 @@ def decline_noun(base, gender):
     elif base.endswith('u'): res = decline_u(base, gender)
     elif base.endswith('f'): res = decline_f(base, gender)
     elif base.endswith('at'): res = decline_at(base, gender)
+    elif base.endswith('an'): res = decline_an(base, gender)
+    elif base.endswith('in'): res = decline_in(base, gender)
+    elif base.endswith('as'): res = decline_as(base, gender)
     
     if not res:
         raise ValueError(f"Generation for base '{base}' in gender '{gender}' not supported yet.")

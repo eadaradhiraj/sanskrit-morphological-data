@@ -67,11 +67,30 @@ class TestSanskritGenerator(unittest.TestCase):
         self.assertEqual(n["prathama"][2], "kurvanti")
         with self.assertRaises(ValueError): decline_noun("gacCat", "feminine")
 
+    def test_declension_an_karanta(self):
+        m = decline_noun("rAjan", "masculine")
+        self.assertEqual(m["prathama"][0], "rAjA")
+        self.assertEqual(m["dvitiya"][0], "rAjAnam")
+
+    def test_declension_in_karanta(self):
+        m = decline_noun("balin", "masculine")
+        self.assertEqual(m["prathama"][0], "balI")
+        self.assertEqual(m["sasthi"][2], "balinAm")
+
+    def test_declension_as_karanta(self):
+        n = decline_noun("manas", "neuter")
+        self.assertEqual(n["prathama"][0], "manaH")
+        self.assertEqual(n["prathama"][2], "manAMsi")
+
     def test_invalid_base(self):
-        with self.assertRaises(ValueError): decline_noun("rAjan", "masculine") # Hit halanta fallback
-        with self.assertRaises(ValueError): decline_noun("hari", "unknown")    # Hit i-karanta fallback
-        with self.assertRaises(ValueError): decline_noun("guru", "unknown")    # Hit u-karanta fallback
-        with self.assertRaises(ValueError): decline_noun("kartf", "unknown")   # Hit f-karanta fallback
+        with self.assertRaises(ValueError): decline_noun("vAc", "masculine")
+        with self.assertRaises(ValueError): decline_noun("hari", "unknown") 
+        with self.assertRaises(ValueError): decline_noun("guru", "unknown") 
+        with self.assertRaises(ValueError): decline_noun("kartf", "unknown") 
+        # --- The new lines to trigger 100% coverage ---
+        with self.assertRaises(ValueError): decline_noun("rAjan", "feminine")
+        with self.assertRaises(ValueError): decline_noun("balin", "neuter")
+        with self.assertRaises(ValueError): decline_noun("manas", "masculine")
 
     def test_direct_conjugation_match(self):
         forms = conjugate("8.0010", upasarga="pra")

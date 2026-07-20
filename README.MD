@@ -1,6 +1,6 @@
 # skt-morph (Sanskrit Morphological Engine)
 
-`skt-morph` is a lightning-fast, offline Sanskrit morphological analyzer, generator, and reverse-lookup dictionary. It is built by scraping the highly accurate WebAssembly-generated morphological tables from [Ashtadhyayi.com](https://ashtadhyayi.com) and structuring them into an optimized local SQLite database.
+`skt-morph` is a lightning-fast, offline Sanskrit morphological analyzer, generator, and reverse-lookup. It is built by scraping the highly accurate WebAssembly-generated morphological tables from [Ashtadhyayi.com](https://ashtadhyayi.com) and structuring them into an optimized local SQLite database.
 
 ## 🏗️ Architecture: JSON Transport -> SQLite Engine
 

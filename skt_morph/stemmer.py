@@ -78,6 +78,24 @@ STEMMING_RULES = [
     (r'tfByAm$', 'tf', 'masc/fem', 'tritiya/caturthi/panchami', 'dvi'),
     (r'tfByaH$', 'tf', 'masc/fem', 'caturthi/panchami', 'bahu'),
     (r'tfBiH$', 'tf', 'masc/fem', 'tritiya', 'bahu'),
+    
+    # --- HALANTA: AN-KARANTA (Rajan) ---
+    (r'A$', 'an', 'masc', 'prathama', 'eka'),
+    (r'AnO$', 'an', 'masc', 'prathama/dvitiya', 'dvi'),
+    (r'AnaH$', 'an', 'masc', 'prathama', 'bahu'),
+    (r'Anam$', 'an', 'masc', 'dvitiya', 'eka'),
+    (r'nA$', 'an', 'masc/neut', 'tritiya', 'eka'),
+    
+    # --- HALANTA: IN-KARANTA (Balin) ---
+    (r'I$', 'in', 'masc', 'prathama', 'eka'),
+    (r'inO$', 'in', 'masc', 'prathama/dvitiya', 'dvi'),
+    (r'inaH$', 'in', 'masc', 'prathama/dvitiya/panchami/sasthi', 'bahu'),
+    
+    # --- HALANTA: AS-KARANTA (Manas) ---
+    (r'aH$', 'as', 'neut', 'prathama/dvitiya', 'eka'),
+    (r'asI$', 'as', 'neut', 'prathama/dvitiya', 'dvi'),
+    (r'AMsi$', 'as', 'neut', 'prathama/dvitiya', 'bahu'),
+    (r'asA$', 'as', 'masc/neut', 'tritiya', 'eka'),
 ]
 
 def get_stems(word_slp1):
