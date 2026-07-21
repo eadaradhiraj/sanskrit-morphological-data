@@ -14,6 +14,12 @@ IRREGULAR_NOUNS_MAP = {
     },
     "strI": {
         "feminine": {"prathama": ["strI", "striyO", "striyaH"], "dvitiya": ["striyam", "striyO", "striyaH"], "tritiya": ["striyA", "strIByAm", "strIBiH"], "caturthi": ["striyE", "strIByAm", "strIByaH"], "panchami": ["striyAH", "strIByAm", "strIByaH"], "sasthi": ["striyAH", "striyoH", "strIRAm"], "saptami": ["striyAm", "striyoH", "strIzu"], "sambodhana": ["stri", "striyO", "striyaH"]}
+    },
+    "prAYc": {
+        "masculine": {"prathama": ["prAN", "prAYcO", "prAYcaH"], "dvitiya": ["prAYcam", "prAYcO", "prAcaH"], "tritiya": ["prAcA", "prAgByAm", "prAgBiH"], "caturthi": ["prAce", "prAgByAm", "prAgByaH"], "panchami": ["prAcaH", "prAgByAm", "prAgByaH"], "sasthi": ["prAcaH", "prAcoH", "prAcAm"], "saptami": ["prAci", "prAcoH", "prAkzu"], "sambodhana": ["prAN", "prAYcO", "prAYcaH"]}
+    },
+    "pratyaYc": {
+        "masculine": {"prathama": ["pratyaN", "pratyaYcO", "pratyaYcaH"], "dvitiya": ["pratyaYcam", "pratyaYcO", "pratIcaH"], "tritiya": ["pratIcA", "pratyagByAm", "pratyagBiH"], "caturthi": ["pratIce", "pratyagByAm", "pratyagByaH"], "panchami": ["pratIcaH", "pratyagByAm", "pratyagByaH"], "sasthi": ["pratIcaH", "pratIcoH", "pratIcAm"], "saptami": ["pratIci", "pratIcoH", "pratyakzu"], "sambodhana": ["pratyaN", "pratyaYcO", "pratyaYcaH"]}
     }
 }
 

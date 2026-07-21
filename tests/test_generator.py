@@ -63,25 +63,42 @@ class TestSanskritGenerator(unittest.TestCase):
         n = decline_noun("kartf", "neuter")
         self.assertEqual(n["prathama"][2], "kartFNi")
 
-    def test_declension_at_karanta(self):
-        m = decline_noun("gacCat", "masculine")
-        self.assertEqual(m["prathama"][0], "gacCan")
-        n = decline_noun("kurvat", "neuter")
-        self.assertEqual(n["prathama"][2], "kurvanti")
-        with self.assertRaises(ValueError): decline_noun("gacCat", "feminine")
-
-    def test_declension_an_karanta(self):
-        m = decline_noun("rAjan", "masculine")
-        self.assertEqual(m["prathama"][0], "rAjA")
-
-    def test_declension_in_karanta(self):
-        m = decline_noun("balin", "masculine")
-        self.assertEqual(m["prathama"][0], "balI")
-
-    def test_declension_as_karanta(self):
-        n = decline_noun("manas", "neuter")
-        self.assertEqual(n["prathama"][2], "manAMsi")
+    def test_declension_mat_vat_at_karanta(self):
+        at_m = decline_noun("gacCat", "masculine")
+        self.assertEqual(at_m["prathama"][0], "gacCan")
+        at_n = decline_noun("kurvat", "neuter")
+        self.assertEqual(at_n["prathama"][2], "kurvanti")
         
+        vat_m = decline_noun("Bagavat", "masculine")
+        self.assertEqual(vat_m["prathama"][0], "BagavAn")
+        vat_n = decline_noun("Bagavat", "neuter")
+        self.assertEqual(vat_n["prathama"][2], "Bagavanti")
+
+        mat_m = decline_noun("DImat", "masculine")
+        self.assertEqual(mat_m["prathama"][0], "DImAn")
+        mat_n = decline_noun("DImat", "neuter")
+        self.assertEqual(mat_n["prathama"][2], "DImanti")
+
+        with self.assertRaises(ValueError): decline_noun("gacCat", "feminine")
+        with self.assertRaises(ValueError): decline_noun("Bagavat", "feminine")
+        with self.assertRaises(ValueError): decline_noun("DImat", "feminine")
+
+    def test_declension_an_in_as_is_us_karanta(self):
+        m_an = decline_noun("rAjan", "masculine")
+        self.assertEqual(m_an["prathama"][0], "rAjA")
+        
+        m_in = decline_noun("balin", "masculine")
+        self.assertEqual(m_in["prathama"][0], "balI")
+        
+        n_as = decline_noun("manas", "neuter")
+        self.assertEqual(n_as["prathama"][2], "manAMsi")
+        
+        n_is = decline_noun("havis", "neuter")
+        self.assertEqual(n_is["tritiya"][0], "havizA")
+        
+        n_us = decline_noun("cakzus", "neuter")
+        self.assertEqual(n_us["prathama"][0], "cakzuH")
+
     def test_declension_t_c_j_karanta(self):
         t = decline_noun("marut", "masculine")
         self.assertEqual(t["prathama"][0], "marut")
@@ -106,6 +123,8 @@ class TestSanskritGenerator(unittest.TestCase):
         with self.assertRaises(ValueError): decline_noun("rAjan", "feminine")
         with self.assertRaises(ValueError): decline_noun("balin", "neuter")
         with self.assertRaises(ValueError): decline_noun("manas", "masculine")
+        with self.assertRaises(ValueError): decline_noun("havis", "masculine")
+        with self.assertRaises(ValueError): decline_noun("cakzus", "masculine")
         with self.assertRaises(ValueError): decline_noun("marut", "feminine")
         with self.assertRaises(ValueError): decline_noun("vAc", "neuter")
         with self.assertRaises(ValueError): decline_noun("vaRij", "neuter")
@@ -131,16 +150,11 @@ class TestSanskritGenerator(unittest.TestCase):
         self.assertEqual(any_fallback["prathama"][2], "azwO")
         with self.assertRaises(ValueError): decline_numeral("unknown_numeral")
 
-    # --- NEW TESTS FOR IRREGULARS ---
     def test_irregular_generation(self):
-        # We hook into decline_noun because it intercepts irregulars!
         go_m = decline_noun("go", "masculine")
         self.assertEqual(go_m["dvitiya"][0], "gAm")
-        
         strI = decline_noun("strI", "feminine")
         self.assertEqual(strI["prathama"][0], "strI")
-        
-        # Test direct call to irregular map fails correctly
         self.assertIsNone(decline_irregular("sakhi", "feminine"))
 
     def test_direct_conjugation_match(self):

@@ -49,6 +49,18 @@ def decline_at(base, gender):
     elif gender == "neuter": return {"prathama": [f"{s}at", f"{s}atI", f"{s}anti"], "dvitiya": [f"{s}at", f"{s}atI", f"{s}anti"], "tritiya": [f"{s}atA", f"{s}adByAm", f"{s}adBiH"], "caturthi": [f"{s}ate", f"{s}adByAm", f"{s}adByaH"], "panchami": [f"{s}ataH", f"{s}adByAm", f"{s}adByaH"], "sasthi": [f"{s}ataH", f"{s}atoH", f"{s}atAm"], "saptami": [f"{s}ati", f"{s}atoH", f"{s}atsu"], "sambodhana": [f"{s}an", f"{s}atI", f"{s}anti"]}
     return {}
 
+def decline_vat(base, gender):
+    s = base[:-3]
+    if gender == "masculine": return {"prathama": [f"{s}vAn", f"{s}vantO", f"{s}vantaH"], "dvitiya": [f"{s}vantam", f"{s}vantO", f"{s}vataH"], "tritiya": [f"{s}vatA", f"{s}vadByAm", f"{s}vadBiH"], "caturthi": [f"{s}vate", f"{s}vadByAm", f"{s}vadByaH"], "panchami": [f"{s}vataH", f"{s}vadByAm", f"{s}vadByaH"], "sasthi": [f"{s}vataH", f"{s}vatoH", f"{s}vatAm"], "saptami": [f"{s}vati", f"{s}vatoH", f"{s}vatsu"], "sambodhana": [f"{s}van", f"{s}vantO", f"{s}vantaH"]}
+    elif gender == "neuter": return {"prathama": [f"{s}vat", f"{s}vatI", f"{s}vanti"], "dvitiya": [f"{s}vat", f"{s}vatI", f"{s}vanti"], "tritiya": [f"{s}vatA", f"{s}vadByAm", f"{s}vadBiH"], "caturthi": [f"{s}vate", f"{s}vadByAm", f"{s}vadByaH"], "panchami": [f"{s}vataH", f"{s}vadByAm", f"{s}vadByaH"], "sasthi": [f"{s}vataH", f"{s}vatoH", f"{s}vatAm"], "saptami": [f"{s}vati", f"{s}vatoH", f"{s}vatsu"], "sambodhana": [f"{s}van", f"{s}vatI", f"{s}vanti"]}
+    return {}
+
+def decline_mat(base, gender):
+    s = base[:-3]
+    if gender == "masculine": return {"prathama": [f"{s}mAn", f"{s}mantO", f"{s}mantaH"], "dvitiya": [f"{s}mantam", f"{s}mantO", f"{s}mataH"], "tritiya": [f"{s}matA", f"{s}madByAm", f"{s}madBiH"], "caturthi": [f"{s}mate", f"{s}madByAm", f"{s}madByaH"], "panchami": [f"{s}mataH", f"{s}madByAm", f"{s}madByaH"], "sasthi": [f"{s}mataH", f"{s}matoH", f"{s}matAm"], "saptami": [f"{s}mati", f"{s}matoH", f"{s}matsu"], "sambodhana": [f"{s}man", f"{s}mantO", f"{s}mantaH"]}
+    elif gender == "neuter": return {"prathama": [f"{s}mat", f"{s}matI", f"{s}manti"], "dvitiya": [f"{s}mat", f"{s}matI", f"{s}manti"], "tritiya": [f"{s}matA", f"{s}madByAm", f"{s}madBiH"], "caturthi": [f"{s}mate", f"{s}madByAm", f"{s}madByaH"], "panchami": [f"{s}mataH", f"{s}madByAm", f"{s}madByaH"], "sasthi": [f"{s}mataH", f"{s}matoH", f"{s}matAm"], "saptami": [f"{s}mati", f"{s}matoH", f"{s}matsu"], "sambodhana": [f"{s}man", f"{s}matI", f"{s}manti"]}
+    return {}
+
 def decline_an(base, gender):
     s = base[:-2]
     if gender == "masculine": return {"prathama": [f"{s}A", f"{s}AnO", f"{s}AnaH"], "dvitiya": [f"{s}Anam", f"{s}AnO", f"{s}naH"], "tritiya": [f"{s}nA", f"{s}aByAm", f"{s}aBiH"], "caturthi": [f"{s}ne", f"{s}aByAm", f"{s}aByaH"], "panchami": [f"{s}naH", f"{s}aByAm", f"{s}aByaH"], "sasthi": [f"{s}naH", f"{s}noH", f"{s}nAm"], "saptami": [f"{s}ni", f"{s}noH", f"{s}asu"], "sambodhana": [f"{s}an", f"{s}AnO", f"{s}AnaH"]}
@@ -62,6 +74,16 @@ def decline_in(base, gender):
 def decline_as(base, gender):
     s = base[:-2]
     if gender == "neuter": return {"prathama": [f"{s}aH", f"{s}asI", f"{s}AMsi"], "dvitiya": [f"{s}aH", f"{s}asI", f"{s}AMsi"], "tritiya": [f"{s}asA", f"{s}oByAm", f"{s}oBiH"], "caturthi": [f"{s}ase", f"{s}oByAm", f"{s}oByaH"], "panchami": [f"{s}asaH", f"{s}oByAm", f"{s}oByaH"], "sasthi": [f"{s}asaH", f"{s}asoH", f"{s}asAm"], "saptami": [f"{s}asi", f"{s}asoH", f"{s}aHsu"], "sambodhana": [f"{s}aH", f"{s}asI", f"{s}AMsi"]}
+    return {}
+
+def decline_is(base, gender):
+    s = base[:-2]
+    if gender == "neuter": return {"prathama": [f"{s}iH", f"{s}izI", f"{s}IMzi"], "dvitiya": [f"{s}iH", f"{s}izI", f"{s}IMzi"], "tritiya": [f"{s}izA", f"{s}irByAm", f"{s}irBiH"], "caturthi": [f"{s}ize", f"{s}irByAm", f"{s}irByaH"], "panchami": [f"{s}izaH", f"{s}irByAm", f"{s}irByaH"], "sasthi": [f"{s}izaH", f"{s}izoH", f"{s}izAm"], "saptami": [f"{s}izi", f"{s}izoH", f"{s}iHsu"], "sambodhana": [f"{s}iH", f"{s}izI", f"{s}IMzi"]}
+    return {}
+
+def decline_us(base, gender):
+    s = base[:-2]
+    if gender == "neuter": return {"prathama": [f"{s}uH", f"{s}uzI", f"{s}UMzi"], "dvitiya": [f"{s}uH", f"{s}uzI", f"{s}UMzi"], "tritiya": [f"{s}uzA", f"{s}urByAm", f"{s}urBiH"], "caturthi": [f"{s}uze", f"{s}urByAm", f"{s}urByaH"], "panchami": [f"{s}uzaH", f"{s}urByAm", f"{s}urByaH"], "sasthi": [f"{s}uzaH", f"{s}uzoH", f"{s}uzAm"], "saptami": [f"{s}uzi", f"{s}uzoH", f"{s}uHsu"], "sambodhana": [f"{s}uH", f"{s}uzI", f"{s}UMzi"]}
     return {}
 
 def decline_t(base, gender):
@@ -95,10 +117,8 @@ def decline_h(base, gender):
     return {}
 
 def decline_noun(base, gender):
-    # First, check if it's an irregular noun that bypasses math
     irreg = decline_irregular(base, gender)
     if irreg: return irreg
-    
     res = {}
     if base.endswith('A'): res = decline_A(base, gender)
     elif base.endswith('I'): res = decline_I(base, gender)
@@ -106,10 +126,14 @@ def decline_noun(base, gender):
     elif base.endswith('i'): res = decline_i(base, gender)
     elif base.endswith('u'): res = decline_u(base, gender)
     elif base.endswith('f'): res = decline_f(base, gender)
+    elif base.endswith('vat'): res = decline_vat(base, gender)
+    elif base.endswith('mat'): res = decline_mat(base, gender)
     elif base.endswith('at'): res = decline_at(base, gender)
     elif base.endswith('an'): res = decline_an(base, gender)
     elif base.endswith('in'): res = decline_in(base, gender)
     elif base.endswith('as'): res = decline_as(base, gender)
+    elif base.endswith('is'): res = decline_is(base, gender)
+    elif base.endswith('us'): res = decline_us(base, gender)
     elif base.endswith('t'): res = decline_t(base, gender)
     elif base.endswith('c'): res = decline_c(base, gender)
     elif base.endswith('j'): res = decline_j(base, gender)

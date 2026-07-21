@@ -31,11 +31,16 @@ STEMMING_RULES = [
     (r'Anam$', 'an', 'masc', 'dvitiya', 'eka'), (r'nA$', 'an', 'masc/neut', 'tritiya', 'eka'),
     (r'I$', 'in', 'masc', 'prathama', 'eka'), (r'inO$', 'in', 'masc', 'prathama/dvitiya', 'dvi'), (r'inaH$', 'in', 'masc', 'prathama/dvitiya/panchami/sasthi', 'bahu'),
     (r'aH$', 'as', 'neut', 'prathama/dvitiya', 'eka'), (r'asI$', 'as', 'neut', 'prathama/dvitiya', 'dvi'), (r'AMsi$', 'as', 'neut', 'prathama/dvitiya', 'bahu'), (r'asA$', 'as', 'masc/neut', 'tritiya', 'eka'),
+    # --- HALANTA IS & US ---
+    (r'iH$', 'is', 'neut', 'prathama/dvitiya', 'eka'), (r'izI$', 'is', 'neut', 'prathama/dvitiya', 'dvi'), (r'IMzi$', 'is', 'neut', 'prathama/dvitiya', 'bahu'), (r'izA$', 'is', 'masc/neut', 'tritiya', 'eka'), (r'irBiH$', 'is', 'masc/neut', 'tritiya', 'bahu'),
+    (r'uH$', 'us', 'neut', 'prathama/dvitiya', 'eka'), (r'uzI$', 'us', 'neut', 'prathama/dvitiya', 'dvi'), (r'UMzi$', 'us', 'neut', 'prathama/dvitiya', 'bahu'), (r'uzA$', 'us', 'masc/neut', 'tritiya', 'eka'), (r'urBiH$', 'us', 'masc/neut', 'tritiya', 'bahu'),
+    # --- HALANTA MAT & VAT ---
+    (r'vAn$', 'vat', 'masc', 'prathama', 'eka'), (r'vantO$', 'vat', 'masc', 'prathama/dvitiya', 'dvi'), (r'vantaH$', 'vat', 'masc', 'prathama', 'bahu'), (r'vatA$', 'vat', 'masc/neut', 'tritiya', 'eka'), (r'van$', 'vat', 'masc', 'sambodhana', 'eka'),
+    (r'mAn$', 'mat', 'masc', 'prathama', 'eka'), (r'mantO$', 'mat', 'masc', 'prathama/dvitiya', 'dvi'), (r'mantaH$', 'mat', 'masc', 'prathama', 'bahu'), (r'matA$', 'mat', 'masc/neut', 'tritiya', 'eka'), (r'man$', 'mat', 'masc', 'sambodhana', 'eka'),
     (r't$', 't', 'masc/neut', 'prathama', 'eka'), (r'tO$', 't', 'masc', 'prathama/dvitiya', 'dvi'), (r'taH$', 't', 'masc/fem', 'prathama/dvitiya/panchami/sasthi', 'bahu'), (r'dByAm$', 't', 'masc/neut', 'tritiya/caturthi/panchami', 'dvi'), (r'dBiH$', 't', 'masc/neut', 'tritiya', 'bahu'),
     (r'k$', 'c', 'masc/fem', 'prathama', 'eka'), (r'k$', 'j', 'masc/fem', 'prathama', 'eka'), (r'cA$', 'c', 'masc/fem', 'tritiya', 'eka'), (r'jA$', 'j', 'masc/fem', 'tritiya', 'eka'),
     (r'gByAm$', 'c', 'masc/fem', 'tritiya/caturthi/panchami', 'dvi'), (r'gByAm$', 'j', 'masc/fem', 'tritiya/caturthi/panchami', 'dvi'), (r'kzu$', 'c', 'masc/fem', 'saptami', 'bahu'), (r'kzu$', 'j', 'masc/fem', 'saptami', 'bahu'),
     (r'cO$', 'c', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'caH$', 'c', 'masc/fem', 'panchami/sasthi', 'eka'), (r'jO$', 'j', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'jaH$', 'j', 'masc/fem', 'panchami/sasthi', 'eka'),
-    # --- HALANTA S, Z, H ---
     (r'SO$', 'S', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'SaH$', 'S', 'masc/fem', 'panchami/sasthi/bahu', 'eka/bahu'), (r'SA$', 'S', 'masc/fem', 'tritiya', 'eka'),
     (r'zO$', 'z', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'zaH$', 'z', 'masc/fem', 'panchami/sasthi/bahu', 'eka/bahu'), (r'zA$', 'z', 'masc/fem', 'tritiya', 'eka'),
     (r'hO$', 'h', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'haH$', 'h', 'masc/fem', 'panchami/sasthi/bahu', 'eka/bahu'), (r'hA$', 'h', 'masc/fem', 'tritiya', 'eka'),

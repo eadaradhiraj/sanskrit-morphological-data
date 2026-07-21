@@ -73,11 +73,20 @@ class TestSanskritAnalyzer(unittest.TestCase):
         declensions = result.get("declensions", [])
         self.assertIsNotNone(next((d for d in declensions if d["base_form"] == "rAjan" and d["case"] == "dvitiya" and d["vacana"] == "eka"), None))
 
-    def test_halanta_as_stemming(self):
-        result = analyze("manasA")
-        declensions = result.get("declensions", [])
-        self.assertIsNotNone(next((d for d in declensions if d["base_form"] == "manas" and d["case"] == "tritiya" and d["vacana"] == "eka"), None))
-        
+    def test_halanta_as_is_us_stemming(self):
+        result1 = analyze("manasA")
+        self.assertIsNotNone(next((d for d in result1.get("declensions", []) if d["base_form"] == "manas" and d["case"] == "tritiya"), None))
+        result2 = analyze("havizA")
+        self.assertIsNotNone(next((d for d in result2.get("declensions", []) if d["base_form"] == "havis" and d["case"] == "tritiya"), None))
+        result3 = analyze("cakzuH")
+        self.assertIsNotNone(next((d for d in result3.get("declensions", []) if d["base_form"] == "cakzus" and d["case"] == "prathama/dvitiya"), None))
+
+    def test_halanta_mat_vat_stemming(self):
+        result1 = analyze("BagavAn")
+        self.assertIsNotNone(next((d for d in result1.get("declensions", []) if d["base_form"] == "Bagavat" and d["case"] == "prathama"), None))
+        result2 = analyze("DIman")
+        self.assertIsNotNone(next((d for d in result2.get("declensions", []) if d["base_form"] == "DImat" and d["case"] == "sambodhana"), None))
+
     def test_halanta_in_stemming(self):
         result = analyze("balinO")
         declensions = result.get("declensions", [])
@@ -161,13 +170,13 @@ class TestSanskritAnalyzer(unittest.TestCase):
         res = analyze("SrezWaH")
         self.assertIsNotNone(next((c for c in res.get("comparatives", []) if c["base_adjective"] == "praSasya" and c["pratyaya"] == "izWan"), None))
 
-    # --- NEW TESTS FOR IRREGULAR NOUNS ---
     def test_irregular_analysis(self):
         res = analyze("saKyuH")
         self.assertIsNotNone(next((i for i in res.get("irregulars", []) if i["base_form"] == "sakhi" and i["case"] == "panchami"), None))
-        
         res2 = analyze("gAm")
         self.assertIsNotNone(next((i for i in res2.get("irregulars", []) if i["base_form"] == "go" and i["gender"] == "masculine"), None))
+        res3 = analyze("prAYcaH")
+        self.assertIsNotNone(next((i for i in res3.get("irregulars", []) if i["base_form"] == "prAYc" and i["case"] == "prathama"), None))
 
 if __name__ == "__main__": # pragma: no cover
     unittest.main(verbosity=2)
