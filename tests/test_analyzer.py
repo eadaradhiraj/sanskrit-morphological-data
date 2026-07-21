@@ -108,9 +108,8 @@ class TestSanskritAnalyzer(unittest.TestCase):
         pronouns = result.get("pronouns", [])
         self.assertIsNotNone(next((p for p in pronouns if p["base_form"] == "tad" and p["case"] == "caturthi"), None))
 
-    # --- NEW TESTS FOR TADDHITA ---
     def test_taddhita_patronymic_a(self):
-        result = analyze("vAsudevam") # Should stem to vAsudeva, then taddhita to vasudeva
+        result = analyze("vAsudevam") 
         taddhitas = result.get("taddhitas", [])
         self.assertIsNotNone(next((t for t in taddhitas if t["base_noun"] == "vasudeva" and t["pratyaya"] == "aR"), None))
 
@@ -130,14 +129,21 @@ class TestSanskritAnalyzer(unittest.TestCase):
         self.assertIsNotNone(next((t for t in taddhitas if t["base_noun"] == "guru" and t["pratyaya"] == "tva"), None))
 
     def test_taddhita_reverse_vriddhi_edge_cases(self):
-        # Testing the reverse_vriddhi function directly via the analyzer
         from skt_morph.taddhita import reverse_vriddhi
         self.assertEqual(reverse_vriddhi("A"), "a")
         self.assertEqual(reverse_vriddhi("E"), "i")
         self.assertEqual(reverse_vriddhi("O"), "u")
-        self.assertEqual(reverse_vriddhi("gArgyAyaRa"), "gargyAyaRa") # Note: Phonetic mapping for test purpose
+        self.assertEqual(reverse_vriddhi("gArgyAyaRa"), "gargyAyaRa") 
         self.assertEqual(reverse_vriddhi(""), "")
-        self.assertEqual(reverse_vriddhi("krm"), "krm") # No vowel match
+        self.assertEqual(reverse_vriddhi("krm"), "krm") 
+
+    # --- NEW TESTS FOR NUMERALS ---
+    def test_numerals_analysis(self):
+        res1 = analyze("tisraH")
+        self.assertIsNotNone(next((n for n in res1.get("numerals", []) if n["base_form"] == "tri" and n["gender"] == "feminine"), None))
+        
+        res2 = analyze("catvAri")
+        self.assertIsNotNone(next((n for n in res2.get("numerals", []) if n["base_form"] == "catur" and n["gender"] == "neuter" and n["vacana"] == "bahu"), None))
 
 if __name__ == "__main__": # pragma: no cover
     unittest.main(verbosity=2)

@@ -5,6 +5,7 @@ from .stemmer import get_stems
 from .namadhatu import analyze_namadhatu
 from .pronouns import analyze_pronoun
 from .taddhita import analyze_taddhita
+from .numerals import analyze_numeral
 
 HOME_DIR = os.path.expanduser("~")
 DB_PATH = os.path.join(HOME_DIR, ".skt_morph", "skt_morphology.db")
@@ -110,7 +111,6 @@ def analyze_declension(word_slp1):
     return results
 
 def analyze(word_slp1):
-    # To parse things like "vAsudevaH", we extract the base stems first, then run them through taddhita
     stems = [s["stem"] for s in get_stems(word_slp1)] + [word_slp1]
     taddhitas = []
     for s in set(stems): taddhitas.extend(analyze_taddhita(s))
@@ -121,5 +121,6 @@ def analyze(word_slp1):
         "declensions": analyze_declension(word_slp1),
         "namadhatus": analyze_namadhatu(word_slp1),
         "pronouns": analyze_pronoun(word_slp1),
-        "taddhitas": taddhitas
+        "taddhitas": taddhitas,
+        "numerals": analyze_numeral(word_slp1)
     }

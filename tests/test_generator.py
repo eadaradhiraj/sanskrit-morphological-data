@@ -3,6 +3,7 @@ from skt_morph.sandhi import apply_upasarga_sandhi
 from skt_morph.declension import decline_noun
 from skt_morph.generator import conjugate, get_participle_declension
 from skt_morph.pronouns import decline_pronoun
+from skt_morph.numerals import decline_numeral
 
 class TestSanskritGenerator(unittest.TestCase):
     def test_forward_sandhi(self):
@@ -104,15 +105,26 @@ class TestSanskritGenerator(unittest.TestCase):
         m = decline_pronoun("tad", "masculine")
         self.assertEqual(m["prathama"][0], "saH")
         
-        # Test default "any" parameter
         any_default = decline_pronoun("asmad")
         self.assertEqual(any_default["prathama"][0], "aham")
         
-        # Test forced specific gender hitting the "any" fallback block (LINE 37)
         any_fallback = decline_pronoun("yuzmad", "feminine")
         self.assertEqual(any_fallback["prathama"][0], "tvam")
         
         with self.assertRaises(ValueError): decline_pronoun("unknown", "masculine")
+
+    # --- NEW TESTS FOR NUMERALS ---
+    def test_numerals_generation(self):
+        m4 = decline_numeral("catur", "masculine")
+        self.assertEqual(m4["prathama"][2], "catvAraH")
+        
+        any_default = decline_numeral("paYcan")
+        self.assertEqual(any_default["prathama"][2], "paYca")
+        
+        any_fallback = decline_numeral("azwan", "feminine")
+        self.assertEqual(any_fallback["prathama"][2], "azwO")
+        
+        with self.assertRaises(ValueError): decline_numeral("unknown_numeral")
 
     def test_direct_conjugation_match(self):
         forms = conjugate("8.0010", upasarga="pra")
