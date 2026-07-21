@@ -1,4 +1,5 @@
 import re
+from .irregulars import decline_irregular
 
 def apply_natva(word):
     pattern = re.compile(r'([rfFz][aAiIuUfFxXeEoOkKgGNpPbBmyvhM]*)n(?=[aAiIuUfFxXeEoOmyv])')
@@ -78,7 +79,26 @@ def decline_j(base, gender):
     if gender in ["masculine", "feminine"]: return {"prathama": [f"{s}k", f"{base}O", f"{base}aH"], "dvitiya": [f"{base}am", f"{base}O", f"{base}aH"], "tritiya": [f"{base}A", f"{s}gByAm", f"{s}gBiH"], "caturthi": [f"{base}e", f"{s}gByAm", f"{s}gByaH"], "panchami": [f"{base}aH", f"{s}gByAm", f"{s}gByaH"], "sasthi": [f"{base}aH", f"{base}oH", f"{base}Am"], "saptami": [f"{base}i", f"{base}oH", f"{s}kzu"], "sambodhana": [f"{s}k", f"{base}O", f"{base}aH"]}
     return {}
 
+def decline_S(base, gender):
+    s = base[:-1]
+    if gender in ["masculine", "feminine"]: return {"prathama": [f"{s}k", f"{base}O", f"{base}aH"], "dvitiya": [f"{base}am", f"{base}O", f"{base}aH"], "tritiya": [f"{base}A", f"{s}gByAm", f"{s}gBiH"], "caturthi": [f"{base}e", f"{s}gByAm", f"{s}gByaH"], "panchami": [f"{base}aH", f"{s}gByAm", f"{s}gByaH"], "sasthi": [f"{base}aH", f"{base}oH", f"{base}Am"], "saptami": [f"{base}i", f"{base}oH", f"{s}kzu"], "sambodhana": [f"{s}k", f"{base}O", f"{base}aH"]}
+    return {}
+
+def decline_z(base, gender):
+    s = base[:-1]
+    if gender in ["masculine", "feminine"]: return {"prathama": [f"{s}w", f"{base}O", f"{base}aH"], "dvitiya": [f"{base}am", f"{base}O", f"{base}aH"], "tritiya": [f"{base}A", f"{s}qByAm", f"{s}qBiH"], "caturthi": [f"{base}e", f"{s}qByAm", f"{s}qByaH"], "panchami": [f"{base}aH", f"{s}qByAm", f"{s}qByaH"], "sasthi": [f"{base}aH", f"{base}oH", f"{base}Am"], "saptami": [f"{base}i", f"{base}oH", f"{s}wsu"], "sambodhana": [f"{s}w", f"{base}O", f"{base}aH"]}
+    return {}
+
+def decline_h(base, gender):
+    s = base[:-1]
+    if gender in ["masculine", "feminine"]: return {"prathama": [f"{s}w", f"{base}O", f"{base}aH"], "dvitiya": [f"{base}am", f"{base}O", f"{base}aH"], "tritiya": [f"{base}A", f"{s}qByAm", f"{s}qBiH"], "caturthi": [f"{base}e", f"{s}qByAm", f"{s}qByaH"], "panchami": [f"{base}aH", f"{s}qByAm", f"{s}qByaH"], "sasthi": [f"{base}aH", f"{base}oH", f"{base}Am"], "saptami": [f"{base}i", f"{base}oH", f"{s}wsu"], "sambodhana": [f"{s}w", f"{base}O", f"{base}aH"]}
+    return {}
+
 def decline_noun(base, gender):
+    # First, check if it's an irregular noun that bypasses math
+    irreg = decline_irregular(base, gender)
+    if irreg: return irreg
+    
     res = {}
     if base.endswith('A'): res = decline_A(base, gender)
     elif base.endswith('I'): res = decline_I(base, gender)
@@ -93,6 +113,9 @@ def decline_noun(base, gender):
     elif base.endswith('t'): res = decline_t(base, gender)
     elif base.endswith('c'): res = decline_c(base, gender)
     elif base.endswith('j'): res = decline_j(base, gender)
+    elif base.endswith('S'): res = decline_S(base, gender)
+    elif base.endswith('z'): res = decline_z(base, gender)
+    elif base.endswith('h'): res = decline_h(base, gender)
     if not res: raise ValueError(f"Generation for base '{base}' in gender '{gender}' not supported yet.")
     for case, forms in res.items(): res[case] = [apply_natva(w) for w in forms]
     return res

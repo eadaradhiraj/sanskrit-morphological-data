@@ -88,6 +88,14 @@ class TestSanskritAnalyzer(unittest.TestCase):
         declensions = result.get("declensions", [])
         self.assertIsNotNone(next((d for d in declensions if d["base_form"] == "vAc" and d["case"] == "panchami/sasthi"), None))
 
+    def test_halanta_s_z_h_stemming(self):
+        result1 = analyze("diSO")
+        self.assertIsNotNone(next((d for d in result1.get("declensions", []) if d["base_form"] == "diS" and d["vacana"] == "dvi"), None))
+        result2 = analyze("dviwsu")
+        self.assertIsNotNone(next((d for d in result2.get("declensions", []) if d["base_form"] == "dviz" and d["case"] == "saptami"), None))
+        result3 = analyze("lihA")
+        self.assertIsNotNone(next((d for d in result3.get("declensions", []) if d["base_form"] == "lih" and d["case"] == "tritiya"), None))
+
     def test_namadhatu_kyac(self):
         result = analyze("putrIyati")
         namadhatus = result.get("namadhatus", [])
@@ -137,13 +145,29 @@ class TestSanskritAnalyzer(unittest.TestCase):
         self.assertEqual(reverse_vriddhi(""), "")
         self.assertEqual(reverse_vriddhi("krm"), "krm") 
 
-    # --- NEW TESTS FOR NUMERALS ---
     def test_numerals_analysis(self):
         res1 = analyze("tisraH")
         self.assertIsNotNone(next((n for n in res1.get("numerals", []) if n["base_form"] == "tri" and n["gender"] == "feminine"), None))
-        
         res2 = analyze("catvAri")
         self.assertIsNotNone(next((n for n in res2.get("numerals", []) if n["base_form"] == "catur" and n["gender"] == "neuter" and n["vacana"] == "bahu"), None))
+
+    def test_comparatives_regular(self):
+        res = analyze("gurutaram")
+        self.assertIsNotNone(next((c for c in res.get("comparatives", []) if c["base_adjective"] == "guru" and c["pratyaya"] == "tarap"), None))
+        res2 = analyze("gurutamaH")
+        self.assertIsNotNone(next((c for c in res2.get("comparatives", []) if c["base_adjective"] == "guru" and c["pratyaya"] == "tamap"), None))
+
+    def test_comparatives_irregular(self):
+        res = analyze("SrezWaH")
+        self.assertIsNotNone(next((c for c in res.get("comparatives", []) if c["base_adjective"] == "praSasya" and c["pratyaya"] == "izWan"), None))
+
+    # --- NEW TESTS FOR IRREGULAR NOUNS ---
+    def test_irregular_analysis(self):
+        res = analyze("saKyuH")
+        self.assertIsNotNone(next((i for i in res.get("irregulars", []) if i["base_form"] == "sakhi" and i["case"] == "panchami"), None))
+        
+        res2 = analyze("gAm")
+        self.assertIsNotNone(next((i for i in res2.get("irregulars", []) if i["base_form"] == "go" and i["gender"] == "masculine"), None))
 
 if __name__ == "__main__": # pragma: no cover
     unittest.main(verbosity=2)

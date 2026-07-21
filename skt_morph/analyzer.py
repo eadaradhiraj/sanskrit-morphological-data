@@ -6,6 +6,8 @@ from .namadhatu import analyze_namadhatu
 from .pronouns import analyze_pronoun
 from .taddhita import analyze_taddhita
 from .numerals import analyze_numeral
+from .comparatives import analyze_comparative
+from .irregulars import analyze_irregular
 
 HOME_DIR = os.path.expanduser("~")
 DB_PATH = os.path.join(HOME_DIR, ".skt_morph", "skt_morphology.db")
@@ -113,7 +115,10 @@ def analyze_declension(word_slp1):
 def analyze(word_slp1):
     stems = [s["stem"] for s in get_stems(word_slp1)] + [word_slp1]
     taddhitas = []
-    for s in set(stems): taddhitas.extend(analyze_taddhita(s))
+    comparatives = []
+    for s in set(stems): 
+        taddhitas.extend(analyze_taddhita(s))
+        comparatives.extend(analyze_comparative(s))
 
     return {
         "verbs": analyze_verb(word_slp1),
@@ -122,5 +127,7 @@ def analyze(word_slp1):
         "namadhatus": analyze_namadhatu(word_slp1),
         "pronouns": analyze_pronoun(word_slp1),
         "taddhitas": taddhitas,
-        "numerals": analyze_numeral(word_slp1)
+        "numerals": analyze_numeral(word_slp1),
+        "comparatives": comparatives,
+        "irregulars": analyze_irregular(word_slp1)
     }

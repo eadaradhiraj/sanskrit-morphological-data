@@ -4,6 +4,7 @@ from skt_morph.declension import decline_noun
 from skt_morph.generator import conjugate, get_participle_declension
 from skt_morph.pronouns import decline_pronoun
 from skt_morph.numerals import decline_numeral
+from skt_morph.irregulars import decline_irregular
 
 class TestSanskritGenerator(unittest.TestCase):
     def test_forward_sandhi(self):
@@ -89,6 +90,14 @@ class TestSanskritGenerator(unittest.TestCase):
         j = decline_noun("vaRij", "masculine")
         self.assertEqual(j["saptami"][2], "vaRikzu")
 
+    def test_declension_S_z_h_karanta(self):
+        S = decline_noun("diS", "feminine")
+        self.assertEqual(S["prathama"][0], "dik")
+        z = decline_noun("dviz", "masculine")
+        self.assertEqual(z["prathama"][0], "dviw")
+        h = decline_noun("lih", "masculine")
+        self.assertEqual(h["saptami"][2], "liwsu")
+
     def test_invalid_base(self):
         with self.assertRaises(ValueError): decline_noun("pazU", "masculine")
         with self.assertRaises(ValueError): decline_noun("hari", "unknown") 
@@ -100,31 +109,39 @@ class TestSanskritGenerator(unittest.TestCase):
         with self.assertRaises(ValueError): decline_noun("marut", "feminine")
         with self.assertRaises(ValueError): decline_noun("vAc", "neuter")
         with self.assertRaises(ValueError): decline_noun("vaRij", "neuter")
+        with self.assertRaises(ValueError): decline_noun("diS", "neuter")
+        with self.assertRaises(ValueError): decline_noun("dviz", "neuter")
+        with self.assertRaises(ValueError): decline_noun("lih", "neuter")
         
     def test_pronouns(self):
         m = decline_pronoun("tad", "masculine")
         self.assertEqual(m["prathama"][0], "saH")
-        
         any_default = decline_pronoun("asmad")
         self.assertEqual(any_default["prathama"][0], "aham")
-        
         any_fallback = decline_pronoun("yuzmad", "feminine")
         self.assertEqual(any_fallback["prathama"][0], "tvam")
-        
         with self.assertRaises(ValueError): decline_pronoun("unknown", "masculine")
 
-    # --- NEW TESTS FOR NUMERALS ---
     def test_numerals_generation(self):
         m4 = decline_numeral("catur", "masculine")
         self.assertEqual(m4["prathama"][2], "catvAraH")
-        
         any_default = decline_numeral("paYcan")
         self.assertEqual(any_default["prathama"][2], "paYca")
-        
         any_fallback = decline_numeral("azwan", "feminine")
         self.assertEqual(any_fallback["prathama"][2], "azwO")
-        
         with self.assertRaises(ValueError): decline_numeral("unknown_numeral")
+
+    # --- NEW TESTS FOR IRREGULARS ---
+    def test_irregular_generation(self):
+        # We hook into decline_noun because it intercepts irregulars!
+        go_m = decline_noun("go", "masculine")
+        self.assertEqual(go_m["dvitiya"][0], "gAm")
+        
+        strI = decline_noun("strI", "feminine")
+        self.assertEqual(strI["prathama"][0], "strI")
+        
+        # Test direct call to irregular map fails correctly
+        self.assertIsNone(decline_irregular("sakhi", "feminine"))
 
     def test_direct_conjugation_match(self):
         forms = conjugate("8.0010", upasarga="pra")

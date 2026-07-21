@@ -31,12 +31,17 @@ STEMMING_RULES = [
     (r'Anam$', 'an', 'masc', 'dvitiya', 'eka'), (r'nA$', 'an', 'masc/neut', 'tritiya', 'eka'),
     (r'I$', 'in', 'masc', 'prathama', 'eka'), (r'inO$', 'in', 'masc', 'prathama/dvitiya', 'dvi'), (r'inaH$', 'in', 'masc', 'prathama/dvitiya/panchami/sasthi', 'bahu'),
     (r'aH$', 'as', 'neut', 'prathama/dvitiya', 'eka'), (r'asI$', 'as', 'neut', 'prathama/dvitiya', 'dvi'), (r'AMsi$', 'as', 'neut', 'prathama/dvitiya', 'bahu'), (r'asA$', 'as', 'masc/neut', 'tritiya', 'eka'),
-    # --- HALANTA T/D ---
     (r't$', 't', 'masc/neut', 'prathama', 'eka'), (r'tO$', 't', 'masc', 'prathama/dvitiya', 'dvi'), (r'taH$', 't', 'masc/fem', 'prathama/dvitiya/panchami/sasthi', 'bahu'), (r'dByAm$', 't', 'masc/neut', 'tritiya/caturthi/panchami', 'dvi'), (r'dBiH$', 't', 'masc/neut', 'tritiya', 'bahu'),
-    # --- HALANTA C & J ---
     (r'k$', 'c', 'masc/fem', 'prathama', 'eka'), (r'k$', 'j', 'masc/fem', 'prathama', 'eka'), (r'cA$', 'c', 'masc/fem', 'tritiya', 'eka'), (r'jA$', 'j', 'masc/fem', 'tritiya', 'eka'),
     (r'gByAm$', 'c', 'masc/fem', 'tritiya/caturthi/panchami', 'dvi'), (r'gByAm$', 'j', 'masc/fem', 'tritiya/caturthi/panchami', 'dvi'), (r'kzu$', 'c', 'masc/fem', 'saptami', 'bahu'), (r'kzu$', 'j', 'masc/fem', 'saptami', 'bahu'),
-    (r'cO$', 'c', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'caH$', 'c', 'masc/fem', 'panchami/sasthi', 'eka'), (r'jO$', 'j', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'jaH$', 'j', 'masc/fem', 'panchami/sasthi', 'eka')
+    (r'cO$', 'c', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'caH$', 'c', 'masc/fem', 'panchami/sasthi', 'eka'), (r'jO$', 'j', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'jaH$', 'j', 'masc/fem', 'panchami/sasthi', 'eka'),
+    # --- HALANTA S, Z, H ---
+    (r'SO$', 'S', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'SaH$', 'S', 'masc/fem', 'panchami/sasthi/bahu', 'eka/bahu'), (r'SA$', 'S', 'masc/fem', 'tritiya', 'eka'),
+    (r'zO$', 'z', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'zaH$', 'z', 'masc/fem', 'panchami/sasthi/bahu', 'eka/bahu'), (r'zA$', 'z', 'masc/fem', 'tritiya', 'eka'),
+    (r'hO$', 'h', 'masc/fem', 'prathama/dvitiya', 'dvi'), (r'haH$', 'h', 'masc/fem', 'panchami/sasthi/bahu', 'eka/bahu'), (r'hA$', 'h', 'masc/fem', 'tritiya', 'eka'),
+    (r'w$', 'z', 'masc/fem', 'prathama', 'eka'), (r'w$', 'h', 'masc/fem', 'prathama', 'eka'), 
+    (r'qByAm$', 'z', 'masc/fem', 'tritiya/caturthi/panchami', 'dvi'), (r'qByAm$', 'h', 'masc/fem', 'tritiya/caturthi/panchami', 'dvi'),
+    (r'wsu$', 'z', 'masc/fem', 'saptami', 'bahu'), (r'wsu$', 'h', 'masc/fem', 'saptami', 'bahu'),
 ]
 
 def get_stems(word_slp1):
