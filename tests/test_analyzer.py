@@ -108,5 +108,36 @@ class TestSanskritAnalyzer(unittest.TestCase):
         pronouns = result.get("pronouns", [])
         self.assertIsNotNone(next((p for p in pronouns if p["base_form"] == "tad" and p["case"] == "caturthi"), None))
 
+    # --- NEW TESTS FOR TADDHITA ---
+    def test_taddhita_patronymic_a(self):
+        result = analyze("vAsudevam") # Should stem to vAsudeva, then taddhita to vasudeva
+        taddhitas = result.get("taddhitas", [])
+        self.assertIsNotNone(next((t for t in taddhitas if t["base_noun"] == "vasudeva" and t["pratyaya"] == "aR"), None))
+
+    def test_taddhita_patronymic_i(self):
+        result = analyze("dASaraTiH")
+        taddhitas = result.get("taddhitas", [])
+        self.assertIsNotNone(next((t for t in taddhitas if t["base_noun"] == "daSaraTa" and t["pratyaya"] == "iY"), None))
+
+    def test_taddhita_patronymic_eya(self):
+        result = analyze("kOnteya")
+        taddhitas = result.get("taddhitas", [])
+        self.assertIsNotNone(next((t for t in taddhitas if t["base_noun"] == "kuntI" and t["pratyaya"] == "Qak"), None))
+
+    def test_taddhita_abstract_tva(self):
+        result = analyze("gurutvam")
+        taddhitas = result.get("taddhitas", [])
+        self.assertIsNotNone(next((t for t in taddhitas if t["base_noun"] == "guru" and t["pratyaya"] == "tva"), None))
+
+    def test_taddhita_reverse_vriddhi_edge_cases(self):
+        # Testing the reverse_vriddhi function directly via the analyzer
+        from skt_morph.taddhita import reverse_vriddhi
+        self.assertEqual(reverse_vriddhi("A"), "a")
+        self.assertEqual(reverse_vriddhi("E"), "i")
+        self.assertEqual(reverse_vriddhi("O"), "u")
+        self.assertEqual(reverse_vriddhi("gArgyAyaRa"), "gargyAyaRa") # Note: Phonetic mapping for test purpose
+        self.assertEqual(reverse_vriddhi(""), "")
+        self.assertEqual(reverse_vriddhi("krm"), "krm") # No vowel match
+
 if __name__ == "__main__": # pragma: no cover
     unittest.main(verbosity=2)

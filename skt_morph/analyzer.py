@@ -4,6 +4,7 @@ from .sandhi import get_upasarga_splits
 from .stemmer import get_stems
 from .namadhatu import analyze_namadhatu
 from .pronouns import analyze_pronoun
+from .taddhita import analyze_taddhita
 
 HOME_DIR = os.path.expanduser("~")
 DB_PATH = os.path.join(HOME_DIR, ".skt_morph", "skt_morphology.db")
@@ -19,8 +20,7 @@ def _get_db_connection():
 def _extract_exact_matches(row, word, columns):
     matched = []
     for col in columns:
-        if row[col]:
-            if word in [f.strip() for f in row[col].split(',')]: matched.append(col)
+        if row[col] and word in [f.strip() for f in row[col].split(',')]: matched.append(col)
     return matched
 
 def _is_valid_participle(conn, dhatu_id, upasarga, pratyaya):
@@ -47,11 +47,9 @@ def analyze_verb(word_slp1):
     results = _fetch_verbs_from_db(word_slp1)
     if not results:
         for upa, stripped in get_upasarga_splits(word_slp1):
-            sub_results = _fetch_verbs_from_db(stripped)
-            for res in sub_results:
+            for res in _fetch_verbs_from_db(stripped):
                 if res["upasarga"] == "":  
-                    res["upasarga"] = upa
-                    res["note"] = "Dynamically matched via Sandhi split"
+                    res["upasarga"] = upa; res["note"] = "Dynamically matched via Sandhi split"
                     results.append(res)
             if results: break 
     return results
@@ -80,8 +78,7 @@ def analyze_participle_base(word_slp1):
         for upa, stripped in get_upasarga_splits(word_slp1):
             for res in _fetch_participles_from_db(stripped):
                 if res["upasarga"] == "": 
-                    res["upasarga"] = upa
-                    res["note"] = "Dynamically matched via Sandhi split"
+                    res["upasarga"] = upa; res["note"] = "Dynamically matched via Sandhi split"
                     results.append(res)
             if results: break
     return results
@@ -113,10 +110,16 @@ def analyze_declension(word_slp1):
     return results
 
 def analyze(word_slp1):
+    # To parse things like "vAsudevaH", we extract the base stems first, then run them through taddhita
+    stems = [s["stem"] for s in get_stems(word_slp1)] + [word_slp1]
+    taddhitas = []
+    for s in set(stems): taddhitas.extend(analyze_taddhita(s))
+
     return {
         "verbs": analyze_verb(word_slp1),
         "participles": analyze_participle_base(word_slp1),
         "declensions": analyze_declension(word_slp1),
         "namadhatus": analyze_namadhatu(word_slp1),
-        "pronouns": analyze_pronoun(word_slp1)
+        "pronouns": analyze_pronoun(word_slp1),
+        "taddhitas": taddhitas
     }
